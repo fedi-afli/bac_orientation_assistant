@@ -1,484 +1,1464 @@
 ================================================================================
 CHUNK #1
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 954 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 374 characters
 --------------------------------------------------------------------------------
-# ==============================================================================
-# KNOWLEDGE BASE: TUNISIAN UNIVERSITY ORIENTATION GUIDE (2025)
-# TARGET AUDIENCE: French Baccalaureate Holders from Homologated Lycées in Tunisia
-# PURPOSE: Optimized Data Source for RAG (Retrieval-Augmented Generation) Systems
-# ==============================================================================
-# SECTION 1: SYSTEM OVERVIEW & ELIGIBILITY
-- Concept: The Tunisian University Orientation is a competitive national placement system (concours) enabling new French baccalaureate graduates to access public higher education institutions in Tunisia based on order of merit.
-- Key Determinants for Placement:
-1. Score (T): Calculated using specific formulas based on baccalaureate examination grades.
-2. Institutional Capacity: Open seats allocated per major/institution.
-3. Preference Hierarchy: The chronological ranking of choices on the student's submission sheet.
+# Document Relatif à l'Orientation Universitaire 2025 (Tunisie)
+
+Ce document est structuré et optimisé de manière sémantique pour l'indexation et le découpage (chunking) au sein d'un système RAG (Retrieval-Augmented Generation). Chaque section conserve son contexte parent afin de garantir des réponses précises du chatbot.
+
+---
+
+## 1. Informations Générales et Public Cible
 
 ================================================================================
 CHUNK #2
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 802 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 376 characters
 --------------------------------------------------------------------------------
-2. Institutional Capacity: Open seats allocated per major/institution.
-3. Preference Hierarchy: The chronological ranking of choices on the student's submission sheet.
-- Scope of Application: Valid exclusively for regular students holding a General or Technological (STMG) French Baccalaureate (Session 2025) from the following homologated educational institutions in Tunisia:
-* Lycée Pierre-Mendès-France (Tunis)
-* Lycée Gustave Flaubert (La Marsa)
-* École Internationale de Carthage
+## 1. Informations Générales et Public Cible
+
+### Contexte du Guide
+Le présent document constitue le **Guide de l'Orientation Universitaire 2025** en République Tunisienne (Ministère de l'Enseignement Supérieur et de la Recherche Scientifique). Il présente l'ensemble des règles, procédures, calendriers et filières de l'orientation vers les établissements publics en Tunisie.
+
+================================================================================
+CHUNK #3
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 202 characters
+--------------------------------------------------------------------------------
+### Public Cible Éligible
+Ce guide est destiné exclusivement aux **élèves réguliers des lycées homologués en Tunisie**, titulaires du **baccalauréat général ou technologique (STMG) de la session 2025**.
+
+================================================================================
+CHUNK #4
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 371 characters
+--------------------------------------------------------------------------------
+#### Liste des 11 Lycées Homologués Concernés :
+* Lycée Pierre-Mendès-France
+* Lycée Gustave Flaubert La Marsa
+* Ecole Internationale de Carthage
 * Lycée Louis-Pasteur
-* École Internationale de Tunis
+* Ecole Internationale de Tunis
 * Lycée Scolaire René-Descartes
 * Lycée Français International de Sousse - Mhamed Driss
 * Lycée Gustave Eiffel de Bizerte
 * Lycée Français International Victor Hugo Djerba
-* École Internationale de Sfax
-* Groupe scolaire René Descartes - Les Berges du Lac (Tunis)
 
 ================================================================================
-CHUNK #3
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 992 characters
+CHUNK #5
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 231 characters
 --------------------------------------------------------------------------------
 * Lycée Français International de Sousse - Mhamed Driss
 * Lycée Gustave Eiffel de Bizerte
 * Lycée Français International Victor Hugo Djerba
 * École Internationale de Sfax
 * Groupe scolaire René Descartes - Les Berges du Lac (Tunis)
-- Platform & Exclusivity: All operations—including password distribution, personal data corrections, choice entry, and outcome publishing—happen exclusively via the official website: www.orientation.tn. No physical submissions are valid.
-# SECTION 2: THE ORIENTATION TIMELINE & ADMINISTRATIVE STAGES (2025)
-- Stage 2.1: Credential Distribution
-* Date: Starting Saturday, June 28, 2025.
-* Delivery: Credentials (access parameters) are dispatched directly to the candidate's registered personal email.
-* Parameters Provided: Baccalaureate registration number, security Password, and National Identity Card (CIN) number. For students without a valid CIN, a placeholder code containing eight nines (99999999) is used.
-- Stage 2.2: Profile Verification & Correction
-
-================================================================================
-CHUNK #4
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 981 characters
---------------------------------------------------------------------------------
-- Stage 2.2: Profile Verification & Correction
-* Date: Starting Wednesday, July 16, 2025.
-* Procedure: Candidates log into www.orientation.tn using email parameters, click on "Correction des informations personnelles", edit incorrect fields, and save.
-* Mutable Fields: First Name, Last Name, Date of Birth, Gender, National Identity Card (CIN) number.
-* Critical Alert: Verifying or correcting the CIN is mandatory to prevent terminal enrollment blocks during registration. Once edited and saved, subsequent logins strictly require the revised parameters.
-- Stage 2.3: Orientation Public Briefings (Journées d'Information)
-* Dates: July 17, 18, and 19, 2025.
-* Venue: Cité des Sciences de Tunis.
-* Features: University exhibitions, presentations by student works offices, institutional symposia tracking higher education options, immediate feedback desks with university faculty, supervisors, and career orientation counselors.
-# SECTION 3: REQUISITE CHOICES & SUBMISSION POLICIES
-
-================================================================================
-CHUNK #5
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 957 characters
---------------------------------------------------------------------------------
-# SECTION 3: REQUISITE CHOICES & SUBMISSION POLICIES
-- Minimum Choice Rule: Every candidate participating in either the Main (Session Principale) or Final (Session Finale) cycles MUST select and input a minimum of six (06) distinct university programs (filières).
-- Enforcement Mechanism: The computerized orientation algorithm completely blocks and rejects any submission entry containing fewer than 6 program codes. It will not save the entry.
-- User Safety Action: After submitting choices online, candidates must confirm that a formal digital receipt is generated and displayed on screen. Choices are completely open to updates or revision at any time prior to the absolute closing deadline of the active session.
-# SECTION 4: MATHEMATICAL FORMULAS FOR SCORING & MERIT RANKS
-The academic rank is based on a dual-metric calculation: the Global Formula (Formule Globale - FG) and the program-specific Orientation Score (T).
-## 4.1: The Global Formula (FG)
 
 ================================================================================
 CHUNK #6
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 977 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 353 characters
 --------------------------------------------------------------------------------
-# SECTION 4: MATHEMATICAL FORMULAS FOR SCORING & MERIT RANKS
-The academic rank is based on a dual-metric calculation: the Global Formula (Formule Globale - FG) and the program-specific Orientation Score (T).
-## 4.1: The Global Formula (FG)
-The FG establishes the foundational grade weight out of 100 based on core terminal examination grades.
-- For General Baccalaureate (Bac Général):
-Formula: FG = (4 * MF) + (1.5 * PH) + (0.5 * HG) + (0.5 * E.Sc) + (1.5 * GO) + (1 * F) + (1 * LV)
-- For Technological Baccalaureate (Bac STMG):
-Formula: FG = (4 * MF) + (1 * PH) + (1 * HG) + (1 * M) + (1 * GO) + (1 * F) + (1 * LV)
-Abbreviation Glossary:
-* MF: Moyenne Finale (Overall Final Baccalaureate Average Grade out of 20)
-* PH: Philosophie (Philosophy Grade)
-* HG: Histoire-Géographie (History-Geography Grade)
-* E.Sc: Enseignement Scientifique (Scientific Education Grade - For General Baccalaureate only)
-* M: Mathématiques (Mathematics Grade - For Technological Baccalaureate only)
+### Portails Web Principaux
+* **Site officiel unique de l'orientation :** `www.orientation.tn`
+* **Annuaire Tunisien des Offres de Formations Universitaires (LMD & Hors LMD) :** `https://uni-formation.rnu.tn/`
+* **Paiement des frais d'inscription à distance :** `www.inscription.tn`
+* **Bourses et prêts universitaires à l'étranger :** `www.best.rnu.tn`
 
 ================================================================================
 CHUNK #7
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 954 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 383 characters
 --------------------------------------------------------------------------------
-* HG: Histoire-Géographie (History-Geography Grade)
-* E.Sc: Enseignement Scientifique (Scientific Education Grade - For General Baccalaureate only)
-* M: Mathématiques (Mathematics Grade - For Technological Baccalaureate only)
-* GO: Grand Oral (Grand Oral Examination Grade)
-* F: Français (French Language and Literature Grade)
-* LV: Moyenne de la Langue Vivante A et B (Average of Modern Foreign Languages A and B)
-## 4.2: Program Orientation Score (T)
-The system calculates a custom score for every unique course preference code selected by the student.
-- Base Rule: T = FG + (Moyenne des notes des matières spécifiques à la filière)
-- Scope Limitation: Only specialty course tracks studied during the final terminal year (classe terminale) can be pulled into the specialized grade average component of the T score.
-- Availability: Custom calculated FG grades and individual merit brackets are displayed inside www.orientation.tn starting July 16, 2025.
+### Liste des Universités Publiques et Réseaux :
+| Établissement / Réseau | Site Web Officiel |
+| :--- | :--- |
+| Université de Monastir | `www.um.rnu.tn` |
+| Université Zitouna | `www.uz.rnu.tn` |
+| Université de Kairouan | `www.univ-k.rnu.tn` |
+| Université de Tunis | `www.utunis.rnu.tn` |
+| Université de Sfax | `www.uss.rnu.tn` |
+| Université de Tunis Manar | `www.utm.rnu.tn` |
 
 ================================================================================
 CHUNK #8
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 817 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 363 characters
 --------------------------------------------------------------------------------
-- Availability: Custom calculated FG grades and individual merit brackets are displayed inside www.orientation.tn starting July 16, 2025.
-## 4.3: Adjustments for Remedial Session (Session de Rattrapage) Candidates
-For high school seniors passing their baccalaureate via the second-chance session, individual grades and averages undergo standard arithmetic smoothing:
-- Normalized Subject Grade = [(Grade from Main Session * 2) + Grade from Remedial Session] / 3
-- Normalized Session Average = [(Average from Main Session * 2) + Average from Remedial Session] / 3
-# SECTION 5: OPERATIONAL PHASES & CHRONOLOGICAL SESSIONS (2025)
-## Phase 5.1: Elite/Lauréats Session
-- Target Group: Exceptional performers tracking entry into Elite Engineering Prep Schools in Tunisia (IPEST) or Elite Grand École prep classes in France.
+| Université de Tunis | `www.utunis.rnu.tn` |
+| Université de Sfax | `www.uss.rnu.tn` |
+| Université de Tunis Manar | `www.utm.rnu.tn` |
+| Université de Jendouba | `www.uj.rnu.tn` |
+| Université de Carthage | `www.ucar.rnu.tn` |
+| Université de Gabès | `www.univgb.rnu.tn` |
+| Université de Manouba | `www.uma.rnu.tn` |
+| Université de Gafsa | `www.ugaf.rnu.tn` |
 
 ================================================================================
 CHUNK #9
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 723 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 336 characters
 --------------------------------------------------------------------------------
-## Phase 5.1: Elite/Lauréats Session
-- Target Group: Exceptional performers tracking entry into Elite Engineering Prep Schools in Tunisia (IPEST) or Elite Grand École prep classes in France.
-- Entry Thresholds: Must hold Tunisian nationality, be fully registered in an approved local homologated high school, and hold a comprehensive year-end terminal average grade equal to or exceeding 16.00/20 (Group 1 criteria).
-- Saisie des Choix (Choice Window): July 03 to July 05, 2025.
-- Publication of Placement Lists: July 08, 2025.
-- Mandatory Confirmation Meetings (Réunions de Confirmation):
-* French Grand École Prep Placements: Thursday, July 10, 2025 (at 09:00 AM).
-* Tunisian IPEST Prep Placements: Monday, July 14, 2025.
+| Université de Gabès | `www.univgb.rnu.tn` |
+| Université de Manouba | `www.uma.rnu.tn` |
+| Université de Gafsa | `www.ugaf.rnu.tn` |
+| Université de Sousse | `www.uc.rnu.tn` |
+| Direction Générale des Études Technologiques (Réseau ISET) | `concours-isets.rnu.tn` |
+| Office des œuvres universitaires pour le Nord | `www.ooun.rnu.tn` |
 
 ================================================================================
 CHUNK #10
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 942 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 396 characters
 --------------------------------------------------------------------------------
-- Publication of Placement Lists: July 08, 2025.
-- Mandatory Confirmation Meetings (Réunions de Confirmation):
-* French Grand École Prep Placements: Thursday, July 10, 2025 (at 09:00 AM).
-* Tunisian IPEST Prep Placements: Monday, July 14, 2025.
-* Execution Protocol: Retained candidates and immediate waiting-list prospects must appear physically at IPEST headquarters with an original National ID copy to confirm. Absolute default and replacement by the next inline waiting list applicant occurs for any candidate absent from these sessions.
-- Exit Protocol / Main Re-entry: Confirmed candidates are barred from other placement routes. If a student chooses to forfeit a confirmed elite assignment, they must file a signed, legally witnessed (signature légalisée) written withdrawal request at the Ministry's general registry on or before July 24, 2025, to gain clearance to re-enter the Main Session.
-- Standard IPEST Track Allocation Codes:
+| Office des œuvres universitaires pour le Nord | `www.ooun.rnu.tn` |
+| Office des œuvres universitaires pour le Centre | `www.oouc.rnu.tn` |
+| Office des œuvres universitaires pour le Sud | `www.oous.rnu.tn` |
+| Direction générale de la rénovation universitaire | `www.uni-renov.rnu.tn` |
+| Les études d'ingénieur | `www.cningenieur.rnu.tn` |
+| Université virtuelle de Tunis | `www.uvt.rnu.tn` |
 
 ================================================================================
 CHUNK #11
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 944 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 398 characters
 --------------------------------------------------------------------------------
-- Standard IPEST Track Allocation Codes:
-* Classes préparatoires en France - MPSI (Garçon/Boys): Code 99201 | Capacity: 06 seats
-* Classes préparatoires en France - MPSI (Fille/Girls): Code 99214 | Capacity: 06 seats
-* Classes préparatoires en France - PCSI (Garçon/Boys): Code 99202 | Capacity: 02 seats
-* Classes préparatoires en France - PCSI (Fille/Girls): Code 99215 | Capacity: 02 seats
-* Classes préparatoires à IPEST - MPSI (Co-ed): Code 99101 | Capacity: 80 seats
-## Phase 5.2: Main Session (Session Principale)
-- Target Group: Standard entry track open generally to all 2025 French General Baccalaureate and Technological (STMG) graduates.
-- Choice Submission Window: July 23 to July 27, 2025.
-- Publication of Results: August 01, 2025.
-- Penalty Rule: Failure to input entries during this strict calendar window automatically downgrades the candidate, forcing them into the Final Session.
-## Phase 5.3: Final Session (Session Finale)
+## 3. Critères d'Affectation et Paramètres d'Accès
+
+### Les 3 Piliers de l'Affectation
+L'orientation universitaire est un concours basé sur **l'ordre du mérite**. L'affectation finale d'un candidat dépend de :
+1. Un **score calculé (T)** basé sur les notes obtenues au baccalauréat.
+2. La **capacité d'accueil** de la filière demandée.
+3. L'**ordre de priorité des choix** formulés par le candidat.
 
 ================================================================================
 CHUNK #12
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 965 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 253 characters
 --------------------------------------------------------------------------------
-- Publication of Results: August 01, 2025.
-- Penalty Rule: Failure to input entries during this strict calendar window automatically downgrades the candidate, forcing them into the Final Session.
-## Phase 5.3: Final Session (Session Finale)
-- Target Group: Open to candidates who failed to secure placement during the Main Session, or who completely defaulted on choice inputs during Phase 5.2.
-- Choice Submission Window: August 01 to August 03, 2025.
-- Placement Mechanism: Restricted entirely to leftover capacities remaining inside institutional pipelines.
-- Publication of Results: August 06, 2025.
-## Phase 5.4: Fall Reorientation (Session de la Réorientation)
-- Target Group: Matriculated students seeking administrative changes to their existing university placement.
-- Execution Window: August 11 to August 15, 2025.
-- Publication of Final Outcomes: Saturday, August 30, 2025.
-# SECTION 6: MANDATORY ENTRY EXAMINATIONS & TESTING PROTOCOLS (FILIÈRES À TEST)
+### Paramètres d'Accès au Site d'Orientation
+> **IMPORTANT :** Seuls les candidats admis dont les données ont été officiellement transférées par le centre des examens relevant de **l'Institut Français de Tunisie (IFT)** reçoivent des paramètres d'accès.
 
 ================================================================================
 CHUNK #13
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 995 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 385 characters
 --------------------------------------------------------------------------------
-- Execution Window: August 11 to August 15, 2025.
-- Publication of Final Outcomes: Saturday, August 30, 2025.
-# SECTION 6: MANDATORY ENTRY EXAMINATIONS & TESTING PROTOCOLS (FILIÈRES À TEST)
-- Nature of Track: Specific professional profiles or artistic branches maintain custom verification tests. Getting a seat requires meeting the structural threshold score AND successfully passing a physical entry test.
-- Timeline of Tests: Scheduled between August 04 and August 11, 2025. Details are posted under "Filières à tests" on the Arabic mirror portal of orientation.tn.
-- Failure/Rejection Remediation Strategy: If a candidate passes the core score threshold but explicitly fails the required competency test, the placement system moves down the student's sheet. They are moved into their next choice down the line, provided they match its score, capacity limits, and course criteria. If a student's score does not clear any remaining choices on their sheet, they are bumped to the Final Session.
+* **Distribution du Mot de Passe :** Envoyé à chaque candidat par email à partir du **samedi 28 juin 2025**.
+* **Données fournies :** Le mot de passe, le numéro du baccalauréat et le numéro de la Carte d'Identité Nationale (CIN). 
+* **Cas particulier (Absence de CIN) :** Si le candidat n'a pas de CIN, le système utilise par défaut une série de huit fois le chiffre neuf : `99999999`.
 
 ================================================================================
 CHUNK #14
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 900 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 283 characters
 --------------------------------------------------------------------------------
-# SECTION 7: REGISTRATION MANDATES, CANCELLATIONS, AND ALTERNATIVE EXAMS
-- Financial Settlement Protocol: Placed candidates must pay standard higher education fees online exclusively at www.inscription.tn via a dedicated "Carte e-Dinar Jeune". Login access requires entering the candidate's verified National Identity Card (CIN) number. Dossier materials must be filed at the target institution according to their specific structural mandates.
-- Withdrawal (Retrait d'Inscription):
-* Personal Reasons: Signed cancellation petitions must reach the institutional registrar within an absolute one-month deadline starting from the formal date of initial enrollment.
-* Medical Reasons: Allowed throughout the academic year up to the date of final year-end examinations, provided a verified medical file is attached to the request.
-- March University Reorientation Competitions (Concours de Réorientation):
+### Correction des Informations Personnelles
+En cas d'erreur sur le nom, prénom, date de naissance, genre ou numéro de CIN :
+* Les rectifications sont ouvertes à partir du **16 juillet 2025** sur le site `www.orientation.tn` via l'onglet *"Correction des informations personnelles"*.
 
 ================================================================================
 CHUNK #15
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 904 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 326 characters
 --------------------------------------------------------------------------------
-* Medical Reasons: Allowed throughout the academic year up to the date of final year-end examinations, provided a verified medical file is attached to the request.
-- March University Reorientation Competitions (Concours de Réorientation):
-* Target Group: Enrolled undergraduate students seeking track changes who cleared their baccalaureate exams within either of the two preceding years.
-* Calendar: Administrative registration applications must be filed in January 2026. Academic examination testing is conducted during March 2026. Testing rules are hosted under www.mes.tn.
-# SECTION 8: PARCELS & FORMULA DIRECTORY BY DOMAIN OF FORMATION
-* Note for RAG Queries: Each domain provides course tracks where Bac Général or STMG conditions map onto the fundamental Global Score (FG) plus specific high school subject metrics.
-## 8.1: Letters, Languages, and Literary Preparatory Tracks
-- Core Course Tracks:
+* L'accès initial se fait avec les paramètres reçus par email. Après modification et enregistrement, l'accès ultérieur se fera obligatoirement avec les **nouveaux paramètres corrigés**.
+* La vérification et la correction du numéro de CIN sont indispensables pour éviter tout blocage lors de l'inscription universitaire finale.
 
 ================================================================================
 CHUNK #16
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 955 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 292 characters
 --------------------------------------------------------------------------------
-## 8.1: Letters, Languages, and Literary Preparatory Tracks
-- Core Course Tracks:
-* Licence en Arabe (e.g., Code 10101 at FSHS Tunis, Code 11101 at FLSH Manouba): T = FG + A [Arabe is Mandatory].
-* Licence en Anglais (e.g., Code 10102 at FSHS Tunis, Code 12102 at ISSH Tunis): T = FG + Ang [Anglais is Mandatory].
-* Licence en Français (e.g., Code 10103 at FSHS Tunis, Code 13103 at ISL Tunis): T = FG + F.
-* Licence en Espagnol (e.g., Code 10104 at FLSH Manouba): T = FG + Esp [Espagnol is Mandatory].
-* Licence en Italien (e.g., Code 10105 at FLSH Manouba): T = FG + It [Italien is Mandatory].
-* Licence en Allemand (e.g., Code 10106 at FLSH Manouba): T = FG + All [Allemand is Mandatory].
-* Licence en Russe (Code 10107 at ISL Tunis): T = FG + [(F + Ang) / 2] [Anglais is Mandatory].
-* Licence en Chinois (Code 10108 at ISL Tunis): T = FG + [(F + Ang) / 2] [Anglais is Mandatory].
-* Licence en Langues des Signes (Code 10119 at ISSH Tunis): T = FG + F.
+### Règle du Nombre de Choix Minimal (Règle des 6 Choix)
+* Chaque candidat doit obligatoirement formuler et classer **au moins 06 choix de filières** dans sa fiche de vœux.
+* Le système informatique de l'orientation bloque et refuse l'enregistrement de toute fiche contenant moins de 6 choix.
 
 ================================================================================
 CHUNK #17
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 963 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 241 characters
 --------------------------------------------------------------------------------
-* Licence en Chinois (Code 10108 at ISL Tunis): T = FG + [(F + Ang) / 2] [Anglais is Mandatory].
-* Licence en Langues des Signes (Code 10119 at ISSH Tunis): T = FG + F.
-* Licence en Traduction (e.g., Code 34147 at ISL Moknine): T = FG + [(A + F + Ang) / 3] [Arabe and Anglais are Mandatory].
-* Cycle Préparatoire Littéraire (Arabe) (Code 10190 at IPELSHT Tunis): Age limit <= 20 years on Sept 1st. T = FG + A [Arabe is Mandatory].
-* Cycle Préparatoire Littéraire (Français) (Code 10191 at IPELSHT Tunis): Age limit <= 20 years on Sept 1st. T = FG + F.
-* Cycle Préparatoire Littéraire (Anglais) (Code 10192 at IPELSHT Tunis): Age limit <= 20 years on Sept 1st. T = FG + Ang [Anglais is Mandatory].
-* Cycle Préparatoire Sciences Humaines (Histoire / Géographie / Philosophie) (Codes 10193, 10194, 10195 at IPELSHT Tunis): Age limit <= 20 years on Sept 1st. T = FG + [(PH + HG) / 2].
-## 8.2: Social Sciences, Humanities, Religion, and Education
-- Core Course Tracks:
+* Le système informatique de l'orientation bloque et refuse l'enregistrement de toute fiche contenant moins de 6 choix.
+* Le candidat doit impérativement s'assurer de l'apparition du **reçu de confirmation** sur la page web après validation.
 
 ================================================================================
 CHUNK #18
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 730 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 362 characters
 --------------------------------------------------------------------------------
-## 8.2: Social Sciences, Humanities, Religion, and Education
-- Core Course Tracks:
-* Licence en Anthropologie / Sociologie (e.g., Codes 10118, 10120): For Bac Général: T = FG + [(PH + Sc.Eco.S + F) / 3] [Sc.Eco.S is Mandatory]. For STMG: T = FG + [(PH + Management + F) / 3].
-* Licence en Psychologie (Code 10121 at FSHS Tunis): T = FG + PH.
-* Licence en Géographie (Code 10124 at FSHS Tunis): T = FG + HG.
-* Licence en Sciences Islamiques / Théologiques (Codes 10138, 10139): T = FG + A [Arabe is Mandatory].
-* Licence en Géomatique, Environnement et Aménagement (Code 10158 at FLSH Manouba): T = FG + [(HG + SVT + L.L.C.Etrg) / 3] [SVT and L.L.C.Etrg are Mandatory].
-Code: 10160
-Description: at FLSH Manouba):
-Série: Bac Général
+## 5. Formules de Calcul des Scores (T)
+
+Le score total T détermine le classement du candidat pour une filière donnée. La formule générale s'énonce ainsi :
+
+Score T = FG + (Moyenne des notes des matières spécifiques à la filière)
+
+Seules les notes des **enseignements de spécialité de la classe terminale** du baccalauréat sont prises en compte dans les calculs.
 
 ================================================================================
 CHUNK #19
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 952 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 304 characters
 --------------------------------------------------------------------------------
-* Licence en Archéologie / Conservation du Patrimoine (Codes 10167, 10162): T = FG + [(F + HG) / 2].
-* Licence en Service Social / Intervention Sociale (Codes 10355, 10548): Bac Général: T = FG + [(PH + Sc.Eco.S + HG) / 3] [Sc.Eco.S is Mandatory]. STMG: T = FG + [(PH + Management + HG) / 3].
-* Licence en Gestion Électronique des Documents (Code 10362): Bac Général: T = FG + [(F + N.Sc.Inf) / 2] [N.Sc.Inf is Not Mandatory]. STMG: T = FG + [(F + Management) / 2].
-* Licence en Sciences de l'Éducation (Enfance) (Code 10470 at ISCE Carthage Dermech): Filière à Test. T = FG + PH.
-* Licence en Éducation et Enseignement (Primary Ed) (e.g., Code 24477 at ISAEH Zaghouan): Filière à test. Age limit <= 21 years on Oct 1st. T = FG + [(A + F) / 2] [Arabe is Mandatory].
-* Licence en Journalisme / Communication (Codes 10611, 10612 at IPSI): Filière à test. T = FG + [(A + F + PH) / 3] [Arabe is Not Mandatory; if Arabe is missing, T = FG + [(F + PH) / 2]].
+### Formule Globale (FG 2025) par Type de Baccalauréat
+
+La Formule Globale (FG) est disponible sur le site de l'orientation à partir du **16 juillet 2025**. Elle est calculée comme suit :
+
+#### Pour le Bac Général :
+FG = (4 * MF) + (1.5 * PH) + (0.5 * HG) + (0.5 * E.Sc) + (1.5 * GO) + (1 * F) + (1 * LV)
 
 ================================================================================
 CHUNK #20
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 949 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 234 characters
 --------------------------------------------------------------------------------
-* Licence en Journalisme / Communication (Codes 10611, 10612 at IPSI): Filière à test. T = FG + [(A + F + PH) / 3] [Arabe is Not Mandatory; if Arabe is missing, T = FG + [(F + PH) / 2]].
-## 8.3: Culture, Fine Arts, Design, and Media Performance
-- Core Course Tracks:
-* Licence en Musique / Théâtre (Codes 10201, 10200): Filière à Test. For Musique: T = FG + [(PH + Art) / 2] [Art is Not Mandatory; if missing, T = FG + PH].
-* Licence en Arts Plastiques (e.g., Code 10202 at ISBA Tunis): T = FG + PH.
-* Licence en Design Espace (Interior Design / Scénographie) (e.g., Code 10207): T = FG + PH.
-* Licence en Design Produit / Fashion / Styling (e.g., Codes 10208, 34208): T = FG + PH.
-* Licence en Design Image (Graphics / Animation / Advertising) (e.g., Code 10209): T = FG + PH.
-* Licence en Ingénierie et Techniques du Son (Code 30246 at ISM Sousse): Filière à Test. T = FG + [(F + N.Sc.Inf) / 2] [N.Sc.Inf is Not Mandatory; if missing, T = FG + F].
+#### Pour le Bac Général :
+FG = (4 * MF) + (1.5 * PH) + (0.5 * HG) + (0.5 * E.Sc) + (1.5 * GO) + (1 * F) + (1 * LV)
+
+#### Pour le Bac Technologique (STMG) :
+FG = (4 * MF) + (1 * PH) + (1 * HG) + (1 * M) + (1 * GO) + (1 * F) + (1 * LV)
 
 ================================================================================
 CHUNK #21
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 475 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 289 characters
 --------------------------------------------------------------------------------
-* Licence en Ingénierie et Techniques du Son (Code 30246 at ISM Sousse): Filière à Test. T = FG + [(F + N.Sc.Inf) / 2] [N.Sc.Inf is Not Mandatory; if missing, T = FG + F].
-* Licence en Ingénierie du Son et Nouvelles Technologies (Code 40247 at ISM Sfax): Filière à Test. T = FG + M [Mathématiques is Mandatory].
-* Licence en Cinéma et Audiovisuel (e.g., Code 10265 at ISAMM Manouba): Filière à Test. T = FG + PH.
-Code: 10622
-Description: at ISAMM Manouba):
-Série: Bac Général
+### Légende des Abréviations de Matières :
+* **MF :** Moyenne Finale du Baccalauréat
+* **PH :** Philosophie
+* **HG :** Histoire-Géographie
+* **E.Sc :** Enseignement Scientifique
+* **GO :** Grand Oral
+* **F :** Français
+* **LV :** Moyenne des Langues Vivantes A et B
+* **M :** Mathématiques
 
 ================================================================================
 CHUNK #22
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 935 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 391 characters
 --------------------------------------------------------------------------------
-## 8.4: Legal Frameworks and Political Science Tracks
-- Core Course Tracks:
-Code: 10301
-Description: at FDSP Tunis, Code 11301 at FSJPST Tunis):
-Série: Bac Général
+### Règle pour les Admis à la Session de Rattrapage
+Pour les bacheliers issus de la session de rattrapage, les notes et moyennes sont lissées selon les règles suivantes :
+* **Notes pondérées :** ((Note de la Session Principale * 2) + Note de la Session de Rattrapage) / 3
+* **Moyenne finale pondérée :** ((Moyenne de la Session Principale * 2) + Moyenne de la Session de Rattrapage) / 3
 
-## 8.5: Economics, Business Administration, and Management
-- Core Course Tracks:
-* Licence en Sciences Économiques (e.g., Code 10312 at ISG Tunis): T = FG + [(M + Sc.Eco.S) / 2] [Mathématiques is Not Mandatory, Sc.Eco.S is Mandatory].
-Code: 13318
-Description: at FSEG Tunis, Code 14318 at IHEC Carthage):
-Série: Bac Général
-
-* Bachelor of Business Administration (BBA) (Code 10377 at Tunis Business School): Filière à test. T = FG + Max((Ang - 15), 0) + Max((M - 12), 0) [Anglais and Mathématiques are Mandatory].
-Code: 10391
-Description: at ISET Rades):
-Série: Bac Général
-
-Code: 21394
-Description: at ISET Bizerte): T = FG + SC.Eco.S [SC.Eco.S is Mandatory].
-Série: STMG
-
-Code: 22396
-Description: at ISET Nabeul): T = FG + SC.Eco.S [SC.Eco.S is Mandatory].
-Série: STMG
+---
 
 ================================================================================
 CHUNK #23
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 370 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 350 characters
 --------------------------------------------------------------------------------
-Code: 21394
-Description: at ISET Bizerte): T = FG + SC.Eco.S [SC.Eco.S is Mandatory].
-Série: STMG
-
-Code: 22396
-Description: at ISET Nabeul): T = FG + SC.Eco.S [SC.Eco.S is Mandatory].
-Série: STMG
-
-
-=== Domaine: ## 8.6: Exact Sciences, Computing, Engineering Architecture, and Agronomy ===
-
-- Core Course Tracks:
-Code: 10311
-Description: at ISG Tunis):
-Série: Bac Général
+| Session | Période de Saisie des Choix | Date de Proclamation des Résultats |
+| :--- | :--- | :--- |
+| **Session des Lauréats** | Du 03 au 05 Juillet 2025 | Mardi 08 Juillet 2025 (à partir de 12h00) |
+| **Session Principale** | Du 23 au 27 Juillet 2025 | Vendredi 01 Août 2025 |
+| **Session Finale** | Du 01 au 03 Août 2025 | Mercredi 06 Août 2025 |
 
 ================================================================================
 CHUNK #24
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 985 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 227 characters
 --------------------------------------------------------------------------------
-- Core Course Tracks:
-Code: 10311
-Description: at ISG Tunis):
-Série: Bac Général
-
-* Licence en Sciences et Technologies de l'Information et de la Communication (STIC) (Code 10572 at ISET'Com Tunis): T = FG + M OR T = FG + N.Sc.Inf [Candidate must hold either Math or N.Sc.Inf specialized track].
-* Licence en Technologies de l'Information et de la Communication (e.g., Code 10573 at FS Tunis): T = FG + [(N.Sc.Inf + M) / 2] [Mathématiques is Not Mandatory, N.Sc.Inf is Mandatory].
-* Licence en Génie Textile (Code 34574 at ISET Ksar-Helal): T = FG + PC [Physique-Chimie weight factor appended].
-* Licence en Électromécanique / Génie Logistique (Codes 30671, 30672 at ISSAT Sousse): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialty choices: M, PC, N.Sc.Inf].
-* Licence en Sciences du Transport / Urbanisme et Aménagement (Codes 30673, Code 10244): Bac Général: T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, N.Sc.Inf]. STMG: T = FG + M.
+| **Session Principale** | Du 23 au 27 Juillet 2025 | Vendredi 01 Août 2025 |
+| **Session Finale** | Du 01 au 03 Août 2025 | Mercredi 06 Août 2025 |
+| **Session de Réorientation** | Du 11 au 15 Août 2025 | Samedi 30 Août 2025 |
 
 ================================================================================
 CHUNK #25
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 119 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 255 characters
 --------------------------------------------------------------------------------
-=== Domaine: * Architecture (Code 10203 at ENAU Tunis): Found under Architecture/Engineering clusters. T = FG + PH. ===
+> **Note Clé :** Le classement individuel et la Formule Globale (FG) de chaque candidat sont consultables à partir du **16 juillet 2025**. Les Journées Nationales d'Information se tiennent les **17, 18 et 19 juillet 2025** à la Cité des Sciences de Tunis.
 
 ================================================================================
 CHUNK #26
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 921 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 325 characters
 --------------------------------------------------------------------------------
-* Cycle Préparatoire Intégré (Génie Biologique / Biomédical / Biotechnologie Santé) (e.g., Codes 82515, 10516, 10517): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 science specialties: M, PC, SVT].
-* Cycle Préparatoire Intégré (MPI / Informatique) (e.g., Codes 10518 at FS Tunis, 10520 at INSAT Tunis): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 technology specialties: M, PC, N.Sc.Inf].
-* Cycle Préparatoire Intégré (Chimie-Biologie Appliquée) (Code 10521 at INSAT): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 tracks: M, PC, SVT].
-* Cycle Préparatoire Scientifique (MP/PC Tracks) (Code 10522 at IPEIT, Code 11422 at FS Tunis): T = FG + [(M + PC) / 2] [Mathématiques and Physique-Chimie are Mandatory].
-* Cycle Préparatoire Biologie-Géologie (e.g., Code 10832 at FS Tunis, Code 20832 at IPEIB): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, SVT].
+## 7. Gestion Spécifique des Sessions
+
+### 7.1. Session des Lauréats (IPEST & France)
+Cette session concerne l'orientation des lauréats tunisiens vers les classes préparatoires aux Grandes Écoles de Tunisie (IPEST) et de France. Elle est régie par la circulaire N° 39 du 22 Avril 2025 et la circulaire 17/21 du 15 Avril 2021.
 
 ================================================================================
 CHUNK #27
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 976 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 367 characters
 --------------------------------------------------------------------------------
-* Cycle Préparatoire Biologie-Géologie (e.g., Code 10832 at FS Tunis, Code 20832 at IPEIB): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, SVT].
-* Cycle Préparatoire Technologique (e.g., Code 10532 at IPEIEM, Code 22532 at IPEIN): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, N.Sc.Inf].
-* Licence en Biotechnologie Médicale (Code 10545 at ISTMT): T = FG + [(SVT + PC) / 2] [SVT and PC are Mandatory].
-* Licence en Industrie Alimentaire / Sciences Agroalimentaires (Codes 10840, 40841, 75842): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, SVT].
-* Licence en Agronomie / Innovation Agricole (e.g., Code 20844 at ESA Mograne, Code 21844 at ESA Mateur): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, SVT].
-* Licence en Sciences de la Mer (Code 20846 at ISMM Bizerte): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, SVT].
+#### Conditions de Participation :
+* Être de nationalité tunisienne.
+* Être inscrit régulièrement et avoir obtenu le baccalauréat général 2025 dans un lycée homologué en Tunisie.
+* Avoir une moyenne générale du cycle terminal supérieure ou égale à 16/20 (1er groupe).
+* Avoir obligatoirement suivi les enseignements de spécialité "Mathématiques" et "Physique-Chimie".
 
 ================================================================================
 CHUNK #28
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 960 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 291 characters
 --------------------------------------------------------------------------------
-* Licence en Sciences de la Mer (Code 20846 at ISMM Bizerte): T = FG + [(EDS1 + EDS2) / 2] [Requires exactly 2 of the 3 specialties: M, PC, SVT].
-# SECTION 9: WEB PORTAL REFERENCE AND INDEX DIRECTORY
-For trace tracking, semantic lookups, or document parsing validation inside RAG indexing pipelines, match terms using this explicit address mapping:
-- www.orientation.tn : Target platform for all operations.
-- www.orientation.tn/orient/pdf/guide2025.pdf : Location code for source verification.
-- https://uni-formation.rnu.tn/ : Tunisian National University Catalogue System (ATOPU) for degrees mapping LMD structures (Licence, Master, Doctorat).
-- www.inscription.tn : Payment network interface for academic enrollment fees.
-- www.mes.tn : Portal for the Ministry of Higher Education and Scientific Research.
-- www.best.rnu.tn : International university grants and student loan tracking database.
-- Student Affairs Offices (OOUN/OOUC/OOUS) Regional Directory:
+#### Formule Spécifique du Score des Lauréats :
+Score = 5 * MG + 2 * M + 2 * PC + 1 * F + 1 * PH + max((Ang - 12) / 3, 0)
+*(Avec **MG** : Moyenne finale du bac, **PC** : Physique-Chimie, **Ang** : Anglais, **M** : Mathématiques, **F** : Français (Moyenne Écrit/Oral), **PH** : Philosophie).*
 
 ================================================================================
 CHUNK #29
-Source: rag_knowledge_base_orientation_2025.txt
-Path: refined_data/rag_knowledge_base_orientation_2025.txt
-Length: 964 characters
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 336 characters
 --------------------------------------------------------------------------------
-- www.mes.tn : Portal for the Ministry of Higher Education and Scientific Research.
-- www.best.rnu.tn : International university grants and student loan tracking database.
-- Student Affairs Offices (OOUN/OOUC/OOUS) Regional Directory:
-* www.ooun.rnu.tn : Office des Œuvres Universitaires pour le Nord (Northern Region Office)
-* www.oouc.rnu.tn : Office des Œuvres Universitaires pour le Centre (Central Region Office)
-* www.oous.rnu.tn : Office des Œuvres Universitaires pour le Sud (Southern Region Office)
-- Specialized High Performance Tracking Subsystems:
-* www.uni-renov.rnu.tn : Direction Générale de la Rénovation Universitaire
-* www.cningenieur.rnu.tn : National Engineering Curriculum Coordination Network
-* www.uvt.rnu.tn : Université Virtuelle de Tunis (Virtual University of Tunis)
-* concours-isets.rnu.tn : ISET Technology Institutes General Concours Management Platform
-# ==============================================================================
+| Spécialité | Établissement | Sexe | Code Filière | Capacité | Réunion de Confirmation |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **MPSI** | Classes préparatoires en France | Garçon | `99201` | 06 places | 10 Juillet 2025 à 09h |
+| **MPSI** | Classes préparatoires en France | Fille | `99214` | 06 places | 10 Juillet 2025 à 09h |
+
+================================================================================
+CHUNK #30
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 303 characters
+--------------------------------------------------------------------------------
+| **MPSI** | Classes préparatoires en France | Fille | `99214` | 06 places | 10 Juillet 2025 à 09h |
+| **PCSI** | Classes préparatoires en France | Garçon | `99202` | 02 places | 10 Juillet 2025 à 09h |
+| **PCSI** | Classes préparatoires en France | Fille | `99215` | 02 places | 10 Juillet 2025 à 09h |
+
+================================================================================
+CHUNK #31
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 302 characters
+--------------------------------------------------------------------------------
+| **PCSI** | Classes préparatoires en France | Fille | `99215` | 02 places | 10 Juillet 2025 à 09h |
+| **MPSI** | Classes préparatoires à l'IPEST | Mixte | `99101` | 80 places | 14 Juillet 2025 à 09h |
+| **PCSI** | Classes préparatoires à l'IPEST | Mixte | `99102` | 40 places | 14 Juillet 2025 à 09h |
+
+================================================================================
+CHUNK #32
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 324 characters
+--------------------------------------------------------------------------------
+#### Obligations de Confirmation et Désistement :
+* Les candidats retenus (et sur liste d'attente) doivent se présenter à l'IPEST aux dates indiquées munis de leur CIN. Tout absent est considéré comme défaillant et remplacé.
+* L'acceptation d'une place interdit la participation aux autres sessions d'orientation en Tunisie.
+
+================================================================================
+CHUNK #33
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 340 characters
+--------------------------------------------------------------------------------
+* L'acceptation d'une place interdit la participation aux autres sessions d'orientation en Tunisie.
+* **Procédure de Désistement :** En cas de changement d'avis, le candidat doit déposer une demande manuscrite avec signature légalisée au bureau d'ordre du Ministère **au plus tard le 24 juillet 2025** pour réintégrer la session principale.
+
+================================================================================
+CHUNK #34
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 330 characters
+--------------------------------------------------------------------------------
+### 7.2. Session Principale
+* Ouverte à tous les bacheliers des lycées homologués (Général et STMG).
+* Obligation de saisir un minimum de 06 choix. Les modifications de la liste sont autorisées pendant toute la durée de la session (du 23 au 27 juillet 2025). Tout retard entraîne un ajournement automatique vers la session finale.
+
+================================================================================
+CHUNK #35
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 272 characters
+--------------------------------------------------------------------------------
+### 7.3. Session Finale
+* Concerne les candidats n'ayant obtenu aucune affectation à l'issue de la session principale ou n'y ayant pas participé. 
+* L'affectation s'effectue dans la limite des capacités d'accueil restantes. La règle des 06 choix minimum reste obligatoire.
+
+================================================================================
+CHUNK #36
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 306 characters
+--------------------------------------------------------------------------------
+### 7.4. Filières Soumises à un Test d'Entrée
+* Certaines filières nécessitent la réussite d'un test d'aptitude après l'obtention du score minimal requis.
+* Les tests se déroulent entre le **04 et le 11 Août 2025**. Les détails et lieux des tests sont publiés via l'onglet *"filières à tests"* sur le site.
+
+================================================================================
+CHUNK #37
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 204 characters
+--------------------------------------------------------------------------------
+* En cas d'échec au test, le système réaffecte le candidat vers un de ses autres choix selon ses scores et les places disponibles. S'il n'obtient aucun de ses choix, il est basculé vers la session finale.
+
+================================================================================
+CHUNK #38
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 248 characters
+--------------------------------------------------------------------------------
+## 8. Procédures de Réorientation (Août 2025 & Mars 2026)
+
+### 8.1. Session de Réorientation d'Août (En Ligne : 11 au 15 Août 2025)
+Un bachelier ne peut soumettre **qu'une seule demande** et doit opter pour une seule catégorie parmi les suivantes :
+
+================================================================================
+CHUNK #39
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 330 characters
+--------------------------------------------------------------------------------
+#### Réorientation au Score (Raisons Personnelles)
+* **Condition :** Le score du candidat doit être supérieur ou égal à celui du dernier étudiant orienté dans la filière visée en 2025, dans la limite des places disponibles.
+* **Dossier :** Aucun dossier papier n'est requis. Le score du dernier orienté est publié le 11 août 2025.
+
+================================================================================
+CHUNK #40
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 312 characters
+--------------------------------------------------------------------------------
+#### Réorientation pour Raisons Médicales ou Sociales
+* **Procédure :** Remplir et enregistrer la demande en ligne, l'imprimer, puis joindre les pièces justificatives (médicales ou sociales).
+* **Envoi :** Envoyer le dossier exclusivement par **courrier recommandé** en collant le coupon imprimé sur l'enveloppe.
+
+================================================================================
+CHUNK #41
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 253 characters
+--------------------------------------------------------------------------------
+* **Envoi :** Envoyer le dossier exclusivement par **courrier recommandé** en collant le coupon imprimé sur l'enveloppe.
+* **Date limite d'envoi :** **18 Août 2025** (le cachet de la poste faisant foi). Tout dossier non conforme ou en retard est rejeté.
+
+================================================================================
+CHUNK #42
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 321 characters
+--------------------------------------------------------------------------------
+#### Réorientation pour Talents Particuliers (Créativité / Sport)
+Concerne les lauréats de trophées nationaux/internationaux ou profils à forte compétence créative postulant pour :
+* Licence en Musique et musicologie
+* Licence en théâtre et arts de la scène
+* Licence en Cinéma et Audiovisuel
+* Licence en Arts Plastiques
+
+================================================================================
+CHUNK #43
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 352 characters
+--------------------------------------------------------------------------------
+* Licence en Musique et musicologie
+* Licence en théâtre et arts de la scène
+* Licence en Cinéma et Audiovisuel
+* Licence en Arts Plastiques
+* **Dossier :** Demande argumentée + preuves tangibles (œuvres, certifications, articles). Une commission technique ministérielle valide la demande.
+* **Délai de dépôt :** Avant le **18 Août 2025** au Ministère.
+
+================================================================================
+CHUNK #44
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 392 characters
+--------------------------------------------------------------------------------
+> **Règle de Validation Cruciale (Règle des 72 heures) :** Tout candidat obtenant une nouvelle affectation lors de la réorientation doit obligatoirement choisir et confirmer sur le site entre sa première affectation et la nouvelle, dans un **délai du strict de 72 heures** suivant la proclamation des résultats. À défaut, le système valide automatiquement la filière obtenue en réorientation.
+
+================================================================================
+CHUNK #45
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 387 characters
+--------------------------------------------------------------------------------
+### 8.2. Concours Nationaux de Réorientation (Mars 2026)
+* Organisés directement par les universités et la DGET.
+* **Public éligible :** Étudiants ayant obtenu leur baccalauréat au cours des deux années précédentes.
+* **Calendrier :** Dépôt des dossiers de candidature en **Janvier 2026** ; examens écrits du concours en **Mars 2026**. Les modalités sont diffusées sur `www.mes.tn`.
+
+---
+
+================================================================================
+CHUNK #46
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 216 characters
+--------------------------------------------------------------------------------
+* **Retrait d'inscription pour raisons personnelles :** La demande doit être déposée auprès de l'administration de l'établissement d'affectation dans un **délai maximal d'un mois** à compter de la date d'inscription.
+
+================================================================================
+CHUNK #47
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 203 characters
+--------------------------------------------------------------------------------
+* **Retrait d'inscription pour raisons médicales :** Possible en cours d'année universitaire, obligatoirement **avant le début des examens de fin d'année**, sur présentation d'un dossier médical complet.
+
+================================================================================
+CHUNK #48
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 251 characters
+--------------------------------------------------------------------------------
+## 10. Répertoire Analytique des Filières, Codes et Conditions
+
+Ce répertoire compile l'ensemble des filières ouvertes, classées par domaines d'études, avec leurs codes uniques, les établissements d'accueil et les exigences de score particulières (T).
+
+================================================================================
+CHUNK #49
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 391 characters
+--------------------------------------------------------------------------------
+### Domaines de Spécialités Associés (Codes de Légende) :
+* **ART :** Arts
+* **N.Sc.Inf :** Numérique et sciences informatiques
+* **HG.SC.P :** Histoire, géographie, géopolitique et sciences politiques
+* **PC :** Physique-Chimie
+* **H.L.Ph :** Humanités, littérature et philosophie
+* **SVT :** Sciences de la vie et de la terre
+* **L.L.C.Etrg :** Langues, littératures et cultures étrangères
+
+================================================================================
+CHUNK #50
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 381 characters
+--------------------------------------------------------------------------------
+* **SVT :** Sciences de la vie et de la terre
+* **L.L.C.Etrg :** Langues, littératures et cultures étrangères
+* **SC.Ing :** Sciences de l'ingénieur
+* **L.L.C.Ant :** Littérature, langues et cultures de l'Antiquité
+* **M :** Mathématiques
+* **Sc.Eco.S :** Sciences économiques et sociales
+* **M.S.G.N :** Management, Sciences de gestion et numérique
+* **D.Eco :** Droit et Économie
+
+================================================================================
+CHUNK #51
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 359 characters
+--------------------------------------------------------------------------------
+* **Sc.Eco.S :** Sciences économiques et sociales
+* **M.S.G.N :** Management, Sciences de gestion et numérique
+* **D.Eco :** Droit et Économie
+* **PH :** Philosophie
+* **E.SC :** Enseignement Scientifique
+* **HG :** Histoire-Géographie
+* **LVA / LVB :** Langue vivante A / B
+* **EPS :** Éducation physique et sportive
+* **EMC :** Enseignement moral et civique
+
+================================================================================
+CHUNK #52
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 328 characters
+--------------------------------------------------------------------------------
+| Filière Principale | Code | Établissement d'Accueil | Parcours Proposés | Séries Éligibles | Formule Spécifique du Score (T) & Conditions |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Licence en Arabe** | `10101` | FSHS Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #53
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 287 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `10101` | FSHS Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `11101` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #54
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 287 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `11101` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `12101` | ISSH Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #55
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 284 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `12101` | ISSH Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `13101` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #56
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 284 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `13101` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `22101` | ISL Nabeul | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #57
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 286 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `22101` | ISL Nabeul | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `30101` | FLSH Sousse | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #58
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 285 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `30101` | FLSH Sousse | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `40101` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #59
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 283 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `40101` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `50101` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #60
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 287 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `50101` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `54101` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #61
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 298 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `54101` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Arabe** | `60101` | ISEA Humanités Gafsa | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+
+================================================================================
+CHUNK #62
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 294 characters
+--------------------------------------------------------------------------------
+| **Licence en Arabe** | `70101` | FLSH Kairouan | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + A (Note d'Arabe obligatoire) |
+| **Licence en Anglais** | `10102` | FSHS Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #63
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 299 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `10102` | FSHS Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `11102` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #64
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 322 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `12102` | ISSH Tunis | Langue, Lettres, Civilisation / Anglais et Relations Int. | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `13102` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #65
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 296 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `13102` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `22102` | ISL Nabeul | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #66
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 298 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `22102` | ISL Nabeul | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `30102` | FLSH Sousse | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #67
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 299 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `30102` | FLSH Sousse | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `34102` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #68
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 323 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `34102` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `40102` | FLSH Sfax | Traduction / Anglais des Affaires / Langue, Lettres, Civ. | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #69
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 299 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `50102` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `54102` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #70
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 310 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `60102` | ISEA Humanités Gafsa | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `70102` | FLSH Kairouan | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #71
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 301 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `73102` | ISEA Humanités Sbeïtla | Anglais des Affaires | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `80102` | ISSH Jendouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #72
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 308 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `82102` | ISEA Humanités Le Kef | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Anglais** | `84102` | ISLAI Béja | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+
+================================================================================
+CHUNK #73
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 388 characters
+--------------------------------------------------------------------------------
+| **Licence en Anglais** | `84102` | ISLAI Béja | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Ang (Note d'Anglais obligatoire) |
+| **Licence en Français** | `10103` | FSHS Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `11103` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #74
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 375 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `11103` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `12103` | ISSH Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `13103` | ISL Tunis | Médiation Culturelle / Communication / Traduction | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #75
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 374 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `13103` | ISL Tunis | Médiation Culturelle / Communication / Traduction | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `22103` | ISL Nabeul | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `30103` | FLSH Sousse | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #76
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 357 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `30103` | FLSH Sousse | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `34103` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `40103` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #77
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 357 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `40103` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `50103` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `54103` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #78
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 380 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `54103` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `60103` | ISEA Humanités Gafsa | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `63103` | ISEA Humanités Tozeur | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #79
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 373 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `63103` | ISEA Humanités Tozeur | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `70103` | FLSH Kairouan | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `80103` | ISSH Jendouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #80
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 397 characters
+--------------------------------------------------------------------------------
+| **Licence en Français** | `80103` | ISSH Jendouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Français** | `82103` | ISEA Humanités Le Kef | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + F |
+| **Licence en Espagnol** | `10104` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+
+================================================================================
+CHUNK #81
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 292 characters
+--------------------------------------------------------------------------------
+| **Licence en Espagnol** | `10104` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+| **Licence en Espagnol** | `11104` | ISSH Tunis | Économie et Commerce International | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+
+================================================================================
+CHUNK #82
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 314 characters
+--------------------------------------------------------------------------------
+| **Licence en Espagnol** | `11104` | ISSH Tunis | Économie et Commerce International | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+| **Licence en Espagnol** | `12104` | ISL Tunis | Comm. Interculturelle & Tourisme / Langue, Lettres, Civ. | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+
+================================================================================
+CHUNK #83
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 287 characters
+--------------------------------------------------------------------------------
+| **Licence en Espagnol** | `34104` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+| **Licence en Espagnol** | `40104` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+
+================================================================================
+CHUNK #84
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 285 characters
+--------------------------------------------------------------------------------
+| **Licence en Espagnol** | `40104` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+| **Licence en Espagnol** | `50104` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+
+================================================================================
+CHUNK #85
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 285 characters
+--------------------------------------------------------------------------------
+| **Licence en Espagnol** | `50104` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + Esp (Espagnol obligatoire) |
+| **Licence en Italien** | `10105` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+
+================================================================================
+CHUNK #86
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 286 characters
+--------------------------------------------------------------------------------
+| **Licence en Italien** | `10105` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+| **Licence en Italien** | `11105` | ISSH Tunis | Économie et Commerce International | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+
+================================================================================
+CHUNK #87
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 308 characters
+--------------------------------------------------------------------------------
+| **Licence en Italien** | `11105` | ISSH Tunis | Économie et Commerce International | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+| **Licence en Italien** | `12105` | ISL Tunis | Langue, Lettres, Civ. / Comm. Interculturelle & Tourisme | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+
+================================================================================
+CHUNK #88
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 282 characters
+--------------------------------------------------------------------------------
+| **Licence en Italien** | `22105` | ISL Nabeul | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+| **Licence en Italien** | `34105` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+
+================================================================================
+CHUNK #89
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 281 characters
+--------------------------------------------------------------------------------
+| **Licence en Italien** | `34105` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+| **Licence en Italien** | `40105` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+
+================================================================================
+CHUNK #90
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 282 characters
+--------------------------------------------------------------------------------
+| **Licence en Italien** | `40105` | FLSH Sfax | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+| **Licence en Italien** | `50105` | ISL Gabès | Économie et Commerce International | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+
+================================================================================
+CHUNK #91
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 288 characters
+--------------------------------------------------------------------------------
+| **Licence en Italien** | `50105` | ISL Gabès | Économie et Commerce International | Bac Général / STMG | T = FG + It (Italien obligatoire) |
+| **Licence en Allemand** | `10106` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+
+================================================================================
+CHUNK #92
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 292 characters
+--------------------------------------------------------------------------------
+| **Licence en Allemand** | `10106` | FLSH Manouba | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+| **Licence en Allemand** | `11106` | ISSH Tunis | Économie et Commerce International | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+
+================================================================================
+CHUNK #93
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 289 characters
+--------------------------------------------------------------------------------
+| **Licence en Allemand** | `11106` | ISSH Tunis | Économie et Commerce International | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+| **Licence en Allemand** | `12106` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+
+================================================================================
+CHUNK #94
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 287 characters
+--------------------------------------------------------------------------------
+| **Licence en Allemand** | `12106` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+| **Licence en Allemand** | `34106` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+
+================================================================================
+CHUNK #95
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 287 characters
+--------------------------------------------------------------------------------
+| **Licence en Allemand** | `34106` | ISL Moknine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+| **Licence en Allemand** | `50106` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+
+================================================================================
+CHUNK #96
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 289 characters
+--------------------------------------------------------------------------------
+| **Licence en Allemand** | `50106` | ISL Gabès | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+| **Licence en Allemand** | `54106` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+
+================================================================================
+CHUNK #97
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 322 characters
+--------------------------------------------------------------------------------
+| **Licence en Allemand** | `54106` | ISSH Médenine | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + All (Allemand obligatoire) |
+| **Licence en Russe** | `10107` | ISL Tunis | Langue, Lettres, Civ. / Comm. Interculturelle & Tourisme | Bac Général / STMG | T = FG + [(F + Ang) / 2] (Anglais obligatoire) |
+
+================================================================================
+CHUNK #98
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 268 characters
+--------------------------------------------------------------------------------
+| **Licence en Chinois** | `10108` | ISL Tunis | Langue, Lettres et Civilisation | Bac Général / STMG | T = FG + [(F + Ang) / 2] (Anglais obligatoire) |
+| **Licence en Langues des Signes** | `10119` | ISSH Tunis | Langues des Signes | Bac Général / STMG | T = FG + F |
+
+================================================================================
+CHUNK #99
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 263 characters
+--------------------------------------------------------------------------------
+| **Licence en Langues des Signes** | `10119` | ISSH Tunis | Langues des Signes | Bac Général / STMG | T = FG + F |
+| **Licence en Traduction** | `34147` | ISL Moknine | Anglais | Bac Général / STMG | T = FG + [(A + F + Ang) / 3] (Arabe et Anglais obligatoires) |
+
+================================================================================
+CHUNK #100
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 308 characters
+--------------------------------------------------------------------------------
+| **Licence en Traduction** | `34147` | ISL Moknine | Anglais | Bac Général / STMG | T = FG + [(A + F + Ang) / 3] (Arabe et Anglais obligatoires) |
+| **Licence en Traduction** | `40147` | FLSH Sfax | Arabe-Français-Anglais | Bac Général / STMG | T = FG + [(A + F + Ang) / 3] (Arabe et Anglais obligatoires) |
+
+================================================================================
+CHUNK #101
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 383 characters
+--------------------------------------------------------------------------------
+#### Cycles Préparatoires d'Études Littéraires & Humaines (Limite d'âge : 20 ans au 1er Septembre 2025)
+* **Arabe (IPELSHT Tunis : `10190` / FLSH Manouba : `11190`) :** T = FG + A (Arabe obligatoire).
+* **Français (IPELSHT Tunis : `10191` / FLSH Manouba : `11191`) :** T = FG + F.
+* **Anglais (IPELSHT Tunis : `10192` / FLSH Manouba : `11192`) :** T = FG + Ang (Anglais obligatoire).
+
+================================================================================
+CHUNK #102
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 314 characters
+--------------------------------------------------------------------------------
+* **Anglais (IPELSHT Tunis : `10192` / FLSH Manouba : `11192`) :** T = FG + Ang (Anglais obligatoire).
+* **Histoire (IPELSHT Tunis : `10193`) :** T = FG + [(PH + HG) / 2].
+* **Géographie (IPELSHT Tunis : `10194`) :** T = FG + [(PH + HG) / 2].
+* **Philosophie (IPELSHT Tunis : `10195`) :** T = FG + [(PH + HG) / 2].
+
+================================================================================
+CHUNK #103
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 361 characters
+--------------------------------------------------------------------------------
+#### Licences de base en Anthropologie & Sociologie
+* **Séries & Calculs :**
+    * **Bac Général :** T = FG + [(PH + Sc.Eco.S + F) / 3] (Spécialité Sc.Eco.S obligatoire).
+    * **STMG :** T = FG + [(PH + Management + F) / 3].
+* **Filières concernées :**
+    * **Licence en Anthropologie :** ISSH Tunis (`10118`), FLSH Sousse (`30118`), ISAM Tataouine (`56118`).
+
+================================================================================
+CHUNK #104
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 266 characters
+--------------------------------------------------------------------------------
+* **Filières concernées :**
+    * **Licence en Anthropologie :** ISSH Tunis (`10118`), FLSH Sousse (`30118`), ISAM Tataouine (`56118`).
+    * **Licence en Sociologie :** FSHS Tunis (`10120`), ISSH Tunis (`11120`), FLSH Sfax (`40120`), ISEA Humanités Gafsa (`60120`).
+
+================================================================================
+CHUNK #105
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 296 characters
+--------------------------------------------------------------------------------
+#### Autres Licences en Sciences Humaines & Spécificités :
+* **Licence en Psychologie :** FSHS Tunis (`10121`), ISSH Tunis (`11121`). Score : T = FG + PH.
+* **Licence en Philosophie :** FSHS Tunis (`10122`), ISSH Tunis (`11122`), FLSH Sfax (`40122`), FLSH Kairouan (`70122`). Score : T = FG + PH.
+
+================================================================================
+CHUNK #106
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 305 characters
+--------------------------------------------------------------------------------
+* **Licence en Philosophie :** FSHS Tunis (`10122`), ISSH Tunis (`11122`), FLSH Sfax (`40122`), FLSH Kairouan (`70122`). Score : T = FG + PH.
+* **Licence en Histoire :** FLSH Sfax (`40123`), FSHS Tunis (`10123`), FLSH Manouba (`11123`), FLSH Sousse (`30123`), ISSH Jendouba (`80123`). Score : T = FG + HG.
+
+================================================================================
+CHUNK #107
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 350 characters
+--------------------------------------------------------------------------------
+* **Licence en Géographie :** FSHS Tunis (`10124`), FLSH Manouba (`11124`), FLSH Sousse (`30124`), FLSH Sfax (`40124`). Score : T = FG + HG.
+* **Licence en Sciences Islamiques / Théologiques :** IS Civilisation Islamique Tunis (`10138`), IS Sciences Islamiques Kairouan (`70138`), IS Théologie Tunis (`10139`). Score : T = FG + A (Arabe obligatoire).
+
+================================================================================
+CHUNK #108
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 301 characters
+--------------------------------------------------------------------------------
+* **Licence en Géomatique, Environnement et Aménagement :** FLSH Manouba (`10158`). Score : T = FG + [(HG + SVT + L.L.C.Etrg) / 3] (SVT et L.L.C.Etrg obligatoires).
+* **Licence en Géographie de l'Environnement :** ISSH Jendouba (`80159`). Score : Même formule que ci-dessus ou T = FG + [(F + HG) / 2].
+
+================================================================================
+CHUNK #109
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 339 characters
+--------------------------------------------------------------------------------
+* **Licence en Géographie de l'Environnement :** ISSH Jendouba (`80159`). Score : Même formule que ci-dessus ou T = FG + [(F + HG) / 2].
+* **Licence en Géopolitique et Relations Internationales :** FLSH Manouba avec ESC Manouba (`10160`).
+    * *Bac Général :* T = FG + [(HG + H.L.Ph + L.L.C.Etrg) / 3] (H.L.Ph et L.L.C.Etrg obligatoires).
+
+================================================================================
+CHUNK #110
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 312 characters
+--------------------------------------------------------------------------------
+* *Bac Général :* T = FG + [(HG + H.L.Ph + L.L.C.Etrg) / 3] (H.L.Ph et L.L.C.Etrg obligatoires).
+    * *STMG :* T = FG + [(F + ANG + HG) / 3] (Anglais obligatoire).
+* **Licence en Conservation des Biens Culturels :** FLSH Sfax (`40161`), IS Métiers du Patrimoine Tunis (`10162`). Score : T = FG + [(F + HG) / 2].
+
+================================================================================
+CHUNK #111
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 305 characters
+--------------------------------------------------------------------------------
+* **Licence en Conservation des Biens Culturels :** FLSH Sfax (`40161`), IS Métiers du Patrimoine Tunis (`10162`). Score : T = FG + [(F + HG) / 2].
+* **Licence en Géomatique et Aménagement :** FSHS Tunis (`10164`). Score : T = FG + [(HG + Sc.Eco.S + L.L.C.Etrg) / 3] (Sc.Eco.S et L.L.C.Etrg obligatoires).
+
+================================================================================
+CHUNK #112
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 348 characters
+--------------------------------------------------------------------------------
+* **Licence en Archéologie :** ISSH Tunis (`10167`), FLSH Kairouan (`70167`). Score : T = FG + [(F + HG) / 2].
+* **Licence en Arts du Patrimoine Islamique :** IS Théologie Tunis (`10260`). Score : T = FG + [(PH + N.Sc.Inf) / 2] (N.Sc.Inf non obligatoire).
+* **Licence en Service Social :** INTES Tunis (`10355`). 
+    * *Bac Général :* T = FG + PH.
+
+================================================================================
+CHUNK #113
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 381 characters
+--------------------------------------------------------------------------------
+* **Licence en Service Social :** INTES Tunis (`10355`). 
+    * *Bac Général :* T = FG + PH.
+    * *STMG :* T = FG + [(PH + Sc.Eco.S + HG) / 3] (Sc.Eco.S obligatoire) OU [(PH + Management + HG) / 3].
+* **Licence en Gestion Électronique de l'Information et des Documents :** IS Documentation (`10362`).
+    * *Bac Général :* T = FG + [(F + N.Sc.Inf) / 2] (N.Sc.Inf non obligatoire).
+
+================================================================================
+CHUNK #114
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 275 characters
+--------------------------------------------------------------------------------
+* *Bac Général :* T = FG + [(F + N.Sc.Inf) / 2] (N.Sc.Inf non obligatoire).
+    * *STMG :* T = FG + [(F + Management) / 2].
+* **Licence en Documentation, Bibliothéconomie et Archivistique :** IS Documentation (`10363`). Score : T = FG + [(F + Ang) / 2] (Anglais obligatoire).
+
+================================================================================
+CHUNK #115
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 273 characters
+--------------------------------------------------------------------------------
+* **Licence en Sciences de l'Éducation (Enfance) - Filière à Test :** IS Cadres de l'Enfance Carthage Dermech (`10470`). Score : T = FG + PH.
+* **Licence en Éducation Spécialisée :** IS Éducation Spécialisée (`10473`). Score : T = FG + PH$ (Éducation physique obligatoire).
+
+================================================================================
+CHUNK #116
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 370 characters
+--------------------------------------------------------------------------------
+* **Licence en Éducation et Enseignement - Filière à Test (Âge max : 21 ans au 1er Octobre 2025) :** * *Établissements :* ISEA Humanités Zaghouan (`24477`), Mahdia (`36477`), Gabès (`50477`), Médenine (`54477`), ISAM Tataouine (`56477`), ISSSÉ Gafsa (`60477`), ISEA Humanités Tozeur (`63477`), Sbeïtla (`73477`), ISSH Jendouba (`80477`), ISEA Humanités Le Kef (`82477`).
+
+================================================================================
+CHUNK #117
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 364 characters
+--------------------------------------------------------------------------------
+* *Score :* T = FG + [(A + F) / 2] (Arabe obligatoire).
+* **Licence en Intervention Sociale :** INTES Tunis (`10548`).
+    * *Bac Général :* T = FG + [(PH + Sc.Eco.S + HG) / 3] (Sc.Eco.S obligatoire).
+    * *STMG :* T = FG + [(PH + Management + HG) / 3].
+* **Licence en Journalisme (`10611`) & Licence en Communication (`10612`) - Filières à Test :** IPSI Manouba.
+
+================================================================================
+CHUNK #118
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 216 characters
+--------------------------------------------------------------------------------
+* **Licence en Journalisme (`10611`) & Licence en Communication (`10612`) - Filières à Test :** IPSI Manouba.
+    * *Score :* T = FG + [(A + F + PH) / 3] (Arabe non obligatoire. Si absente : T = FG + [(F + PH) / 2]).
+
+================================================================================
+CHUNK #119
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 301 characters
+--------------------------------------------------------------------------------
+* **Licence en Animation Touristique :** ISEA Humanités Sbeïtla (`73440`). Score : T = FG + [(F + EPS) / 2] (EPS obligatoire, Éducation physique exigée).
+* **Licence en Médiation et Animation - Filière à Test :** IS Animation Jeunesse et Culture Bir El Bey (`10443`). Score : T = FG + PH (EPS exigée).
+
+================================================================================
+CHUNK #120
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 380 characters
+--------------------------------------------------------------------------------
+* **Licence en Médiation et Animation - Filière à Test :** IS Animation Jeunesse et Culture Bir El Bey (`10443`). Score : T = FG + PH (EPS exigée).
+* **Licence en Sciences et Techniques des Activités Physiques et Sportives (STAPS) - Éducation Physique & Test Médical Exigés :**
+    * *Établissements :* ISSEP Ksar-Saïd (`10450`), Sfax (`40450`), Gafsa (`60450`), Le Kef (`82450`).
+
+================================================================================
+CHUNK #121
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 379 characters
+--------------------------------------------------------------------------------
+* *Établissements :* ISSEP Ksar-Saïd (`10450`), Sfax (`40450`), Gafsa (`60450`), Le Kef (`82450`).
+    * *Bac Général :* T = FG + [(SVT + EPS) / 2] (SVT et EPS obligatoires, Note EPS > 16).
+    * *STMG :* T = FG + [(Management + EPS) / 2] (EPS obligatoire, Note EPS > 16).
+* **Licence en Tourisme (`10452`) & Licence en Hôtellerie (`10453`) - Filières à Test :** IHET Sidi Dhrif.
+
+================================================================================
+CHUNK #122
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 270 characters
+--------------------------------------------------------------------------------
+* **Licence en Tourisme (`10452`) & Licence en Hôtellerie (`10453`) - Filières à Test :** IHET Sidi Dhrif.
+    * *Bac Général :* T = FG + [(HG + Sc.Eco.S + EPS) / 3] (Sc.Eco.S et EPS obligatoires).
+    * *STMG :* T = FG + [(HG + Management + EPS) / 3] (EPS obligatoire).
+
+================================================================================
+CHUNK #123
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 274 characters
+--------------------------------------------------------------------------------
+* **Licence en Conservation - Restauration des Biens Culturels :** ISBA Sousse (`30162`), ISAM Gabès (`50162`). Score : T = FG + [(F + HG) / 2].
+* **Licence en Théâtre et Arts de la Scène - Filière à Test :** ISAD Tunis (`10200`), ISMT Le Kef (`82200`). Score : T = FG + PH.
+
+================================================================================
+CHUNK #124
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 339 characters
+--------------------------------------------------------------------------------
+* **Licence en Théâtre et Arts de la Scène - Filière à Test :** ISAD Tunis (`10200`), ISMT Le Kef (`82200`). Score : T = FG + PH.
+* **Licence en Musique et Musicologie - Filière à Test :** * *Établissements :* ISM Tunis (`10201`), ISM Sousse (`30201`), ISM Sfax (`40201`), ISAM Gabès (`50201`), ISAM Gafsa (`60201`), ISMT Le Kef (`82201`).
+
+================================================================================
+CHUNK #125
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 319 characters
+--------------------------------------------------------------------------------
+* *STMG :* T = FG + PH.
+* **Licence en Arts Plastiques :** ISBA Tunis (`10202`), ISBA Nabeul (`22202`), ISBA Sousse (`30202`), ISAM Sfax (`40202`), ISAM Kairouan (`70202`), ISAM Gabès (`50202`), ISAM Tataouine (`56202`), ISAM Kasserine (`73202`), ISAM Sidi Bouzid (`75202`), ISAM Siliana (`86202`). Score : T = FG + PH.
+
+================================================================================
+CHUNK #126
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 398 characters
+--------------------------------------------------------------------------------
+* **Licence en Design Espace (Architecture d'Intérieur / Scénographie) :** ISBA Tunis (`10207`), ESST Design Manouba (`11207`), ISBA Nabeul (`22207`), ISBA Sousse (`30207`), ISAM Mahdia (`36207`), ISAM Sfax (`40207`), ISAM Gabès (`50207`), ISAM Tataouine (`56207`), ISAM Gafsa (`60207`), ISAM Kairouan (`70207`), ISAM Kasserine (`73207`), ISAM Sidi Bouzid (`75207`), ISAM Siliana (`86207`). Score :
+
+================================================================================
+CHUNK #127
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 326 characters
+--------------------------------------------------------------------------------
+* **Licence en Design Produit :** ISBA Tunis (`10208`), ESST Design Manouba (`11208`), ISBA Nabeul (`22208`), ISBA Sousse (`30208`), IS Mode Monastir (`34208`), ISAM Mahdia (`36208`), ISAM Sfax (`40208`), ISAM Gafsa (`60208`), ISAM Kairouan (`70208`), ISAM Kasserine (`73208`), ISAM Sidi Bouzid (`75208`). Score : T = FG + PH.
+
+================================================================================
+CHUNK #128
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 354 characters
+--------------------------------------------------------------------------------
+* **Licence en Design Image (Publicité) :** ISBA Tunis (`10209`), ESST Design Manouba (`11209`), ISBA Nabeul (`22209`), ISBA Sousse (`30209`), ISAM Mahdia (`36209`), ISAM Sfax (`40209`), ISAM Gabès (`50209`), ISAM Tataouine (`56209`), ISAM Gafsa (`60209`), ISAM Kairouan (`70209`), ISAM Sidi Bouzid (`75209`), ISAM Siliana (`86209`). Score : T = FG + PH.
+
+================================================================================
+CHUNK #129
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 357 characters
+--------------------------------------------------------------------------------
+* **Licence en Ingénierie et Techniques du Son - Filière à Test :** ISM Sousse (`30246`). Score (Bac Général) : T = FG + [(F + N.Sc.Inf) / 2] (N.Sc.Inf non obligatoire. Si absente : T = FG + F).
+* **Licence en Ingénierie du Son et Nouvelles Technologies - Filière à Test :** ISM Sfax (`40247`). Score (Bac Général) : T = FG + M (Mathématiques obligatoires).
+
+================================================================================
+CHUNK #130
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 397 characters
+--------------------------------------------------------------------------------
+* **Licence en Cinéma et Audiovisuel - Filière à Test :** ISAMM Manouba (`10265`), ISAM Sfax (`40265`). Score : T = FG + PH.
+* **Licence en Arts et Médiations :**
+    * *ISAMM Manouba (`10622`) / ISAM Sfax (`40622`) / ISIMM Gabès (`50622`) :*
+        * *Bac Général :* T = FG + [(PH + N.Sc.Inf) / 2] (N.Sc.Inf non obligatoire. Si absente : T = FG + PH).
+        * *STMG :* T = FG + [(PH + M) / 2].
+
+================================================================================
+CHUNK #131
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 317 characters
+--------------------------------------------------------------------------------
+#### Licence en Droit & Licence en Droit Social
+* **Établissements Proposés :** FDSP Tunis (`10301`), FSJPST Tunis (`11301`), FDSP Sousse (`30301`), FD Sfax (`40301`), ISEJ Gabès (`50301`), ISSJP Kairouan (`70301`), FSJEG Jendouba (`80301`), INTES Tunis (Droit Social : `10346`).
+* **Formules Spécifiques du Score :**
+
+================================================================================
+CHUNK #132
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 209 characters
+--------------------------------------------------------------------------------
+* **Formules Spécifiques du Score :**
+    * **Bac Général :** T = FG + [(F + A) / 2] (Arabe non obligatoire. Si absente : T = FG + F).
+    * **STMG :** T = FG + [(F + Droit) / 2] (Matière de spécialité Droit).
+
+================================================================================
+CHUNK #133
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 398 characters
+--------------------------------------------------------------------------------
+* **Établissements :** ISG Tunis (`10312`), ESSEC Tunis (`11312`), ESC Manouba (`12312`), FSEG Tunis (`13312`), INTES Tunis (`14312`), ISG Bizerte (`20312`), FSEG Nabeul (`22312`), ISG Sousse (`30312`), IHEC Sousse (`31312`), ISFF Sousse (`32312`), FSEG Sousse (`33312`), FSEG Mahdia (`36312`), FSEG Sfax (`40312`), ESC Sfax (`41312`), ISAA Sfax (`42312`), IHEC Sfax (`43312`), ISG Gabès (`50312`),
+
+================================================================================
+CHUNK #134
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 222 characters
+--------------------------------------------------------------------------------
+FSEG Sousse (`33312`), FSEG Mahdia (`36312`), FSEG Sfax (`40312`), ESC Sfax (`41312`), ISAA Sfax (`42312`), IHEC Sfax (`43312`), ISG Gabès (`50312`), ISAE Gafsa (`60312`), ISIG Kairouan (`70312`), FSJEG Jendouba (`80312`).
+
+================================================================================
+CHUNK #135
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 257 characters
+--------------------------------------------------------------------------------
+* **Conditions de note minimale & Formules :**
+    * **Bac Général :** T = FG + [(M + Sc.Eco.S) / 2] (Maths et Sc.Eco.S obligatoires, avec condition stricte **M >= 10**).
+    * **STMG :** T = FG + [(M + Management) / 2] (Avec condition stricte **M >= 10**).
+
+================================================================================
+CHUNK #136
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 216 characters
+--------------------------------------------------------------------------------
+#### Licence en Sciences du Travail
+* **Établissement :** INTES Tunis (`10347`).
+    * *Bac Général :* T = FG + [(PH + Sc.Eco.S + HG) / 3] (Sc.Eco.S obligatoire).
+    * *STMG :* T = FG + [(PH + Management + HG) / 3].
+
+================================================================================
+CHUNK #137
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 397 characters
+--------------------------------------------------------------------------------
+* **Établissements :** ISG Tunis (`10318`), ESSEC Tunis (`11318`), ESC Manouba (`12318`), FSEG Tunis (`13318`), IHEC Carthage (`14318`), ISCAE Manouba (`15318`), INTES Tunis (`16318`), ISG Bizerte (`20318`), FSEG Nabeul (`22318`), ISG Sousse (`30318`), IHEC Sousse (`31318`), ISFF Sousse (`32318`), FSEG Sousse (`33318`), IS Mode Monastir (`34318`), FSEG Mahdia (`36318`), FSEG Sfax (`40318`), ESC
+
+================================================================================
+CHUNK #138
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 296 characters
+--------------------------------------------------------------------------------
+IHEC Sousse (`31318`), ISFF Sousse (`32318`), FSEG Sousse (`33318`), IS Mode Monastir (`34318`), FSEG Mahdia (`36318`), FSEG Sfax (`40318`), ESC Sfax (`41318`), ISAA Sfax (`42318`), IHEC Sfax (`43318`), ISG Gabès (`50318`), ISAE Gafsa (`60318`), ISIG Kairouan (`70318`), FSJEG Jendouba (`80318`).
+
+================================================================================
+CHUNK #139
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 222 characters
+--------------------------------------------------------------------------------
+#### Bachelor of Business Administration (BBA) - Filière à Test
+* **Établissement :** Tunis Business School (TBS) (`10377`).
+* **Score :** T = FG + max(Ang - 15, 0) + max(M - 12, 0) (Anglais et Mathématiques obligatoires).
+
+================================================================================
+CHUNK #140
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 364 characters
+--------------------------------------------------------------------------------
+* **Filières Disponibles :**
+    * **Licence en Management :** ISET Radès (`10391`), Charguia (`11391`), Bizerte (`21391`), Nabeul (`22391`), Zaghouan (`24391`), Sousse (`30391`), Mahdia (`36391`), Sfax (`40391`), Djerba (`54391`), Médenine (`55391`), Kébili (`56391`), Gafsa (`60391`), Kairouan (`70391`), Kasserine (`73391`), Le Kef (`82391`), Siliana (`86391`).
+
+================================================================================
+CHUNK #141
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 334 characters
+--------------------------------------------------------------------------------
+* **Licence en Comptabilité et Finance :** ISET Radès (`10394`), Bizerte (`21394`), Nabeul (`22394`), Zaghouan (`24394`), Ksar-Hellal (`34394`), Mahdia (`36394`), Sfax (`40394`), Gabès (`50394`), Médenine (`55394`), Tataouine (`57394`), Kairouan (`70394`), Kasserine (`73394`), Jendouba (`80394`), Le Kef (`82394`), Siliana (`86394`).
+
+================================================================================
+CHUNK #142
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 360 characters
+--------------------------------------------------------------------------------
+* **Licence en Commerce et Distribution :** ISET Radès (`10396`), Bizerte (`21396`), Nabeul (`22396`), Ksar-Hellal (`34396`), Mahdia (`36396`), Sfax (`40396`), Djerba (`54396`), Kairouan (`70396`), Jendouba (`80396`), Siliana (`86396`).
+* **Formules Particulières des Scores en ISET :**
+    * **Bac Général :** T = FG + Sc.Eco.S (Matière Sc.Eco.S obligatoire).
+
+================================================================================
+CHUNK #143
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 215 characters
+--------------------------------------------------------------------------------
+### 10.7. Domaine : Sciences Exactes et Technologies
+
+* **Licence en Géomatiques et Applications :** FS Tunis (`10168`), FS Gafsa (`60168`). Score (Bac Général) : T = FG + N.Sc.Inf (Spécialité N.Sc.Inf obligatoire).
+
+================================================================================
+CHUNK #144
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 377 characters
+--------------------------------------------------------------------------------
+#### Licence en Informatique de Gestion (Business Intelligence, E-Business, Information Systems)
+* **Établissements Proposés :** ISG Tunis (`10311`), ESSEC Tunis (`11311`), ESEN Manouba (`12311`), FSEG Tunis (`13311`), IHEC Carthage (`14311`), ISG Bizerte (`20311`), FSEG Nabeul (`22311`), ISG Sousse (`30311`), FSEG Mahdia (`36311`), ISI Mahdia (`37311`), FSEG Sfax (`40311`).
+
+================================================================================
+CHUNK #145
+Source: guide_orientation_2025_rag_optimized.md
+Path: refined_data/guide_orientation_2025_rag_optimized.md
+Length: 235 characters
+--------------------------------------------------------------------------------
+* **Formules Spécifiques du Score :**
+    * **Bac Général :** T = FG + [(M + Sc.Eco.S) / 2] (Mathématiques obligatoires, Sc.Eco.S non obligatoire. Si Sc.Eco.S est absente : T = FG + M).
+    * **STMG :** T = FG + [(M + Management) / 2].
 
