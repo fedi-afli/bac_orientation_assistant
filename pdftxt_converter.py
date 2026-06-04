@@ -4,6 +4,15 @@ from marker.models import create_model_dict
 from marker.output import text_from_rendered
 
 
+""" Marker (Highly Recommended)
+Marker is a powerful open-source tool specifically designed to convert PDFs into clean Markdown for LLMs. It uses deep learning models to optimize reading order, extract tables into Markdown format, and remove junk text (like page numbers).
+
+Best for: Complex layouts, multi-column academic papers, books.
+
+Pros: Incredible formatting preservation; formats tables beautifully.
+
+Cons: Slower than basic text extractors because it uses models under the hood. """
+
 def ingestion_pipeline():
     pdf_path = "docs/guide_bm_2025.pdf"
 
