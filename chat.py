@@ -15,11 +15,11 @@ MMR balances relevance and diversity — it penalizes chunks that are too simila
  """
 def ask(question):
     results = db.max_marginal_relevance_search(
-    question,
-    k=3,
-    fetch_k=10,      # smaller pool = more focused candidates
-    lambda_mult=0.7  # lean more toward relevance over diversity
-)
+        question,
+        k=4,
+        fetch_k=20,
+        lambda_mult=0.7,
+    )
 
     context = "\n\n".join([d.page_content for d in results])
     print(context)
@@ -36,7 +36,7 @@ Question:
 {question}
 Answer clearly and concisely."""
 
-   # return llm.invoke(prompt)
+    return llm.invoke(prompt)
 
 if __name__ == "__main__":
     print("RAG Chat ready. Type 'exit' to quit.\n")

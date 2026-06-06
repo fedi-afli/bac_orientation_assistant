@@ -17,49 +17,43 @@ def md_to_meta_chunks(doc: Document) -> List[Document]:
         content = "\n".join(buffer).strip()
         buffer = []
 
-        header_lines = [f"section: {current_section}"]
-
-        if current_subsection:
-            header_lines.append(f"subsection: {current_subsection}")
-
-        header = "\n".join(header_lines)
-
-        full_text = f"""{header}
----
-{content}
-"""
-
         chunks.append(
             Document(
-                page_content=full_text,
+                page_content=content,
                 metadata={
+                    "source": doc.metadata.get("source", ""),
                     "section": current_section if current_section else "",
-                    "subsection": current_subsection if current_subsection else ""
+                    "subsection": current_subsection if current_subsection else "",
                 }
             )
         )
 
-    # read from Document object instead of file
     lines = doc.page_content.split("\n")
 
     for line in lines:
-        line = line.strip()
+        stripped = line.strip()
 
-        # SECTION ##
-        if line.startswith("## ") and not line.startswith("####"):
+        if stripped.startswith("## ") and not stripped.startswith("###"):
             flush()
-            current_section = line.replace("##", "").strip()
+            current_section = stripped.lstrip("#").strip()
             current_subsection = None
+            # include the section title as searchable content
+            buffer.append(current_section)
 
-        # SUBSECTION ####
-        elif line.startswith("####"):
+        elif stripped.startswith("####"):
             flush()
-            current_subsection = line.replace("####", "").strip()
+            current_subsection = stripped.lstrip("#").strip()
+            # include the subsection title as searchable content
+            buffer.append(current_subsection)
 
-        # CONTENT
+        elif stripped.startswith("###"):
+            flush()
+            current_subsection = stripped.lstrip("#").strip()
+            buffer.append(current_subsection)
+
         else:
-            if line:
-                buffer.append(line)
+            if stripped:
+                buffer.append(stripped)
 
     flush()
     return chunks
