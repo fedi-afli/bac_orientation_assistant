@@ -20,18 +20,9 @@ def ask(question):
     fetch_k=10,      # smaller pool = more focused candidates
     lambda_mult=0.7  # lean more toward relevance over diversity
 )
-    
-
-    print("\n" + "=" * 60)
-    print(f"RETRIEVED {len(results)} CHUNKS:")
-    print("=" * 60)
-    for i, doc in enumerate(results, 1):
-        print(f"\n[Chunk {i} | Source: {doc.metadata.get('source', '?')}]")
-        print("-" * 40)
-        print(doc.page_content[:300] + ("..." if len(doc.page_content) > 300 else ""))
-    print("=" * 60 + "\n")
 
     context = "\n\n".join([d.page_content for d in results])
+    print(context)
 
     prompt = f"""You are an expert advisor for the Tunisian University Orientation system (orientation.tn) for 2025.
 You assist French Baccalaureate graduates (General and STMG tracks) from homologated Tunisian lycées.
@@ -45,7 +36,7 @@ Question:
 {question}
 Answer clearly and concisely."""
 
-    return llm.invoke(prompt)
+   # return llm.invoke(prompt)
 
 if __name__ == "__main__":
     print("RAG Chat ready. Type 'exit' to quit.\n")
