@@ -14,7 +14,7 @@ Pros: Incredible formatting preservation; formats tables beautifully.
 Cons: Slower than basic text extractors because it uses models under the hood. """
 
 def ingestion_pipeline():
-    pdf_path = "docs/guide_bm_2025.pdf"
+    pdf_path = "docs/tables.pdf"
 
     if not os.path.exists(pdf_path):
         print(f"Error: PDF not found at {pdf_path}")
@@ -32,11 +32,11 @@ def ingestion_pipeline():
 
     os.makedirs("refined_data", exist_ok=True)
 
-    with open("refined_data/extracted_results.txt", "w", encoding="utf-8") as f:
+    with open("refined_data/extracted_tables.txt", "w", encoding="utf-8") as f:
         f.write(text)
 
     print("\n--- DONE ---")
-    print("Saved to: refined_data/extracted_results.txt")
+    print("Saved to: refined_data/extracted_tables.txt")
     print("Preview:\n")
     print(text[:500])
 
