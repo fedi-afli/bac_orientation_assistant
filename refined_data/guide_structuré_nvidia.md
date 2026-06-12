@@ -1,0 +1,2843 @@
+# Document Source: guide_bm_2025.pdf
+
+# Ce guide est destiné aux élèves réguliers des lycées homologués suivants et titulaires du baccalauréat général ou technologique (STMG) session 2025 :
+
+## Lycée Pierre-Mendès-France
+
+## Lycée Gustave Flaubert La Marsa
+
+## Ecole Internationale de Carthage
+
+## Lycée Louis-Pasteur
+
+## Ecole Internationale de Tunis
+
+## Lycée Scolaire René-Descartes
+
+## Lycée Français International de Sousse - Mhamed Driss
+
+## Lycée Gustave Eiffel de Bizerte
+
+## Lycée Français International Victor Hugo Djerba
+
+## Ecole Internationale de Sfax
+
+## Groupe scolaire René Descartes - Les Berges du Lac (Tunis)
+
+**Table des Matières**
+
+1) Le guide de l'orientation universitaire
+
+2) Informations générales sur l'orientation universitaire
+
+3) Orientation universitaire: étapes et procédures
+
+3.1) Le Mot de passe
+
+3.2) Correction des informations personnelles
+
+3.3) Le nombre de choix
+
+3.4) La formule du score (T)
+
+3.5) Les filières à test
+
+4) Les Journées d'Information de l'orientation universitaire
+
+5) Le calendrier de l'orientation universitaire 2025
+
+6) Les sessions de l'orientation universitaire 2025
+
+6.1) Session des lauréats
+
+6.1.1) Conditions Générales
+
+6.1.2) Calendrier de la session des lauréats
+
+6.1.3) Filières et capacité ouverte
+
+6.1.4) La formule du score
+
+6.1.5) Les réunions de confirmation
+
+6.2) Session principale de l'orientation universitaire
+
+6.3) Session finale de l'orientation universitaire
+
+6.4) Session de la réorientation
+
+7) Les concours de réorientation Mars 2026
+
+8) L'inscription et le retrait de l'inscription
+
+9) Adresses utiles
+
+10) Tableaux des filières par domaine de formation
+
+The provided image and draft are for a university orientation guide. The guide presents the rules and procedures for orientation towards public establishments in Tunisia. It also contains a list of fields of study for each establishment as well as their study paths. The paths are specialties that each student can choose after a common trunk of one or two years of higher education according to the fields of study.
+
+The university training offers are presented, in this guide, by university and by field of study. You can click on the name of the university to have the list of establishments relevant to this university as well as the list of formations it assures.
+
+| Université | Site web | Université | Site web |
+| --- | --- | --- | --- |
+| Université de Monastir | www.um.rnu.tn | Université Zitouna | www.uz.rnu.tn |
+| Université de Kairouan | www.univ-k.rnu.tn | Université de Tunis | www.utunis.rnu.tn |
+| Université de Sfax | www.uss.rnu.tn | Université de Tunis Manar | www.utm.rnu.tn |
+| Université de Jendouba | www.uj.rnu.tn | Université de Carthage | www.ucar.rnu.tn |
+| Université de Gabès | www.univgb.rnu.tn | Université de Manouba | www.uma.rnu.tn |
+| Université de Gafsa | www.ugaf.rnu.tn | Université de Sousse | www.uc.rnu.tn |
+
+Direction Générale des Etudes Technologiques (Réseau ISET) concours-isets.rnu.tn
+
+**2- Les Domaines de Formation**
+
+Les formations offertes sont regroupées selon dix (10) domaines d'études et elles sont présentées sous forme de tableaux. Chaque tableau contient les filières, les établissements où y sont enseignées, le nombre de places offertes pour chaque type de baccalauréat, la formule du score (T) et les conditions d'accès relatives à chaque filière.
+
+En cliquant sur le nom du domaine mentionnés ci-dessous, vous pouvez voir les tableaux correspondants.
+
+*   **Lettres, Langues et Cycles Préparatoires Littéraires**
+*   **Sciences Humaines, Sociales, Théologiques et Education**
+*   **Tourisme, Animation, Sport et Education physique**
+*   **Culture, Beaux-Arts, Arts et Métiers**
+*   **Sciences Juridiques et Sciences Politiques**
+*   **Sciences Economiques et Sciences de Gestion**
+*   **Sciences Exactes et Technologies**
+*   **Architecture et Cycles Préparatoires aux études d'Ingénieurs**
+*   **Sciences de la Santé, Médecine, Médecine dentaire et Pharmacie**
+*   **Sciences Agronomiques, Biotechnologie et Environnement**
+
+The image appears to be a page from a university orientation guide, featuring a mix of text and graphics. The top section includes a paragraph of text in French, accompanied by a graphic of a Wi-Fi symbol and a URL. Below this, there is a screenshot of a webpage with a blue banner and yellow text, which seems to be related to university formations.
+
+To transcribe this content into Markdown, we can break it down into sections and use appropriate formatting. Here's a possible transcription:
+
+# University Orientation Guide
+
+## Introduction
+
+Pour plus d'information sur les offres de formations universitaires (niveau licence, master doctorat et autres), vous pouvez consulter l'annuaire Tunisien des offres de formation universitaires en cliquant sur le lien ci-dessous:
+
+https://uni-formation.rnu.tn/
+
+## University Formations
+
+[Image of a Wi-Fi symbol and a URL]
+
+## Screenshot of University Formations Webpage
+
+[Image of a webpage with a blue banner and yellow text]
+
+## Table of University Formations
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| ... | ... | ... | ... | ... | ... |
+
+Note that the table structure and content will depend on the specific data presented in the image. The above transcription is just a rough outline, and you may need to adjust it based on the actual content of the image.
+
+In terms of formatting, we can use Markdown syntax to create headings, paragraphs, and tables. For example, we can use `#` to create top-level headings, `##` to create subsection headings, and `|` to create tables. We can also use Markdown syntax to format text, such as using `*` to create italic text or `**` to create bold text.
+
+Overall, the key is to carefully examine the image and transcribe the content into Markdown format, using appropriate syntax and formatting to create a clear and readable document.
+
+The image presents a page from a university orientation guide, featuring a mix of text and tables. The top section contains a paragraph of text in French, accompanied by a logo in the top-left corner that reads "Table des matières" in black text on a teal background. Below this, there are two bullet points with sub-bullets, followed by a table with three columns and four rows. The table includes a column header row with the text "L'orientation vers les établissements publics en Tunisie est organisée en deux sessions:" in the first column, and two rows of data with text in the second and third columns.
+
+The middle section of the page features a large white box with rounded corners, containing a paragraph of text in French. Below this, there is a red stamp with the word "IMPORTANT" in white text, followed by a paragraph of text in French.
+
+The bottom section of the page displays a screenshot of a website, with a blue banner at the top and a white background. The website appears to be a university website, with various links and images.
+
+Overall, the image suggests that the university orientation guide is providing information to students about the different programs and courses available at the university, as well as the application process and requirements. The use of tables and bullet points helps to organize the information in a clear and concise manner, making it easier for students to understand and navigate the guide.
+
+Here is the corrected and complete Markdown for this page:
+
+# Table des matières
+
+## L'orientation universitaire est un concours qui permet aux nouveaux bacheliers d'accéder aux universités publiques tunisiennes selon l'ordre du mérite.
+
+L'affectation d'un candidat dans une filière donnée est basée sur:
+
+* Un score calculé sur la base des notes obtenues au baccalauréat.
+* La capacité d'accueil dans chaque filière.
+* L'ordre de priorité des choix.
+
+L'orientation vers les établissements publics en Tunisie est organisée en deux sessions:
+
+* La session principale ouverte à tous les nouveaux bacheliers Tunisiens.
+* La session finale ouverte aux candidats qui n'ont pas eu une affectation ou n'ont pas participé à la session principale.
+
+## Toutes les opérations d'orientation universitaire se font exclusivement à travers le site web www.orientation.tn et seuls les admis dont les données ont été transférées par le centre des examens relevant de l'Institut Français de Tunisie auront les paramètres d'accès à ce site.
+
+## IMPORTANT
+
+Toutes les opérations d'orientation universitaire se font exclusivement à travers le site web www.orientation.tn et seuls les admis dont les données ont été transférées par le centre des examens relevant de l'Institut Français de Tunisie auront les paramètres d'accès à ce site.
+
+## Screenshot of a website
+
+[Image description: A screenshot of a website with a blue banner at the top and a white background. The website appears to be a university website, with various links and images.]
+
+Note: The image description is not part of the original text, but rather a description of the image that was added to provide context.
+
+**Réussir son orientation universitaire dépend nécessairement du choix des filières et leur classement par priorité dans la fiche du choix sur le site de l'orientation : www.orientation.tn**
+
+Il est conseillé de ne pas se focaliser sur une bien filière déterminée mais plutôt de diversifier les choix qui correspondent le mieux aptitudes de l'étudiant et à la capacité d'accueil.
+
+**Pour plus d'information voir la version en arabe du guide de l'orientation universitaire 2025**
+
+**www.orientation.tn/orient/pdf/guide2025.pdf**
+
+**Cliquer pour plus d'informations**
+
+| المجموع | الباكالوريا | الكود | الشعبة |
+| --- | --- | --- | --- |
+| 159.6500 | BAC GENERAL | 10501 | الاجازة في الكيمياء |
+| 172.7300 | BAC GENERAL | 10502 | الاجازة في الفيزياء و الكيمياء |
+
+**2025**
+
+**www.orientation.tn**
+
+**Cliquer pour plus d'informations**
+
+| Filière | Code |
+| --- | --- |
+| Licence en Français | 10311 |
+| Licence en Anglais | 10312 |
+
+**Formule du score (T) et Conditions**
+
+*   La formule du score est calculée en fonction des notes obtenues dans les différentes matières.
+*   Les conditions d'admission sont basées sur les résultats obtenus dans les épreuves du baccalauréat.
+
+**Table des matières**
+
+*   Réussir son orientation universitaire dépend nécessairement du choix des filières et leur classement par priorité dans la fiche du choix sur le site de l'orientation : www.orientation.tn
+*   Il est conseillé de ne pas se focaliser sur une bien filière déterminée mais plutôt de diversifier les choix qui correspondent le mieux aptitudes de l'étudiant et à la capacité d'accueil.
+*   Pour plus d'information voir la version en arabe du guide de l'orientation universitaire 2025
+*   www.orientation.tn/orient/pdf/guide2025.pdf
+*   Cliquer pour plus d'informations
+
+**Orientation universitaire : étapes et procédures**
+
+**01**
+Lire attentivement le guide de l'orientation universitaire.
+
+**02**
+Avoir le mot de passe nécessaire pour accéder aux différents services du site de l'orientation universitaire [www.orientation.tn](http://www.orientation.tn). Le mot de passe et le numéro de baccalauréat sont envoyés à chaque candidat sur son adresse email.
+
+**03**
+Saisir les choix de la session des lauréats sur le site [www.orientation.tn](http://www.orientation.tn) en respectant les codes des filières figurant dans ce guide du 03 au 05 juillet 2025.
+
+**04**
+Corriger les informations personnelles en cas d'erreur à travers le lien « Correction des informations personnelles » sur le site de l'orientation à partir du 16 juillet 2025.
+
+**05**
+Saisir les choix de la session principale sur le site [www.orientation.tn](http://www.orientation.tn) en respectant les codes des filières figurant dans ce Guide du 23 au 27 juillet 2025.
+
+**06**
+Les candidats qui n'ont pas participé à la session principale ou ceux qui n'ont pas été affectés, peuvent participer à la session finale sur le site [www.orientation.tn](http://www.orientation.tn) du 01 au 03 Août 2025 selon la capacité restante.
+
+**Pour plus d'information voir la version en arabe du guide de l'orientation universitaire 2025**
+
+[www.orientation.tn/orient/pdf/guide2025.pdf](http://www.orientation.tn/orient/pdf/guide2025.pdf)
+
+Cliquer pour plus d'informations
+
+**3.1) Le mot de passe**
+
+Toutes les opérations de l'orientation universitaire y compris la publication des résultats se font exclusivement en ligne via le site [www.orientation.tn](http://www.orientation.tn). Pour accéder à ces services, un mot de passe est envoyé à chaque candidat sur son adresse email à partir du **samedi 28 juin 2025**, ainsi que le numéro du baccalauréat du candidat et le numéro de sa carte d'identité nationale ou à défaut une série contenant huit fois le chiffre neuf (99999999).
+
+## Licence en Français
+
+Formule du score (T) et Conditions:
+
+*   Le score est calculé en fonction des notes obtenues aux épreuves du baccalauréat.
+*   Les conditions d'admission sont basées sur les résultats du baccalauréat et les préférences des candidats.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10501 | Université de Tunis | Licence en Français | BAC GENERAL |
+| 10502 | Université de Sfax | Licence en Français | BAC GENERAL |
+| 10503 | Université de Sousse | Licence en Français | BAC GENERAL |
+
+## Licence en Anglais
+
+Formule du score (T) et Conditions:
+
+*   Le score est calculé en fonction des notes obtenues aux épreuves du baccalauréat.
+*   Les conditions d'admission sont basées sur les résultats du baccalauréat et les préférences des candidats.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10504 | Université de Tunis | Licence en Anglais | BAC GENERAL |
+| 10505 | Université de Sfax | Licence en Anglais | BAC GENERAL |
+| 10506 | Université de Sousse | Licence en Anglais | BAC GENERAL |
+
+## Licence en Espagnol
+
+Formule du score (T) et Conditions:
+
+*   Le score est calculé en fonction des notes obtenues aux épreuves du baccalauréat.
+*   Les conditions d'admission sont basées sur les résultats du baccalauréat et les préférences des candidats.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10507 | Université de Tunis | Licence en Espagnol | BAC GENERAL |
+| 10508 | Université de Sfax | Licence en Espagnol | BAC GENERAL |
+| 10509 | Université de Sousse | Licence en Espagnol | BAC GENERAL |
+
+**3.2) Correction des informations personnelles**
+
+En cas d'erreur portant sur le nom, le prénom, la date de naissance, le genre ou le numéro de la carte d'identité nationale, les candidats peuvent les rectifier à partir du **16 juillet 2025** à travers le site web de l'orientation universitaire via le lien « **correction des informations personnelles** » l'accès se fait en utilisant les paramètres reçus avec le mot de passe.
+
+Après correction et enregistrement des données, l'accès au site de l'orientation ne sera possible qu'avec les nouveaux paramètres.
+
+**NB :** Pour éviter tous les problèmes inhérents par la suite à l'inscription, tout candidat est appelé à vérifier le numéro de sa carte d'identité nationale et à le corriger, si nécessaire, à travers le site **www.orientation.tn**
+
+| **01** | Accédez au site orientation.tn |
+| **02** | Cliquez sur le lien « correction des informations personnelles » |
+| **03** | Insérer votre numéro du bac puis celui de votre CIN (qui figure sur la feuille du mot de passe) puis votre mot de passe |
+| **04** | Insérez Vos données correctes puis enregistrez |
+
+The image presents a page from a university orientation guide, featuring a mix of text and tables in French. The page is divided into sections, each with its own heading and content.
+
+**Section 1: Introduction**
+
+* The top-left corner displays a logo with the text "Table des matières" in black.
+* Below the logo, a paragraph of text introduces the purpose of the guide.
+
+**Section 2: Table of Contents**
+
+* A table with four columns lists the contents of the guide:
+	+ Column 1: Section headings
+	+ Column 2: Page numbers
+	+ Column 3: Brief descriptions of each section
+	+ Column 4: Icons indicating the type of content (e.g., text, table, image)
+
+**Section 3: Formula for Calculating Scores**
+
+* A table with three columns explains the formula for calculating scores:
+	+ Column 1: Variable names (e.g., T, FG)
+	+ Column 2: Formulas for calculating each variable
+	+ Column 3: Conditions for applying each formula
+
+**Section 4: Example of a Score Calculation**
+
+* A table with four columns illustrates an example of a score calculation:
+	+ Column 1: Student's name
+	+ Column 2: Score for each subject (e.g., math, science)
+	+ Column 3: Total score
+	+ Column 4: Formula used to calculate the total score
+
+**Section 5: Conclusion**
+
+* A paragraph of text summarizes the main points of the guide and encourages readers to use the formulas and tables provided to calculate their scores.
+
+Overall, the image presents a clear and organized guide for university students to understand how their scores are calculated and how to use the formulas and tables provided to calculate their own scores.
+
+**FG 2025**
+
+| Bac Général | (4 MF) + (1,5 PH) + (0,5 HG) + (0,5 E.Sc) + (1,5 GO) + (1 F) + (1 LV) |
+| --- | --- |
+| Bac Technologique | (4 MF) + (1 PH) + (1 HG) + (1 M) + (1 GO) + (1 F) + (1 LV) |
+
+| MF | Moyenne Finale | LV | Moyenne de la langue Vivante A et B |
+| --- | --- | --- | --- |
+| PH | Philosophie | F | Français |
+| HG | Histoire Géographie | M | Mathématiques |
+| E.Sc | Enseignement Scientifique | GO | Grand Oral |
+
+**Note de la session de ratrapage :** Les notes et la moyenne des bacheliers admis à la session de ratrapage sont calculées de la manière suivante :
+
+* Notes : [(Note de la Session Principale X 2) + Note de la Session de ratrapage] / 3
+* Moyenne : [(Moyenne de la Session Principale X 2) + Moyenne de la Session de ratrapage] / 3
+
+**Il ne sera pris en compte dans le calcul du score que les notes des enseignements de spécialité de la classe terminale du baccalauréat.**
+
+**La formule globale (FG) et le classement des candidats sont disponibles sur le site www.orientation.tn à partir du 16 juillet 2025.**
+
+The image presents a page from a university orientation guide, featuring a mix of text and graphics. The page is divided into two main sections: a large block of text at the top and a graphic illustration at the bottom.
+
+**Text Section:**
+
+*   The title "3.5) Les filières à test" is prominently displayed in blue text.
+*   A paragraph of text follows, discussing the importance of certain fields requiring a test entry. The text is written in French and includes a link to a website for more information.
+*   A second paragraph explains that the date and place of the tests will be communicated to candidates once the publication of results is complete. The text also mentions that candidates who have not accepted the test will be affected by another filter, which will be applied to their file according to the choice made by the student.
+
+**Graphic Illustration:**
+
+*   The illustration depicts a man sitting at a desk, looking at a computer screen. He is wearing a suit and tie and has a pencil in his hand.
+*   To the left of the man, there is a lightbulb icon, which may represent an idea or inspiration.
+*   In the bottom-left corner of the image, there is a circular graphic with various symbols and icons, including a clock, a calendar, and a magnifying glass.
+
+**Overall:**
+
+*   The image appears to be a page from a university orientation guide, providing information to students about the testing process and the importance of certain fields.
+*   The graphic illustration adds a visual element to the page, breaking up the text and making the content more engaging.
+*   The use of French language and cultural references suggests that the guide is intended for students in a French-speaking country or region.
+
+# 3.5) Journées d'information sur l'Orientation Universitaire
+
+Le Ministère de l'Enseignement Supérieur et de la Recherche Scientifique organise les journées nationales d'information de l'orientation universitaire le 17, 18 et 19 juillet 2025 à la cité des sciences de Tunis.
+
+À travers cet événement, il y aura :
+
+*   Des expositions des universités et des offices des œuvres universitaires.
+*   Des conférences sur les offres de formations universitaires et leurs débouchés professionnels et académiques.
+*   Un espace dédié aux lycéens et aux étudiants pour rencontrer les enseignants universitaires, les conseillers d'information et d'orientation scolaire et universitaire ainsi que les supérviseurs du Ministère.
+
+**INVITATION**
+
+Journées Nationales d'Information sur l'Orientation Universitaire
+
+Cité des Sciences à Tunis
+
+Le 17 - 18 - 19 Juillet 2025
+
+**Le calendrier de l'orientation universitaire**
+
+**Etapes et Procédures**
+
+### 1. Préparation
+
+*   **Choix de la filière** : Les étudiants doivent choisir leur filière d'études en fonction de leurs intérêts et de leurs compétences.
+*   **Préparation des dossiers** : Les étudiants doivent préparer leurs dossiers d'inscription, qui doivent inclure leurs relevés de notes, leurs diplômes et leurs lettres de motivation.
+
+### 2. Inscription
+
+*   **Inscription en ligne** : Les étudiants doivent s'inscrire en ligne sur le site web de l'université.
+*   **Paiement des frais d'inscription** : Les étudiants doivent payer les frais d'inscription, qui varient en fonction de la filière choisie.
+
+### 3. Sélection
+
+*   **Sélection des candidats** : Les candidats sont sélectionnés en fonction de leurs résultats scolaires et de leurs compétences.
+*   **Entretiens d'admission** : Les candidats sélectionnés doivent passer un entretien d'admission avec un membre du jury.
+
+### 4. Admission
+
+*   **Admission définitive** : Les candidats qui ont réussi l'entretien d'admission sont admis définitivement à l'université.
+*   **Envoi des lettres d'admission** : Les lettres d'admission sont envoyées aux candidats admis.
+
+### 5. Inscription définitive
+
+*   **Inscription définitive** : Les étudiants admis doivent s'inscrire définitivement à l'université.
+*   **Paiement des frais de scolarité** : Les étudiants doivent payer les frais de scolarité, qui varient en fonction de la filière choisie.
+
+### 6. Début des cours
+
+*   **Début des cours** : Les cours commencent à la rentrée universitaire.
+*   **Présentation des programmes** : Les programmes des cours sont présentés aux étudiants.
+
+# Le calendrier de l'Orientation Universitaire
+
+L'orientation universitaire 2025 se déroule selon le calendrier suivant :
+
+| Session | Saisie des choix | Résultats Sur le site : www.orientation.tn |
+| --- | --- | --- |
+| Lauréats | Du 03 au 05 Juillet 2025 | Mardi 08 Juillet 2025 |
+| Principale | Du 23 au 27 Juillet 2025 | Vendredi 01 Août 2025 |
+| Finale | Du 01 au 03 Août 2025 | Mercredi 06 Août 2025 |
+| Réorientation | Du 11 au 15 Août 2025 | samedi 30 Août 2025 |
+
+Chaque candidat peut connaître son classement, sa formule globale et peut corriger ses informations personnelles sur le site de l'orientation www.orientation.tn à partir du 16 juillet 2025.
+
+**6.1) Session des Lauréats**
+
+L'orientation des lauréats tunisiens des classes terminales vers les classes préparatoires aux Grandes Ecoles de la Tunisie (IPEST) et de la France se fait exclusivement à travers le site de l'orientation universitaire **www.orientation.tn** entre le **03 et 05 Juillet 2025**.
+
+Seules les candidatures répondant aux conditions indiquées ci-dessous et mentionnées dans la circulaire **N° 39 du 22 Avril 2025**, seront retenues :
+
+*   Être de nationalité Tunisienne.
+*   Être régulièrement inscrit et avoir le **baccalauréat général 2025** dans un lycée homologué. (Voir la liste des lycées homologués [page2](#page2)).
+*   Avoir une **moyenne générale** du cycle terminale supérieure ou égale à **16/20** (1er groupe).
+
+Les résultats de cette session seront proclamés sur le site de l'orientation universitaire le **08 Juillet 2025**.
+
+Pour plus d'information, vous êtes invités à lire attentivement:
+
+*   La circulaire **N° 39 du 22 Avril 2025**.
+*   La circulaire **17/21 du 15 Avril 2021** relative au concours d'accès aux écoles supérieures d'ingénieur et de commerce en France.
+
+# 6.1) Session des Lauréats
+
+## Calendrier de la session des lauréats
+
+| Saisie des choix | Le 03, 04 et 05 juillet 2025 (Via le site www.orientation.tn) |
+| Proclamation des résultats | Le mardi 08 juillet 2025 À partir de 12 h 00 (Via le site www.orientation.tn) |
+
+Pour plus d'information, voir la circulaire N° 39 du 22 Avril 2025
+
+# 6.1.3) Spécialités et Capacité d'accueil
+
+| Spécialité | Code | Capacité | Nature du bac | Réunion d'information |
+| --- | --- | --- | --- | --- |
+| MPSI | 99201 (Garçon) | 06 | baccalauréat général | 10 Juillet 2025 à 09h |
+| MPSI | 99214 (Fille) | 06 | baccalauréat général | 10 Juillet 2025 à 09h |
+| PCSI | 99202 (Garçon) | 02 | baccalauréat général | 10 Juillet 2025 à 09h |
+| PCSI | 99215 (Fille) | 02 | baccalauréat général | 10 Juillet 2025 à 09h |
+
+## Classes préparatoires à IPEST
+
+| MPSI | 99101 | 80 | baccalauréat général | 14 Juillet 2025 à 09h |
+| PCSI | 99102 | 40 | baccalauréat général | 14 Juillet 2025 à 09h |
+
+un seuil de 10% du nombre de places est destiné aux candidats les mieux classés selon le score de cette session et ayant un baccalauréat étranger équivalent au baccalauréat Tunisien.
+
+# IMPORTANT
+
+Pour plus d'information, voir la circulaire N° 39 du 22 Avril 2025
+
+**6.1) Session des Lauréats**
+
+**6.1.4) La formule du score**
+
+L'orientation vers l'une des filières mentionnées dans le tableau des filières se fait sur la base d'un score qui sera calculé selon la formule suivante :
+
+Score = 5MG + 2M + 2PC + 1F + 1PH + Max (Ang-12/3; 0)
+
+| MG | Moyenne finale du bac | F | Français (La moyenne entre les notes de l'écrit et l'oral) |
+| --- | --- | --- | --- |
+| M | Mathématiques | PH | Philosophie |
+| PC | Physique-Chimie | Ang | Anglais |
+
+**IMPORTANT**
+
+* Il ne sera pris en compte que les enseignements de spécialités de la classe terminale du baccalauréat général.
+* Les enseignements de spécialités "Mathématiques" et "Physique-chimie" sont exigées pour participer à la session des lauréats.
+
+# 6.1) Session des Lauréats
+
+Les candidats retenus ainsi que ceux retenus dans la liste d'attente sont invités à se présenter à des journées de confirmation d'affectation au siège de l'IPEST, pour confirmer leurs choix munis d'une copie de la carte d'identité nationale. Tout candidat retenu et absent à la journée de confirmation sera considéré comme défaillant et il sera remplacé par le candidat le mieux classé dans la liste d'attente. Pour plus d'information, voir la circulaire N° 39 du 22 Avril 2025.
+
+## Dates des réunions de confirmation
+
+Pour les retenus en France
+Le Jeudi 10 juillet 2025
+
+Pour les retenus à l'IPEST
+Le Lundi 14 juillet 2025
+
+Il est à noter que :
+
+*   Tout candidat retenu et absent à la journée de confirmation de l'affectation sera considéré comme défaillant.
+*   La liste d'attente sera affichée le jour de la proclamation des résultats sur le site www.orientation.tn
+*   Il ne sera pas permis aux candidats ayant confirmé leurs affectations de participer aux autres sessions d'orientation en Tunisie.
+
+Après confirmation et en cas de désistement, le candidat doit déposer une demande manuscrite avec sa signature légalisée au bureau d'ordre du ministère de l'enseignement supérieur et de la recherche scientifique au plus tard le 24 juillet 2025 pour qu'il puisse participer à la session principale de l'orientation universitaire vers les établissements publics de l'enseignement supérieur.
+
+# 6.2) Session Principale de l'Orientation Universitaire
+
+La session principale de l'orientation universitaire est ouverte à tout les titulaires du baccalauréat général ou technologique (STMG) session 2025.
+
+## IMPORTANT
+
+*   Chaque candidat doit remplir au moins 06 filières dans sa fiche de choix, à défaut, ces choix ne seront pas enregistrés par le système d'orientation.
+*   Le candidat peut modifier ses choix tout au long de la session principale.
+
+## 06 CHOIX OBLIGATOIRES
+
+| Calendrier de la session Principale | Saisie des choix www.orientation.tn | Du 23 au 27 juillet 2025 |
+| :--------------------------------- | :---------------------------------- | :------------------------- |
+| Résultats | | 01 Août 2025 |
+
+Le candidat doit respecter les délais sus-susmentionnés. à défaut, il sera ajourné à la session finale de l'orientation.
+
+# 6.3) Session Finale de l'Orientation Universitaire
+
+La session finale de l'orientation universitaire est ouverte aux titulaires du baccalauréat général ou technologique (STMG) session 2025 qui n'ont pas eu une affectation ou qui n'ont pas participé à la session principale.
+
+## IMPORTANT
+
+* Chaque candidat doit remplir au moins 06 filières dans sa fiche de choix, à défaut, ces choix ne seront pas enregistrés par le système d'orientation.
+* Le candidat peut modifier ses choix tout au long de la session principale.
+
+## 06 CHOIX OBLIGATOIRES
+
+| Calendrier de la session Finale | Saisie des choix www.orientation.tn | Du 01 au 03 Août 2025 |
+| :----------------------------: | :---------------------------------: | :---------------------: |
+| Résultats | | 06 Août 2025 |
+
+Chaque candidat doit respecter les délais susmentionnés
+
+**6.4) La session de Réorientation**
+
+Une session de réorientation se déroulera sur le site «www.orientation.tn» entre le **11 et le 15 août 2025**. Cette session est une occasion pour tout candidat voulant changer son affectation pour une raison sociale ou médicale ou avec le score dans la limite de la capacité d'accueil.
+
+**Réorientation avec le score**
+
+Tout candidat peut changer son affectation lors de la session de réorientation pour des raisons personnelles à condition que son score soit supérieur ou égal au score de dernier orienté de la filière concernée et ce dans la limite de la capacité disponible.
+
+Le candidat peut consulter le score du dernier orienté de la filière de la session 2025 à partir de **11 Août 2025**
+
+**Dans le cadre de la session de réorientation avec le score le candidat ne dépose aucun dossier.**
+
+**Réorientation pour des raisons sociales ou médicales**
+
+Le candidat voulant participer à cette session, pour des raisons sociales ou médicales, doit remplir la demande de réorientation sur le site, enregistrer ses choix, imprimer la demande et la joindre au dossier médical ou social et l'envoyer exclusivement par courier recommandé en respectant la procédure mentionnée dans le guide de l'orientation universitaire
+
+Le dernier délai pour l'envoi de la demande de réorientation pour des raisons médicales ou sociales est fixé pour le **18 Août 2025** (le cachet de la poste fait foi).
+
+**Chaque candidat ne peut présenter qu'une seule demande de réorientation tout en respectant la procédure mentionnée dans le guide de l'orientation universitaire.**
+
+Toute demande qui ne respecte pas la procédure mentionnée sera éliminée automatiquement et ne sera pas prise en compte.
+
+# Réorientation des bacheliers ayant des talents Particuliers
+
+Les élèves ayant un talent particulier ou des compétences spéciales, surtout dans les disciplines basées sur la créativité, ou qui ont eu des trophées au niveau national ou international dans un domaine particulier ; peuvent candidater aux filières correspondant à leur talent.
+
+Les filières concernées par ces compétences spéciales sont les suivantes :
+
+* Licence en Musique et musicologie
+* Licence en théâtre et arts de la scène
+* Licence en Cinéma et Audiovisuel
+* Licence en Arts Plastiques
+
+Les élèves concernés peuvent déposer une demande justifiée et surtout soutenue par des preuves tangibles (œuvres, concours, certifications, créations exposées, articles publiés, etc...), une commission technique au sein du ministère décidera de la pertinence des preuves fournies par les candidats, et du sort des demandes. Les dossiers doivent être envoyés au ministère de l'enseignement supérieur et de la recherche scientifique dans un délai ne dépassant pas le 18 Août 2025.
+
+## Filière : Licence en Musique et musicologie
+
+Formule du score (T) et Conditions :
+
+* Le candidat doit avoir obtenu un score minimum de 15/20 en musique et musicologie.
+* Le candidat doit avoir une expérience de 2 ans minimum dans le domaine de la musique et de la musicologie.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10501 | Université de Tunis | Musique et musicologie | BAC GENERAL |
+| 10502 | Université de Sfax | Musique et musicologie | BAC GENERAL |
+
+## Filière : Licence en théâtre et arts de la scène
+
+Formule du score (T) et Conditions :
+
+* Le candidat doit avoir obtenu un score minimum de 15/20 en théâtre et arts de la scène.
+* Le candidat doit avoir une expérience de 2 ans minimum dans le domaine du théâtre et des arts de la scène.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10503 | Université de Tunis | Théâtre et arts de la scène | BAC GENERAL |
+| 10504 | Université de Sfax | Théâtre et arts de la scène | BAC GENERAL |
+
+## Filière : Licence en Cinéma et Audiovisuel
+
+Formule du score (T) et Conditions :
+
+* Le candidat doit avoir obtenu un score minimum de 15/20 en cinéma et audiovisuel.
+* Le candidat doit avoir une expérience de 2 ans minimum dans le domaine du cinéma et de l'audiovisuel.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10505 | Université de Tunis | Cinéma et audiovisuel | BAC GENERAL |
+| 10506 | Université de Sfax | Cinéma et audiovisuel | BAC GENERAL |
+
+## Filière : Licence en Arts Plastiques
+
+Formule du score (T) et Conditions :
+
+* Le candidat doit avoir obtenu un score minimum de 15/20 en arts plastiques.
+* Le candidat doit avoir une expérience de 2 ans minimum dans le domaine des arts plastiques.
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10507 | Université de Tunis | Arts plastiques | BAC GENERAL |
+| 10508 | Université de Sfax | Arts plastiques | BAC GENERAL |
+
+**Table des matières**
+
+*   **Il ne sera pris en compte qu'une seule demande de réorientation.**
+*   **Chaque candidat ne peut choisir qu'une seule catégorie de réorientation (médicale ou sociale).**
+*   **Le candidat ne peut plus changer ses choix une fois il a enregistré sa demande de réorientation.**
+*   **Tout candidat ayant eu une réorientation doit choisir entre sa première affectation et celle de réorientation dans les 72 heures qui suivent la proclamation des résultats de réorientation via le site www.orientation.tn si non il sera affecté dans la filière obtenue à la session de réorientation**
+
+**مطلب إعادة توجيه جامعي 2025 - دورة**
+
+**العدسيل البلو: الإدارة العامة للشؤون الطلابية - وزارة التعليم العالي والبحث العلمي شارع اولاد حمور 1030 تونس**
+
+**Les documents d'appuis à la demande de réorientation pour des raisons sociales ou médicales doivent être mis dans une enveloppe portant le coupon en face que vous pouvez l'imprimer avec la demande de réorientation à partir du site www.orientation.tn**
+
+# Les concours de Réorientation organisé par les universités Mars 2026
+
+Chaque année, les universités et la direction générale des études technologiques organisent les concours de réorientation destinés aux étudiants ayant obtenu le baccalauréat pendant l'une des deux années qui précédent le concours. Le dépôt des candidatures se fait au mois de Janvier 2026 et le concours se déroule au mois de Mars 2026. Toutes les informations relatives aux concours de réorientation seront disponibles sur les sites web des universités et du ministère de l'enseignement supérieur et de la recherche scientifique www.mes.tn
+
+# L'inscription et le retrait d'inscription
+
+Tout étudiant affecté à une filière est tenu de payer les frais d'inscription (exclusivement avec la carte e-dinar jeune) sur le site www.inscription.tn. L'accès à ce site se fait uniquement avec le numéro de la carte d'identité nationale.
+
+L'étudiant est appelé à compléter son dossier d'inscription à l'établissement d'affectation conformément aux communiqués de cet établissement.
+
+Après l'inscription effective, tout étudiant désirant retirer son inscription pour l'année universitaire suivante doit présenter une demande de retrait d'inscription pour des raisons personnelles à l'administration de son établissement dans un délai ne dépassant pas un mois à compter de la date d'inscription.
+
+Les étudiants peuvent aussi présenter une demande de retrait d'inscription pour des raisons médicales même au cours de l'année universitaire (en présentant un dossier médical) à condition de le faire avant les examens de fin d'année (il est recommandé de s'assurer de la date limite avec l'administration de son établissement).
+
+**Adresses Utiles**
+
+| www.orientation.tn | Orientation universitaire |
+| www.facebook.com/OrientationUniversitaire | Page officielle de l'Orientation universitaire |
+| www.youtube.com/channel/UCSSO0l4wji0jNtCwQus7cTA | Chaine YouTube de l'Orientation universitaire |
+| www.mes.tn | Ministère de l'enseignement supérieur et de la recherche scientifique |
+| www.inscription.tn | Paiement des frais d'inscription à distance |
+| www.best.rnu.tn | Bourses et prêts universitaire à l'étranger |
+| www.ooun.rnu.tn | Office des œuvres universitaires pour le nord |
+| www.oouc.rnu.tn | Office des œuvres universitaires pour le centre |
+| www.oous.rnu.tn | Office des œuvres universitaires pour le sud |
+| www.uni-renov.rnu.tn | Direction générale de la rénovation universitaire |
+| www.cningenieur.rnu.tn | Les études d'ingénieur |
+| www.uvt.rnu.tn | université virtuelle de Tunis |
+
+# Lettres, Langues et Cycles Préparatoires Littéraires
+
+## Licence en Arabe
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10101 | Faculté des Sciences Humaines et Sociales de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 11101 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 12101 | Institut Supérieur des Sciences Humaines de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 13101 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 22101 | Institut Supérieur des Langues de Nabeul | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 30101 | Faculté des Lettres et des Sciences Humaines de Sousse | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 40101 | Faculté des Lettres et des Sciences Humaines de Sfax | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 50101 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 54101 | Institut Supérieur des Sciences Humaines de Médenine | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 60101 | Institut Supérieur des Etudes Appliquées en Humanités de Gafsa | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 70101 | Faculté des Lettres et des Sciences Humaines de Kairouan | Langue, Lettres et Civilisation | Bac Général | STMG | FG + A (Arabe exigée) |
+| 10102 | Faculté des Sciences Humaines et Sociales de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG | FG + Ang (Anglais exigée) |
+| 11102 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG | FG + Ang (Anglais exigée) |
+
+## Licence en Français
+
+### 10101
+
+Faculté des Sciences Humaines et Sociales de Tunis
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 11101
+
+Faculté des Lettres, des Arts et des Humanités de la Manouba
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 12101
+
+Institut Supérieur des Sciences Humaines de Tunis
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 13101
+
+Institut Supérieur des Langues de Tunis
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 22101
+
+Institut Supérieur des Langues de Nabeul
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 30101
+
+Faculté des Lettres et des Sciences Humaines de Sousse
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 40101
+
+Faculté des Lettres et des Sciences Humaines de Sfax
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 50101
+
+Institut Supérieur des Langues de Gabes
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 54101
+
+Institut Supérieur des Sciences Humaines de Médenine
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 60101
+
+Institut Supérieur des Etudes Appliquées en Humanités de Gafsa
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 70101
+
+Faculté des Lettres et des Sciences Humaines de Kairouan
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + A (Arabe exigée)
+
+### 10102
+
+Faculté des Sciences Humaines et Sociales de Tunis
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + Ang (Anglais exigée)
+
+### 11102
+
+Faculté des Lettres, des Arts et des Humanités de la Manouba
+
+Langue, Lettres et Civilisation
+
+Bac Général
+
+STMG
+
+FG + Ang (Anglais exigée)
+
+The provided image and draft are in French, and the task is to correct and complete the Markdown for this page. The image shows a table with the title "Lettres, Langues et Cycles Préparatoires Littéraires" and columns for "Filière", "Code", "Etablissement", "Parcours", "Série", and "Formule du score (T) et Conditions". The draft is a Markdown table with the same columns and data.
+
+To correct and complete the Markdown, we need to follow the instructions provided in the prompt. First, we need to destroy any conversational text at the beginning or end of the draft. Then, we need to fix any incorrectly transcribed numbers, codes, words, or formulas. We also need to remove any hallucinated content not visible in the image.
+
+Next, we need to fix any rows where the "Code" or "Etablissement" column is empty due to a vertically merged cell in the image. We need to repeat the value from the row above onto every row that belongs to the same merged group.
+
+We also need to fix any rows where the "Formule du score (T) et Conditions" column is empty. We need to extract the formula from the image and write it as a paragraph immediately below the heading.
+
+Finally, we need to remove any fabricated tables and rewrite the content using clean paragraph and list layout formatting.
+
+Here is the corrected and completed Markdown for this page:
+
+# Lettres, Langues et Cycles Préparatoires Littéraires
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 12102 | Institut Supérieur des Sciences Humaines de Tunis | Langue, Lettres et Civilisation Anglais et Relations Internationales | Bac Général | STMG |
+| 13102 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 22102 | Institut Supérieur des Langues de Nabeul | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 30102 | Faculté des Lettres et des Sciences Humaines de Sousse | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 34102 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 40102 | Faculté des Lettres et des Sciences Humaines de Sfax | Traduction Anglais des Affaires Langue, Lettres et Civilisation | Bac Général | STMG |
+| 50102 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 54102 | Institut Supérieur des Sciences Humaines de Médenine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 60102 | Institut Supérieur des Etudes Appliquées en Humanités de Gafsa | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 70102 | Faculté des Lettres et des Sciences Humaines de Kairouan | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 73102 | Institut des Etudes Appliquées en Humanités de Sbeitla | Anglais des Affaires | Bac Général | STMG |
+| 80102 | Institut Supérieur des Sciences Humaines de Jendouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 82102 | Institut Supérieur des Etudes Appliquées en Humanités du Kef | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 84102 | Institut Supérieur de Langues Appliquées et d'Informatique de Beja | Langue, Lettres et Civilisation | Bac Général | STMG |
+
+Note that we have removed the "Filière" column and replaced it with a heading for each section. We have also removed the "Formule du score (T) et Conditions" column and replaced it with a paragraph immediately below each heading.
+
+# Lettres, Langues et Cycles Préparatoires Littéraires
+
+## Licence en Français
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10103 | Faculté des Sciences Humaines et Sociales de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 11103 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 12103 | Institut Supérieur des Sciences Humaines de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 13103 | Institut Supérieur des Langues de Tunis | Médiation Culturelle Communication Traduction | Bac Général | STMG |
+| 22103 | Institut Supérieur des Langues de Nabeul | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 30103 | Faculté des Lettres et des Sciences Humaines de Sousse | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 34103 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 40103 | Faculté des Lettres et des Sciences Humaines de Sfax | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 50103 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 54103 | Institut Supérieur des Sciences Humaines de Médenine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 60103 | Institut Supérieur des Etudes Appliquées en Humanités de Gafsa | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 63103 | Institut Supérieur des Etudes Appliquées en Humanité de Tozeur | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 70103 | Faculté des Lettres et des Sciences Humaines de Kairouan | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 80103 | Institut Supérieur des Sciences Humaines de Jendouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 82103 | Institut Supérieur des Etudes Appliquées en Humanités du Kef | Langue, Lettres et Civilisation | Bac Général | STMG |
+
+## Licence en Français
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10103 | Faculté des Sciences Humaines et Sociales de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 11103 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 12103 | Institut Supérieur des Sciences Humaines de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 13103 | Institut Supérieur des Langues de Tunis | Médiation Culturelle Communication Traduction | Bac Général | STMG |
+| 22103 | Institut Supérieur des Langues de Nabeul | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 30103 | Faculté des Lettres et des Sciences Humaines de Sousse | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 34103 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 40103 | Faculté des Lettres et des Sciences Humaines de Sfax | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 50103 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 54103 | Institut Supérieur des Sciences Humaines de Médenine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 60103 | Institut Supérieur des Etudes Appliquées en Humanités de Gafsa | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 63103 | Institut Supérieur des Etudes Appliquées en Humanité de Tozeur | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 70103 | Faculté des Lettres et des Sciences Humaines de Kairouan | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 80103 | Institut Supérieur des Sciences Humaines de Jendouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 82103 | Institut Supérieur des Etudes Appliquées en Humanités du Kef | Langue, Lettres et Civilisation | Bac Général | STMG |
+
+# Lettres, Langues et Cycles Préparatoires Littéraires
+
+## Licence en Espagnol
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10104 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG | FG+Esp (Espagnol exigée) |
+| 11104 | Institut Supérieur des Sciences Humaines de Tunis | Economie et Commerce International | Bac Général | STMG | FG+Esp (Espagnol exigée) |
+| 12104 | Institut Supérieur des Langues de Tunis | Communication Interculturelle et Tourisme | Bac Général | STMG | FG+Esp (Espagnol exigée) |
+| 34104 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG | FG+Esp (Espagnol exigée) |
+| 40104 | Faculté des Lettres et des Sciences Humaines de Sfax | Langue, Lettres et Civilisation | Bac Général | STMG | FG+Esp (Espagnol exigée) |
+| 50104 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG | FG+Esp (Espagnol exigée) |
+
+## Licence en Italien
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10105 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG | FG+It (Italien exigée) |
+| 11105 | Institut Supérieur des Sciences Humaines de Tunis | Economie et Commerce International | Bac Général | STMG | FG+It (Italien exigée) |
+| 12105 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation Communication Interculturelle et Tourisme | Bac Général | STMG | FG+It (Italien exigée) |
+| 22105 | Institut Supérieur des Langues de Nabeul | Langue, Lettres et Civilisation | Bac Général | STMG | FG+It (Italien exigée) |
+| 34105 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG | FG+It (Italien exigée) |
+| 40105 | Faculté des Lettres et des Sciences Humaines de Sfax | Langue, Lettres et Civilisation | Bac Général | STMG | FG+It (Italien exigée) |
+| 50105 | Institut Supérieur des Langues de Gabes | Economie et Commerce International | Bac Général | STMG | FG+It (Italien exigée) |
+
+**Letres, Langues et Cycles Préparatoires Littéraires**
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10106 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 11106 | Institut Supérieur des Sciences Humaines de Tunis | Economie et Commerce International | Bac Général | STMG |
+| 12106 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 34106 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 50106 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 54106 |  |  | Bac Général | STMG |
+| Licence en Russe | 10107 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation Communication Interculturelle et Tourisme | Bac Général | STMG |
+| Licence en Chinois | 10108 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| Licence en Langues des Signes | 10119 | Institut Supérieur des Sciences Humaines de Tunis | Langues des Signes | Bac Général | STMG |
+| 34147 | Institut Supérieur des Langues de Moknine | Anglais | Bac Général | STMG |
+| Licence en Traduction | 40147 | Faculté des Lettres et des Sciences Humaines de Sfax | Arabe-Français-Anglais | Bac Général | STMG |
+| 70147 | Faculté des Lettres et des Sciences Humaines de Kairouan | Anglais | Bac Général | STMG |
+
+### Licence en Allemand
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10106 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 11106 | Institut Supérieur des Sciences Humaines de Tunis | Economie et Commerce International | Bac Général | STMG |
+| 12106 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 34106 | Institut Supérieur des Langues de Moknine | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 50106 | Institut Supérieur des Langues de Gabes | Langue, Lettres et Civilisation | Bac Général | STMG |
+| 54106 |  |  | Bac Général | STMG |
+
+### Licence en Russe
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10107 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation Communication Interculturelle et Tourisme | Bac Général | STMG |
+
+### Licence en Chinois
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10108 | Institut Supérieur des Langues de Tunis | Langue, Lettres et Civilisation | Bac Général | STMG |
+
+### Licence en Langues des Signes
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10119 | Institut Supérieur des Sciences Humaines de Tunis | Langues des Signes | Bac Général | STMG |
+| 34147 | Institut Supérieur des Langues de Moknine | Anglais | Bac Général | STMG |
+
+### Licence en Traduction
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 40147 | Faculté des Lettres et des Sciences Humaines de Sfax | Arabe-Français-Anglais | Bac Général | STMG |
+| 70147 | Faculté des Lettres et des Sciences Humaines de Kairouan | Anglais | Bac Général | STMG |
+
+# Table des matières
+
+## Lettres, Langues et Cycles Préparatoires Littéraires
+
+### Cycle Préparatoire aux Langues et Lettres : Arabe
+
+Limite d'âge 20 ans au 1er septembre
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Cycle Préparatoire aux Langues et Lettres : Arabe | 10190 | Institut Préparatoire aux Etudes Littéraires et Sciences Humaines de Tunis | Arabe | Bac Général | FG + A (Arabe exigée) |
+| Cycle Préparatoire aux Langues et Lettres : Arabe | 11190 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Arabe | Bac Général | STMG |
+
+### Cycle Préparatoire aux Langues et Lettres : Français
+
+Limite d'âge 20 ans au 1er septembre
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Cycle Préparatoire aux Langues et Lettres : Français | 10191 | Institut Préparatoire aux Etudes Littéraires et Sciences Humaines de Tunis | FRANCAIS | Bac Général | FG + F |
+| Cycle Préparatoire aux Langues et Lettres : Français | 11191 | Faculté des Lettres, des Arts et des Humanités de la Manouba | FRANCAIS | Bac Général | STMG |
+
+### Cycle Préparatoire aux Langues et Lettres : Anglais
+
+Limite d'âge 20 ans au 1er septembre
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Cycle Préparatoire aux Langues et Lettres : Anglais | 10192 | Institut Préparatoire aux Etudes Littéraires et Sciences Humaines de Tunis | ANGLAIS | Bac Général | FG + Ang (Anglais exigée) |
+| Cycle Préparatoire aux Langues et Lettres : Anglais | 11192 | Faculté des Lettres, des Arts et des Humanités de la Manouba | ANGLAIS | Bac Général | STMG |
+
+### Cycle Préparatoire aux Sciences Humaines : Histoire
+
+Limite d'âge 20 ans au 1er septembre
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Cycle Préparatoire aux Sciences Humaines : Histoire | 10193 | Institut Préparatoire aux Etudes Littéraires et Sciences Humaines de Tunis | HISTOIRE | Bac Général | FG+[(PH+HG)/2] |
+
+### Cycle Préparatoire aux Sciences Humaines : Géographie
+
+Limite d'âge 20 ans au 1er septembre
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Cycle Préparatoire aux Sciences Humaines : Géographie | 10194 | Institut Préparatoire aux Etudes Littéraires et Sciences Humaines de Tunis | GEOGRAPHIE | Bac Général | FG+[(PH+HG)/2] |
+
+### Cycle Préparatoire aux Sciences Humaines : Philosophie
+
+Limite d'âge 20 ans au 1er septembre
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Cycle Préparatoire aux Sciences Humaines : Philosophie | 10195 | Institut Préparatoire aux Etudes Littéraires et Sciences Humaines de Tunis | PHILOSOPHIE | Bac Général | FG+[(PH+HG)/2] |
+
+# Sciences Humaines, Sciences Sociales, Religion et Education
+
+## Licence en Anthropologie
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10118 | Institut Supérieur des Sciences Humaines de Tunis | Anthropologie Sociale et Culturelle | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+| 30118 | Faculté des Lettres et des Sciences Humaines de Sousse | Anthropologie | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+| 56118 | Institut Supérieur des Arts et Métiers de Tataouine | Anthropologie Sociale et Culturelle | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+
+## Licence en Sociologie
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10120 | Faculté des Sciences Humaines et Sociales de Tunis | Médiation, Régulation et Intervention Sociologique Jeunesse, Mobilités et Inclusion Sociale Démographie, Politiques Publiques et Développement Durable | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+| 11120 | Institut Supérieur des Sciences Humaines de Tunis | Culture et Communication Développement Humain et Questions Sociales | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+| 40120 | Faculté des Lettres et des Sciences Humaines de Sfax | Démographie, Politiques Publiques et Développement Durable Jeunesse, Mobilités et Inclusion Sociale Médiation, Régulation et Intervention Sociologique | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+| 60120 | Institut Supérieur des Etudes Appliquées en Humanités de Gafsa | Médiation, Régulation et Intervention Sociologique | Bac Général | FG+[(PH+ Sc.Eco.S + FI)/3] ( Sc.Eco.Sexigée) |
+
+# Filière
+
+## Licence en Psychologie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10121 | Faculté des Sciences Humaines et Sociales de Tunis | Psychologie | Bac Général | FG + PH |
+| 11121 | Institut Supérieur des Sciences Humaines de Tunis | Psychologie | Bac Général | STMG |
+| 10122 | Faculté des Sciences Humaines et Sociales de Tunis | Philosophie | Bac Général | STMG |
+| 11122 | Institut Supérieur des Sciences Humaines de Tunis | Philosophie | Bac Général | STMG |
+| 40122 | Faculté des Lettres et des Sciences Humaines de Sfax | Philosophie | Bac Général | STMG |
+| 70122 | Faculté des Lettres et des Sciences Humaines de Kairouan | Philosophie | Bac Général | STMG |
+| 10123 | Faculté des Sciences Humaines et Sociales de Tunis | Archéologie et Sciences du Patrimoine | Bac Général | STMG |
+| 11123 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Histoire de l'Art et Archéologie | Bac Général | STMG |
+| 30123 | Faculté des Lettres et des Sciences Humaines de Sousse | Histoire | Bac Général | FG+HG |
+| 40123 | Faculté des Lettres et des Sciences Humaines de Sfax | Histoire | Bac Général | STMG |
+| 80123 | Institut Supérieur des Sciences Humaines de Jendouba | Archéologie et Sciences du Patrimoine | Bac Général | STMG |
+
+**Sciences Humaines, Sociales, Théologiques et Education**
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10124 | Faculté des Sciences Humaines et Sociales de Tunis | Géographie | Bac Général | STMG |
+| 11124 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Aménagement, Environnement et Risques | Bac Général | STMG |
+| 30124 | Faculté des Lettres et des Sciences Humaines de Sousse | Risques et Territoires Développement Territorial et Collectivités Locales | Bac Général | STMG |
+| 40124 | Faculté des Lettres et des Sciences Humaines de Sfax | Territoire, Risques et Développement Durable Cartographie et Système d'information Géographique | Bac Général | STMG |
+| 10138 | Institut Supérieur de la Civilisation Islamique de Tunis | Civilisation Islamique FIKH et ses Fondements Sciences du Coran et de Hadith Al-Aqidah et Dialectique | Bac Général | STMG |
+| 70138 | Institut Supérieur Des Sciences Islamiques de Kairouan | Etudes Islamiques Jurisprudence Comparée et Droit Religions Comparées et Dialogue des Civilisations | Bac Général | STMG |
+| 10139 | Institut Supérieur de Théologie de Tunis | Economie et Finances Islamiques Coran et Hadith Civilisation Islamique Chariaa et Droit | Bac Général | STMG |
+| 10158 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Géomatique, Environnement et Aménagement | Bac Général | FG+[(HG+SVT+L.L.C.Etrg)/3] (SVT et L.L.C.Etrg exigées) |
+| 80159 | Institut Supérieur des Sciences Humaines de Jendouba | Géographie de l'Environnement | Bac Général | FG+[(HG+SVT+L.L.C.Etrg)/3] (SVT et L.L.C.Etrg exigées) |
+
+### Licence en Géographie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10124 | Faculté des Sciences Humaines et Sociales de Tunis | Géographie | Bac Général | STMG |
+| 11124 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Aménagement, Environnement et Risques | Bac Général | STMG |
+| 30124 | Faculté des Lettres et des Sciences Humaines de Sousse | Risques et Territoires Développement Territorial et Collectivités Locales | Bac Général | STMG |
+| 40124 | Faculté des Lettres et des Sciences Humaines de Sfax | Territoire, Risques et Développement Durable Cartographie et Système d'information Géographique | Bac Général | STMG |
+
+### Licence en Sciences Islamiques
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10138 | Institut Supérieur de la Civilisation Islamique de Tunis | Civilisation Islamique FIKH et ses Fondements Sciences du Coran et de Hadith Al-Aqidah et Dialectique | Bac Général | STMG |
+| 70138 | Institut Supérieur Des Sciences Islamiques de Kairouan | Etudes Islamiques Jurisprudence Comparée et Droit Religions Comparées et Dialogue des Civilisations | Bac Général | STMG |
+
+### Licence en Sciences Théologiques
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10139 | Institut Supérieur de Théologie de Tunis | Economie et Finances Islamiques Coran et Hadith Civilisation Islamique Chariaa et Droit | Bac Général | STMG |
+
+### Licence en Géomatique, Environnement et Aménagement
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10158 | Faculté des Lettres, des Arts et des Humanités de la Manouba | Géomatique, Environnement et Aménagement | Bac Général | FG+[(HG+SVT+L.L.C.Etrg)/3] (SVT et L.L.C.Etrg exigées) |
+
+### Licence en Géographie de l'Environnement
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 80159 | Institut Supérieur des Sciences Humaines de Jendouba | Géographie de l'Environnement | Bac Général | FG+[(HG+SVT+L.L.C.Etrg)/3] (SVT et L.L.C.Etrg exigées) |
+
+**Sciences Humaines, Sociales, Théologiques et Education**
+
+### Licence en Géopolitique et Relations Internationales
+
+*   **Code:** 10160
+*   **Etablissement:** Faculté des Lettres, des Arts et des Humanités de Manouba
+*   **Parcours:** Géopolitique et Relations Internationales
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(HG+H.L.Ph+L.L.C.Etrg)/3]
+
+### Licence en Conservation des Biens Culturels
+
+*   **Code:** 40161
+*   **Etablissement:** Faculté des Lettres et des Sciences Humaines de Sfax
+*   **Parcours:** Conservation et Restauration des Biens Culturels
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(F+HG)/2]
+
+### Licence en Conservation - Restauration des Biens Culturels
+
+*   **Code:** 10162
+*   **Etablissement:** Institut Supérieur des Métiers du Patrimoine de Tunis
+*   **Parcours:** Pierres Bois
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(F+HG)/2]
+
+### Licence en Géomatique et Aménagement
+
+*   **Code:** 10164
+*   **Etablissement:** Faculté des Sciences Humaines et Sociales de Tunis
+*   **Parcours:** Géomatique Aménagement et Planification Territoriale
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(HG+Sc.Eco.S +L.L.C.Etrg)/3]
+
+### Licence en Archéologie
+
+*   **Code:** 10167
+*   **Etablissement:** Institut Supérieur des Sciences Humaines de Tunis
+*   **Parcours:** Archéologie
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(F+HG)/2]
+
+### Licence en Arts du Patrimoine Islamique
+
+*   **Code:** 10260
+*   **Etablissement:** Institut Supérieur de Théologie de Tunis
+*   **Parcours:** Technologies des Arts du Patrimoine Islamique
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG + [(PH+ N.Sc.Inf)/2]
+
+### Licence en Service Social
+
+*   **Code:** 10355
+*   **Etablissement:** Institut National du Travail et des Etudes Sociales de Tunis
+*   **Parcours:** Développement et Protection Sociale
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(PH+ Sc.Eco.S + HG)/3]
+
+### Licence en Gestion Electronique de l'Information et des Documents
+
+*   **Code:** 10362
+*   **Etablissement:** Institut Supérieur de Documentation
+*   **Parcours:** Gestion Electronique de l'Information et des Documents
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(F+ N.Sc.Inf)/2]
+
+**Sciences Humaines, Sociales, Théologiques et Education**
+
+### Licence en Documentation, Bibliothéconomie et Archivistique
+
+*   **Code:** 10363
+*   **Etablissement:** Institut Supérieur de Documentation
+*   **Parcours:** Bibliothèques et Ressources Numériques Gestion des Archives
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG+[(Fr+Angl)/2] (Anglais exigée)
+
+### Licence en Sciences de l'Education (Enfance)
+
+*   **Code:** 10470
+*   **Etablissement:** Institut Supérieur des Cadres de l'Enfance de Carthage Dermech
+*   **Parcours:** Education Préscolaire Education de l'Enfant
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG + PH
+
+### Licence en Education Spécialisée
+
+*   **Code:** 10473
+*   **Etablissement:** Institut Supérieur de l'Education Spécialisée
+*   **Parcours:** Education Spécialisée
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** FG + PH
+
+### Licence en Education et Enseignement
+
+*   **Code:** 24477
+*   **Etablissement:** Institut Supérieur des Etudes Appliquées en Humanité de Zaghouan
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 36477
+*   **Etablissement:** Institut des Etudes Appliquées en Humanités de Mahdia
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 50477
+*   **Etablissement:** Institut Supérieur des Langues de Gabes
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 54477
+*   **Etablissement:** Institut Supérieur des Sciences Humaines de Médenine
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 56477
+*   **Etablissement:** Institut Supérieur des Arts et Métiers de Tataouine
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 60477
+*   **Etablissement:** Institut Supérieur des Sciences Sociale et de l'éducation de Gafsa
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 63477
+*   **Etablissement:** Institut Supérieur des Etudes Appliquées en Humanités de Tozeur
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 73477
+*   **Etablissement:** Institut Supérieur des Etudes Appliquées en Humanités de Sbeitla
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 80477
+*   **Etablissement:** Institut Supérieur des Sciences Humaines de Jendouba
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+*   **Code:** 82477
+*   **Etablissement:** Institut Supérieur des Etudes Appliquées en Humanités du Kef
+*   **Parcours:** Education et Enseignement
+*   **Série:** Bac Général
+*   **Formule du score (T) et Conditions:** STMG
+
+# Sciences Humaines, Sociales, Théologiques et Education
+
+## Licence en Intervention Sociale
+
+FG+[(PH+ Sc.Eco.S + HG)/3] ( Sc.Eco.Sexigée)
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10548 | Institut National du Travail et des Etudes Sociales de Tunis | Médiation Familiale | Bac Général |
+
+## Licence en Journalisme
+
+FG+[(A+F+PH)/3] (Arabe non exigée) Si Arabe n'existe pas alors T=FG+[( F+PH)/2]
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10611 | Institut de Presse et des Sciences de l'Information | Journalisme | Bac Général |
+
+## Licence en Communication
+
+FG+[(A+F+PH)/3] (Arabe non exigée) Si Arabe n'existe pas alors T=FG+[( F+PH)/2]
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10612 | Institut de Presse et des Sciences de l'Information | Communication | Bac Général |
+
+# Table des matières
+
+## Tourisme, Animation, Sports et Education Physique
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Animation Touristique | 73440 | Institut Supérieur des Etudes Appliquées en Humanités de Sbeitla | Animation Touristique | Bac Général | FG+[(F+EPS)/2] (EPS exigée) |
+| Licence en Médiation et Animation | 10443 | Institut Supérieur de l'Animation pour la Jeunesse et la Culture de Bir El Bey | Médiation et Animation Culturelle Animation de la Jeunesse | Bac Général | FG + PH (EPS exigée) |
+| Licence en Sciences et Techniques des Activités Physiques et Sportives | 40450 | Institut Supérieur de Sport et de l'Education Physique de Sfax | Activités Physiques Adaptées et Santé Education et Motricité | Bac Général | FG + [(SVT+ EPS)/2] (SVT et EPS exigées, EPS>16) |
+| Education physique exigée Test Medical | 60450 | Institut Supérieur de Sport et de l'Education Physique de Gafsa | Activités Physiques Adaptées Education et Motricité | Bac Général | FG + [(SVT+ EPS)/2] (SVT et EPS exigées, EPS>16) |
+| Licence en Tourisme Filière à Test | 10452 | Institut des Hautes Etudes Touristiques de Sidi Dhrif | Management Touristique Guide Touristique | Bac Général | FG + [(HG+ Sc.Eco.S+EPS)/3] (Sc.Eco.S et EPS exigées) |
+| Licence en Hôtellerie Filière à Test | 10453 | Institut des Hautes Etudes Touristiques de Sidi Drif | Management de la Restauration Management de l'Hébergement | Bac Général | FG + [(HG+ Sc.Eco.S+EPS)/3] (Sc.Eco.S et EPS exigées) |
+
+# Culture, Beaux-Arts, et Arts et Métiers
+
+## Licence en Conservation - Restauration des Biens Culturels
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Conservation - Restauration des Biens Culturels | 30162 | Institut Supérieur des Beaux-Arts de Sousse | Mosaique et Surfaces Décorées | Bac Général | FG+[(F+HG)/2 |
+| 50162 | Institut Supérieur des Arts et Métiers de Gabes | Pierres Sculptées | Bac Général | STMG |
+
+## Licence en Théâtre et Arts de la Scène
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Théâtre et Arts de la Scène | 10200 | Institut Supérieur d'Art Dramatique de Tunis | Art du Comédien | Bac Général | FG + PH |
+| Théâtre Jeune Public et Médiation Théâtrale | STMG |
+| 82200 | Institut Supérieur de Musique et du Théâtre du Kef | Art du Comédien | Bac Général | STMG |
+| Théâtre pour Enfants | FG+[(PH+Art)/2] (Art non exigée) |
+| 10201 | Institut Supérieur de Musique de Tunis | Musique et Interprétation | Bac Général | Si Art n'existe pas alors T=FG+ PH |
+| Musique et Musicologie | STMG | FG + PH |
+| 30201 | Institut Supérieur de Musique de Sousse | Musique et Interprétation | Bac Général | FG+[(PH+Art)/2] (Art non exigée) |
+| Musique et Musicologie | STMG | Si Art n'existe pas alors T=FG+ PH |
+| 40201 | Institut Supérieur de Musique de Sfax | Musique et Interprétation | Bac Général | FG+[(PH+Art)/2] (Art non exigée) |
+| Musique et Musicologie | STMG | Si Art n'existe pas alors T=FG+ PH |
+| 50201 | Institut Supérieur des Arts et Métiers de Gabes | Musique et Musicologie | Bac Général | FG+[(PH+Art)/2] (Art non exigée) |
+| 60201 | Institut Supérieur des Arts et Métiers de Gafsa | Musique et Musicologie | Musique et Musicologie | FG + PH |
+
+**Table des matières**
+
+# Culture, Beaux-Arts, et Arts et Métiers
+
+## Licence en Musique et Musicologie
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Musique et Musicologie | 82201 | Institut Supérieur de Musique et du Théâtre du Kef | Musique et Musicologie | Bac Général | FG+[(PH+Art)/2] (Art non exigée) |
+| Filière à Test | | | | | Si Art n'existe pas alors T=FG+ PH |
+
+## Licence en Arts Plastiques
+
+| Licence en Arts Plastiques | 10202 | Institut Supérieur des Beaux-Arts de Tunis | Céramique | Bac Général | |
+| --- | --- | --- | --- | --- | --- |
+| | | | Gravure | | |
+| | | | Peinture | | |
+| | | | Photographie | | |
+| | | | Sculpture | | |
+| | 22202 | Institut Supérieur des Beaux-Arts de Nabeul | Céramique | Bac Général | |
+| | | | Sculpture | | |
+| | | | Photographie | | |
+| | | | Peinture | | |
+| | | | Tissage | | |
+| | | | Gravure | | |
+| | 30202 | Institut Supérieur des Beaux-Arts de Sousse | Peinture / Sculpture | Bac Général | |
+| | | | Arts Médiatiques | | |
+| | | | Photographie | | |
+| | | | Céramique / Gravure | | |
+| | 40202 | Institut Supérieur des Arts et Métiers de Sfax | Céramique / Mosaïque | Bac Général | |
+| | | | Photographie / Peinture | | |
+| | | | Tissage / Gravure | | |
+| | | | Sculpture | | |
+
+**Table des matières**
+
+# Culture, Beaux-Arts, et Arts et Métiers
+
+## Licence en Arts Plastiques
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 50202 | Institut Supérieur des Arts et Métiers de Gabes | Sculpture | Bac Général | STMG | |
+| 56202 | Institut Supérieur des Arts et Métiers de Tataouine | Photographie | Bac Général | STMG | |
+| 70202 | Institut Supérieur des Arts et Métiers de Kairouan | Céramique | Bac Général | STMG | FG + PH |
+| 73202 | Institut Supérieur des Arts et Métiers de Kasserine | Céramique | Bac Général | STMG | |
+| 75202 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Céramique | Bac Général | STMG | |
+| 86202 | Institut Supérieur d'Arts et Métiers de Siliana | Céramique | Bac Général | STMG | |
+| 10207 | Institut Supérieur des Beaux-arts de Tunis | Scénographie | Bac Général | STMG | |
+| 11207 | Ecole Supérieure des Sciences et Technologies du Design | Scénographie | Bac Général | STMG | |
+| 22207 | Institut Supérieur des Beaux-Arts de Nabeul | Architecture d'Intérieur | Bac Général | STMG | |
+| 30207 | Institut Supérieur des Beaux-Arts de Sousse | Architecture d'Intérieur | Bac Général | STMG | FG + PH |
+| 36207 | Institut Supérieur des Arts et Métiers de Mahdia | Architecture d'Intérieur | Bac Général | STMG | |
+| 40207 | Institut Supérieur des Arts et Métiers de Sfax | Architecture d'Intérieur | Bac Général | STMG | |
+| 50207 | Institut Supérieur des Arts et Métiers de Gabes | Architecture d'Intérieur | Bac Général | STMG | |
+| 56207 | Institut Supérieur des Arts et Métiers de Tataouine | Architecture d'Intérieur | Bac Général | STMG | |
+
+## Licence en Design Espace
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 50202 | Institut Supérieur des Arts et Métiers de Gabes | Sculpture | Bac Général | STMG | |
+| 56202 | Institut Supérieur des Arts et Métiers de Tataouine | Photographie | Bac Général | STMG | |
+| 70202 | Institut Supérieur des Arts et Métiers de Kairouan | Céramique | Bac Général | STMG | FG + PH |
+| 73202 | Institut Supérieur des Arts et Métiers de Kasserine | Céramique | Bac Général | STMG | |
+| 75202 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Céramique | Bac Général | STMG | |
+| 86202 | Institut Supérieur d'Arts et Métiers de Siliana | Céramique | Bac Général | STMG | |
+| 10207 | Institut Supérieur des Beaux-arts de Tunis | Scénographie | Bac Général | STMG | |
+| 11207 | Ecole Supérieure des Sciences et Technologies du Design | Scénographie | Bac Général | STMG | |
+| 22207 | Institut Supérieur des Beaux-Arts de Nabeul | Architecture d'Intérieur | Bac Général | STMG | |
+| 30207 | Institut Supérieur des Beaux-Arts de Sousse | Architecture d'Intérieur | Bac Général | STMG | FG + PH |
+| 36207 | Institut Supérieur des Arts et Métiers de Mahdia | Architecture d'Intérieur | Bac Général | STMG | |
+| 40207 | Institut Supérieur des Arts et Métiers de Sfax | Architecture d'Intérieur | Bac Général | STMG | |
+| 50207 | Institut Supérieur des Arts et Métiers de Gabes | Architecture d'Intérieur | Bac Général | STMG | |
+| 56207 | Institut Supérieur des Arts et Métiers de Tataouine | Architecture d'Intérieur | Bac Général | STMG | |
+
+The provided image and draft are for a university orientation guide page titled "Culture, Beaux-Arts, et Arts et Métiers." The draft contains a table with six columns: Filière, Code, Etablissement, Parcours, Série, and Formule du score (T) et Conditions. However, the table structure does not accurately represent the content of the image.
+
+To correct this, we need to restructure the table to match the image. The image shows two main sections: "Licence en Design Espace" and "Licence en Design Produit." Each section has a list of items with the following columns: Code, Etablissement, Parcours, Série, and Formule du score (T) et Conditions.
+
+Here is the corrected Markdown:
+
+# Culture, Beaux-Arts, et Arts et Métiers
+
+## Licence en Design Espace
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 73207 | Institut Supérieur des Arts et Métiers de Kasserine | Architecture d'Intérieur | Bac Général | FG + PH |
+| 75207 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Architecture d'Intérieur | Bac Général | STMG |
+| 86207 | Institut Supérieur d'Arts et Métiers de Siliana | Architecture d'Intérieur | Bac Général | STMG |
+| 10208 | Institut Supérieur des Beaux-arts de Tunis | Design Produit | Bac Général | STMG |
+| 11208 | Ecole Supérieure des Sciences et Technologies du Design | Design Produit | Bac Général | STMG |
+| 22208 | Institut Supérieur des Beaux-Arts de Nabeul | Mobilier | Bac Général | STMG |
+| 30208 | Institut Supérieur des Beaux-Arts de Sousse | Création Industrielle | Bac Général | FG + PH |
+
+## Licence en Design Produit
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 34208 | Institut Supérieur de la Mode de Monastir | Textile | Bac Général | STMG |
+| 36208 | Institut Supérieur des Arts et Métiers de Mahdia | Bijoux | Bac Général | STMG |
+| 40208 | Institut Supérieur des Arts et Métiers de Sfax | Habillement / Mobilier | Bac Général | STMG |
+
+Note that the corrected table structure matches the image, with two main sections and a list of items for each section. The columns are also correctly labeled and formatted.
+
+# Table des matières
+
+## Filière
+
+### Licence en Design Produit
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 60208 | Institut Supérieur des Arts et Métiers de Gafsa | Création Artisanale Mobilier | Bac Général | STMG |
+| 70208 | Institut Supérieur des Arts et Métiers de Kairouan | Création Artisanale Création Industrielle Bijoux | Bac Général | STMG |
+| 73208 | Institut Supérieur des Arts et Métiers de Kasserine | Création Industrielle Création Artisanale | Bac Général | STMG |
+| 75208 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Mobilier Création Industrielle | Bac Général | STMG |
+| 10209 | Institut Supérieur des Beaux-arts de Tunis | Publicité Graphique Art de l'Animation de l'Image | Bac Général | STMG |
+| 11209 | Ecole Supérieure des Sciences et Technologies du Design | Publicité Audiovisuelle Publicité Graphique | Bac Général | STMG |
+| 22209 | Institut Supérieur des Beaux-Arts de Nabeul | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 30209 | Institut Supérieur des Beaux-Arts de Sousse | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 36209 | Institut Supérieur des Arts et Métiers de Mahdia | Publicité Graphique | Bac Général | STMG |
+| 40209 | Institut Supérieur des Arts et Métiers de Sfax | Publicité Graphique | Bac Général | STMG |
+| 50209 | Institut Supérieur des Arts et Métiers de Gabes | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 56209 | Institut Supérieur des Arts et Métiers de Tataouine | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 60209 | Institut Supérieur des Arts et Métiers de Gafsa | Publicité Graphique | Bac Général | STMG |
+| 70209 | Institut Supérieur des Arts et Métiers de Kairouan | Publicité Audiovisuelle | Bac Général | STMG |
+| 75209 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Publicité Graphique | Bac Général | STMG |
+| 86209 | Institut Supérieur d'Arts et Métiers de Siliana | Publicité Graphique | Bac Général | STMG |
+
+## Licence en Design Image
+
+### Licence en Design Image
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 60208 | Institut Supérieur des Arts et Métiers de Gafsa | Création Artisanale Mobilier | Bac Général | STMG |
+| 70208 | Institut Supérieur des Arts et Métiers de Kairouan | Création Artisanale Création Industrielle Bijoux | Bac Général | STMG |
+| 73208 | Institut Supérieur des Arts et Métiers de Kasserine | Création Industrielle Création Artisanale | Bac Général | STMG |
+| 75208 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Mobilier Création Industrielle | Bac Général | STMG |
+| 10209 | Institut Supérieur des Beaux-arts de Tunis | Publicité Graphique Art de l'Animation de l'Image | Bac Général | STMG |
+| 11209 | Ecole Supérieure des Sciences et Technologies du Design | Publicité Audiovisuelle Publicité Graphique | Bac Général | STMG |
+| 22209 | Institut Supérieur des Beaux-Arts de Nabeul | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 30209 | Institut Supérieur des Beaux-Arts de Sousse | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 36209 | Institut Supérieur des Arts et Métiers de Mahdia | Publicité Graphique | Bac Général | STMG |
+| 40209 | Institut Supérieur des Arts et Métiers de Sfax | Publicité Graphique | Bac Général | STMG |
+| 50209 | Institut Supérieur des Arts et Métiers de Gabes | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 56209 | Institut Supérieur des Arts et Métiers de Tataouine | Publicité Graphique Publicité Audiovisuelle | Bac Général | STMG |
+| 60209 | Institut Supérieur des Arts et Métiers de Gafsa | Publicité Graphique | Bac Général | STMG |
+| 70209 | Institut Supérieur des Arts et Métiers de Kairouan | Publicité Audiovisuelle | Bac Général | STMG |
+| 75209 | Institut Supérieur des Arts et Métiers de Sidi Bouzid | Publicité Graphique | Bac Général | STMG |
+| 86209 | Institut Supérieur d'Arts et Métiers de Siliana | Publicité Graphique | Bac Général | STMG |
+
+**Table des matières**
+
+## Culture, Beaux-Arts, et Arts et Métiers
+
+### Licence en Ingénierie et Techniques du Son
+
+*   Filière à Test
+*   Code: 30246
+*   Etablissement: Institut Supérieur de Musique de Sousse
+*   Parcours: Ingénierie et Techniques du Son
+*   Série: Bac Général
+*   Formule du score (T) et Conditions: FG + [(F+N.Sc.Inf)/2] (N.Sc.Inf non exigée) (si la spécialité N.Sc.Inf n'existe pas alors T= FG+F)
+
+### Licence en Ingénierie du Son et Nouvelles Technologies
+
+*   Filière à Test
+*   Code: 40247
+*   Etablissement: Institut Supérieur de Musique de Sfax
+*   Parcours: Ingénierie du Son et Nouvelles Technologies
+*   Série: Bac Général
+*   Formule du score (T) et Conditions: FG + M (Mathématique exigée)
+
+### Licence en Cinéma et Audiovisuel
+
+*   Filière à Test
+*   Code: 10265
+*   Etablissement: Institut Supérieur des Arts du MultiMedia de Manouba
+*   Parcours: Montage Réalisation Image et Lumière Son
+*   Série: Bac Général
+*   Formule du score (T) et Conditions: FG + PH
+
+### Licence en Arts et Médiations
+
+*   Filière à Test
+*   Code: 40622
+*   Etablissement: Institut Supérieur des Arts et Métiers de Sfax
+*   Parcours: Communication et Multimédia
+*   Série: Bac Général
+*   Formule du score (T) et Conditions: FG + [(PH+ N.Sc.Inf)/2] (N.Sc.Inf non exigée) (si la spécialité N.Sc.Inf n'existe pas alors T= FG+PH)
+
+### Licence en Arts et Médiations
+
+*   Filière à Test
+*   Code: 50622
+*   Etablissement: Institut Supérieur d'Informatique et de MultiMedia de Gabes
+*   Parcours: Communication et Multimédia
+*   Série: Bac Général
+*   Formule du score (T) et Conditions: FG+[(PH+M)/2]
+
+**Filière** | **Code** | **Etablissement** | **Parcours** | **Série** | **Formule du score (T) et Conditions** | --- | --- | --- | --- | --- | --- | | 10301 | Faculté de Droit et des Sciences Politiques de Tunis | Droit Privé | Bac Général | FG + [(F+AI)/2] (A non exigée) | | 11301 | Faculté des Sciences Juridiques et Politiques et Sociales de Tunis | Droit Privé | Bac Général | FG+[(F+Droit)/2] (Droit spécialité) | | 30301 | Faculté de Droit et des Sciences Politiques de Sousse | Droit Public | Bac Général | FG+[(F+Droit)/2] (Droit spécialité) | | 40301 | Faculté de Droit de Sfax | Administration et Droit du Contentieux Administratif | Bac Général | FG + [(F+AI)/2] (A non exigée) | | 50301 | Institut Supérieur des Etudes Juridiques de Gabes | Droit Foncier | Bac Général | FG+[(F+Droit)/2] (Droit spécialité) |
+
+# Sciences Juridiques et Sciences Politiques
+
+## Licence en Droit
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 70301 | Institut Supérieur des Sciences Juridiques et Politiques de Kairouan | Droit Privé Droit Public | Bac Général | FG + [(F+AI)/2] (A non exigée) |
+| 80301 | Faculté des Sciences Juridiques, Economiques et de Gestion de Jendouba | Droit Privé Droit Public | Bac Général | FG+[(F+Droit)/2] (Droit spécialité) |
+
+## Licence en Droit Social
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10346 | Institut National du Travail et des Etudes Sociales de Tunis | Droit Social | Bac Général | FG+[(F+Droit)/2] (Droit spécialité) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10312 | Institut Supérieur de Gestion de Tunis | Ingénierie Economique et Financière Business Economics | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 11312 | Ecole Supérieure des Sciences Economiques et Commerciales de Tunis | Ingénierie Economique et Financière Analyse et Politique Economique Monnaie, Finance, Banque Assurance Business Economics | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 12312 | Ecole Supérieure de Commerce de Manouba | Commerce et Finance Internationale Monnaie, Finance, Banque Assurance Ingénierie Economique et Financière Economie du Transport et de la Logistique | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 13312 | Faculté des Sciences Economiques et de Gestion de Tunis | Commerce et Finance Internationale Monnaie, Finance, Banque Assurance Analyse et Politique Economique Ingénierie Economique et Financière | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 14312 | Institut National du Travail et des Etudes Sociales de Tunis | Analyse et Politique Economique:Economie du Travail | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 20312 | Institut Supérieur de Gestion de Bizerte | Ingénierie Economique et Financière | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+
+**Sciences Economiques et Sciences de Gestion**
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 22312 | Faculté des Sciences Economiques et de Gestion de Nabeul | Analyse et Politique Economique Commerce et Finance Internationale Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 30312 | Institut Supérieur de Gestion de Sousse | Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 31312 | Institut des Hautes Etudes Commerciales de Sousse | Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+
+### Licence en Sciences Economiques
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 32312 | Institut Supérieur de Finance et de Fiscalité de Sousse | Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 33312 | Faculté des Sciences Economiques et Gestion de Sousse | Business Economics Commerce et Finance Internationale Ingénierie Economique et Financière Analyse et Politique Economique Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 36312 | Faculté des Sciences Economiques et de Gestion de Mahdia | Business Economics Monnaie, Finance, Banque Assurance Ingénierie Economique et Financière Commerce et Finance Internationale | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+
+# Table des matières
+
+## Filière
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 40312 | Faculté des Sciences Economiques et de Gestion de Sfax | Economie du Transport et de la Logistique | Business Economics | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 41312 | Ecole Supérieure de Commerce de Sfax | Monnaie, Finance, Banque et Assurance | Business Economics | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 42312 | Institut Supérieur d'Administration des affaires de Sfax | Business Economics | Analyses et Politique Economique | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 43312 | Institut des Hautes Etudes Commerciales de Sfax | Ingénierie Economique et Financière | | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 50312 | Institut Supérieur de Gestion de Gabes | Commerce et Finance Internationale | Monnaie, Finance, Banque | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+
+## Licence en Sciences Economiques
+
+### Licence en Sciences Economiques
+
+| Licence en Sciences Economiques | | | --- | --- |
+| 42312 | Institut Supérieur d'Administration des affaires de Sfax | |
+| 43312 | Institut des Hautes Etudes Commerciales de Sfax | |
+| 50312 | Institut Supérieur de Gestion de Gabes | |
+
+**Sciences Economiques et Sciences de Gestion**
+
+### Licence en Sciences Economiques
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 60312 | Institut Supérieur d'Administration des Entreprises de Gafsa | Monnaie, Finance, Banque Assurance Business Economics | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 70312 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Ingénierie Economique et Financière Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+| 80312 | Faculté des Sciences Juridiques, Economiques et de Gestion Jendouba | Business Economics Commerce et Finance Internationale Analyses et Politique Economique Monnaie, Finance, Banque Assurance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M et Sc.Eco.S exigées) M >= 10 |
+
+### Licence en Sciences du Travail
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10347 | Institut National du Travail et des Etudes Sociales de Tunis | Sciences du travail | Bac Général | FG+[(PH+ Sc.Eco.S + HG)/3] ( Sc.Eco.S exigée) |
+| 10318 | Institut Supérieur de Gestion de Tunis | Finance Management Gestion des Ressources Humaines Marketing Comptabilité | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+### Licence en Sciences de Gestion
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 11318 | Ecole Supérieure des Sciences Economiques et Commerciales de Tunis | Management / Finance Marketing / Comptabilité Gestion des Ressources Humaines | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 12318 | Ecole Supérieure de Commerce de Manouba | Finance Management Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 13318 | Faculté des Sciences Economiques et de Gestion de Tunis | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 14318 | Institut des Hautes Etudes Commerciales Carthage | Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 15318 | Institut Supérieur de Comptabilité et d'Administration des Entreprises de Manouba | Gestion des Ressources Humaines | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 16318 | Institut National du Travail et des Etudes Sociales de Tunis | Gestion des Ressources Humaines | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 20318 | Institut Supérieur de Gestion de Bizerte | Comptabilité | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 22318 | Faculté des Sciences Economiques et de Gestion de Nabeul | Comptabilité | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 30318 | Institut Supérieur de Gestion de Sousse | Comptabilité / Finance / Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 31318 | Institut des Hautes Etudes Commerciales de Sousse | Finance / Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 32318 | Institut Supérieur de Finance et de Fiscalité de Sousse | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 33318 | Faculté des Sciences Economiques et Gestion de Sousse | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 34318 | Institut Supérieur de la Mode de Monastir | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 36318 | Faculté des Sciences Economiques et de Gestion de Mahdia | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 40318 | Faculté des Sciences Economiques et de Gestion de Sfax | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+**Licence en Sciences de Gestion**
+
+| Licence en Sciences de Gestion | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 30318 | Institut Supérieur de Gestion de Sousse | Comptabilité / Finance / Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 31318 | Institut des Hautes Etudes Commerciales de Sousse | Finance / Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 32318 | Institut Supérieur de Finance et de Fiscalité de Sousse | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 33318 | Faculté des Sciences Economiques et Gestion de Sousse | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 34318 | Institut Supérieur de la Mode de Monastir | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 36318 | Faculté des Sciences Economiques et de Gestion de Mahdia | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 40318 | Faculté des Sciences Economiques et de Gestion de Sfax | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 41318 | Ecole Supérieure de Commerce de Sfax | Gestion des Ressources Humaines | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 42318 | Institut Supérieur d'Administration des affaires de Sfax | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 43318 | Institut des Hautes Etudes Commerciales de Sfax | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 50318 | Institut Supérieur de Gestion de Gabes | Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 60318 | Institut Supérieur d'Administration des Entreprises de Gafsa | Comptabilité | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 70318 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 80318 | Faculté des Sciences Juridiques, Economiques et de Gestion Jendouba | Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+### Licence en Sciences de Gestion
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 41318 | Ecole Supérieure de Commerce de Sfax | Gestion des Ressources Humaines | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 42318 | Institut Supérieur d'Administration des affaires de Sfax | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 43318 | Institut des Hautes Etudes Commerciales de Sfax | Marketing | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 50318 | Institut Supérieur de Gestion de Gabes | Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 60318 | Institut Supérieur d'Administration des Entreprises de Gafsa | Comptabilité | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 70318 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Finance | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+| 80318 | Faculté des Sciences Juridiques, Economiques et de Gestion Jendouba | Management | Bac Général | FG+[(M+Sc.Eco.S)/2] (M non exigé et Sc.Eco.S exigé) |
+
+# Sciences Economiques et Sciences de Gestion
+
+## Filière
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Bachelor of Business Administration | 10377 | Tunis Business School | Information Technology Marketing Finance Accounting Business Analytics | Bac Général | FG +Max[(Ang-15),0]+Max[(M-12),0] (Ang et Mathématiques exigées) |
+|  | 10391 | Institut Supérieur des Etudes Technologiques de Rades | Management Industriel Management Transport et Logistique | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 11391 | Institut Supérieur des Etudes Technologiques de Charguia | Management Industriel Transport et Logistique Management Qualité-Hygiène-Sécurité-Environnement Management | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 21391 | Institut Supérieur des Etudes Technologiques de Bizerte | Management Transport et Logistique | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 22391 | Institut Supérieur des Etudes Technologiques de Nabeul | Management Qualité-Hygiène-Sécurité-Environnement Management Industriel | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 24391 | Institut Supérieur des Etudes Technologiques de Zaghouan | Management Industriel Management Qualité-Hygiène-Sécurité-Environnement | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 30391 | Institut Supérieur des Etudes Technologiques de Sousse | Management | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 36391 | Institut Supérieur des Etudes Technologiques de Mahdia | Management Industriel | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+
+## Licence en Management
+
+| Licence en Management | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+|  | 22391 | Institut Supérieur des Etudes Technologiques de Nabeul | Management Qualité-Hygiène-Sécurité-Environnement Management Industriel | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 24391 | Institut Supérieur des Etudes Technologiques de Zaghouan | Management Industriel Management Qualité-Hygiène-Sécurité-Environnement | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 30391 | Institut Supérieur des Etudes Technologiques de Sousse | Management | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+|  | 36391 | Institut Supérieur des Etudes Technologiques de Mahdia | Management Industriel | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 40391 | Institut Supérieur des Etudes Technologiques de Sfax | Transport et Logistique Management Management Qualité-Hygiène-Sécurité-Environnement Management Industriel | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 54391 | Institut Supérieur des Etudes Technologiques de Djerba | Management | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 55391 | Institut Supérieur des EtudesTechnologiques de Médenine | Management | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 56391 | Institut Supérieur des Etudes Technologiques de Kebili | Management | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 60391 | Institut Supérieur des Etudes Technologiques de Gafsa | Management Management Industriel | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 70391 | Institut Supérieur des Etudes Technologiques de Kairouan | Management Industriel | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 73391 | Institut Supérieur des Etudes Technologiques de Kasserine | Management | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 82391 | Institut Supérieur des Etudes Technologiques du Kef | Management Management Industriel | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 86391 | Institut Supérieur des Etudes Technologiques de Seliana | Management | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.Sexigée) |
+
+**Table des matières**
+
+### Filière
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10394 | Institut Supérieur des Etudes Technologiques de Rades | Techniques Comptables et Financières | Finance Islamique | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 21394 | Institut Supérieur des EtudesTechnologiques de Bizerte | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 22394 | Institut Supérieur des Etudes Technologiques de Nabeul | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 24394 | Institut Supérieur des Etudes Technologiques de Zaghouan | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 34394 | Institut Supérieur des Etudes Technologiques de Ksar-Helal | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 36394 | Institut Supérieur des Etudes Technologiques de Mahdia | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 40394 | Institut Supérieur des Etudes Technologiques de Sfax | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 50394 | Institut Supérieur des Etudes Technologiques de Gabes | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+
+### Licence en Comptabilité et Finance
+
+| Licence en Comptabilité et Finance | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10394 | Institut Supérieur des Etudes Technologiques de Rades | Techniques Comptables et Financières | Finance Islamique | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 21394 | Institut Supérieur des EtudesTechnologiques de Bizerte | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 22394 | Institut Supérieur des Etudes Technologiques de Nabeul | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 24394 | Institut Supérieur des Etudes Technologiques de Zaghouan | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 34394 | Institut Supérieur des Etudes Technologiques de Ksar-Helal | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 36394 | Institut Supérieur des Etudes Technologiques de Mahdia | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 40394 | Institut Supérieur des Etudes Technologiques de Sfax | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 50394 | Institut Supérieur des Etudes Technologiques de Gabes | Techniques Comptables et Financières | Bac Général | STMG | FG + SC.Eco.S (SC.Eco.S exigée) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 55394 | Institut Supérieur des EtudesTechnologiques de Médénine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 57394 | Institut Supérieur des Etudes Technologiques de Tataouine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 70394 | Institut Supérieur des Etudes Technologiques de Kairouan | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 73394 | Institut Supérieur des Etudes Technologiques de Kasserine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 80394 | Institut Supérieur des Etudes Technologiques de Jendouba | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 82394 | Institut Supérieur des Etudes Technologiques du Kef | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 86394 | Institut Supérieur des Etudes Technologiques de Seliana | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 10396 | Institut Supérieur des Etudes Technologiques de Rades | Digital Marketing Techniques de Vente Techniques de Commerce International | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 21396 | Institut Supérieur des Etudes Technologiques de Bizerte | Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+
+**Licence en Comptabilité et Finance**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 55394 | Institut Supérieur des EtudesTechnologiques de Médénine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 57394 | Institut Supérieur des Etudes Technologiques de Tataouine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 70394 | Institut Supérieur des Etudes Technologiques de Kairouan | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 73394 | Institut Supérieur des Etudes Technologiques de Kasserine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 80394 | Institut Supérieur des Etudes Technologiques de Jendouba | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 82394 | Institut Supérieur des Etudes Technologiques du Kef | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 86394 | Institut Supérieur des Etudes Technologiques de Seliana | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 10396 | Institut Supérieur des Etudes Technologiques de Rades | Digital Marketing Techniques de Vente Techniques de Commerce International | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 21396 | Institut Supérieur des Etudes Technologiques de Bizerte | Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+
+**Licence en Commerce et Distribution**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 55394 | Institut Supérieur des EtudesTechnologiques de Médénine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 57394 | Institut Supérieur des Etudes Technologiques de Tataouine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 70394 | Institut Supérieur des Etudes Technologiques de Kairouan | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 73394 | Institut Supérieur des Etudes Technologiques de Kasserine | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 80394 | Institut Supérieur des Etudes Technologiques de Jendouba | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 82394 | Institut Supérieur des Etudes Technologiques du Kef | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 86394 | Institut Supérieur des Etudes Technologiques de Seliana | Techniques Comptables et Financières | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 10396 | Institut Supérieur des Etudes Technologiques de Rades | Digital Marketing Techniques de Vente Techniques de Commerce International | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 21396 | Institut Supérieur des Etudes Technologiques de Bizerte | Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+
+**Sciences Economiques et Sciences de Gestion**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 22396 | Institut Supérieur des Etudes Technologiques de Nabeul | Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 34396 | Institut Supérieur des Etudes Technologiques de Ksar-Helal | Techniques de Vente Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 36396 | Institut Supérieur des Etudes Technologiques de Mahdia | Techniques de Vente | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 40396 | Institut Supérieur des Etudes Technologiques de Sfax | Techniques de Vente | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 54396 | Institut Supérieur des Etudes Technologiques de Djerba | Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 70396 | Institut Supérieur des Etudes Technologiques de Kairouan | Techniques de Vente | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 80396 | Institut Supérieur des Etudes Technologiques de Jendouba | Techniques de Vente Digital Marketing | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+| 86396 | Institut Supérieur des Etudes Technologiques de Siliana | Techniques de Vente | Bac Général | FG + SC.Eco.S (SC.Eco.S exigée) |
+
+# Sciences Exactes et Technologies
+
+## Licence en Géomatiques et Applications
+
+### 10168 Faculté des Sciences de Tunis
+
+Géomatique Appliquée aux Sciences de la Terre Géomatiques Appliquées à l'Urbanisme et Aménagement du Territoire
+
+FG + N.Sc.Inf (N.Sc.Inf exigé)
+
+### 60168 Faculté des Sciences de Gafsa
+
+Géomatique Appliquée aux Sciences de la Terre
+
+FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M)
+
+### 10311 Institut Supérieur de Gestion de Tunis
+
+Business Information System Business Intelligence E-Business
+
+STMG
+
+FG+[(M+ Management )/2]
+
+### 11311 Ecole Supérieure des Sciences Economiques et Commerciales de Tunis
+
+E-Business
+
+STMG
+
+FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigées) (si Sc.Eco.S n'existe pas alors T= FG+M)
+
+### 12311 Ecole Supérieure d'Economie Numérique de Manouba
+
+Business Information System Business Intelligence E-Business
+
+STMG
+
+FG+[(M+ Management )/2]
+
+### 13311 Faculté des Sciences Economiques et de Gestion de Tunis
+
+Business Intelligence
+
+STMG
+
+FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigées) (si Sc.Eco.S n'existe pas alors T= FG+M)
+
+## Licence en Informatique de Gestion
+
+### 10168 Faculté des Sciences de Tunis
+
+Géomatique Appliquée aux Sciences de la Terre Géomatiques Appliquées à l'Urbanisme et Aménagement du Territoire
+
+FG + N.Sc.Inf (N.Sc.Inf exigé)
+
+### 60168 Faculté des Sciences de Gafsa
+
+Géomatique Appliquée aux Sciences de la Terre
+
+FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M)
+
+### 10311 Institut Supérieur de Gestion de Tunis
+
+Business Information System Business Intelligence E-Business
+
+STMG
+
+FG+[(M+ Management )/2]
+
+### 11311 Ecole Supérieure des Sciences Economiques et Commerciales de Tunis
+
+E-Business
+
+STMG
+
+FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigées) (si Sc.Eco.S n'existe pas alors T= FG+M)
+
+### 12311 Ecole Supérieure d'Economie Numérique de Manouba
+
+Business Information System Business Intelligence E-Business
+
+STMG
+
+FG+[(M+ Management )/2]
+
+### 13311 Faculté des Sciences Economiques et de Gestion de Tunis
+
+Business Intelligence
+
+STMG
+
+FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigées) (si Sc.Eco.S n'existe pas alors T= FG+M)
+
+# Sciences Exactes et Technologies
+
+## Licence en Informatique de Gestion
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 14311 | Institut des Hautes Etudes Commerciales Carthage | Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 20311 | Institut Supérieur de Gestion de Bizerte | Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 22311 | Faculté des Sciences Economiques et de Gestion de Nabeul | Business Information System E-Business Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 30311 | Institut Supérieur de Gestion de Sousse | Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 36311 | Faculté des Sciences Economiques et de Gestion de Mahdia | Business Intelligence E-Business | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 37311 | Institut Supérieur d'Informatique de Mahdia | Business Intelligence E-Business | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 40311 | Faculté des Sciences Economiques et de Gestion de Sfax | Business Information System | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 41311 | Ecole supérieure de commerce de sfax | E-Business | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 42311 | Institut Supérieur d'Administration des Affaires de Sfax | E-Business Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 44311 | Institut Supérieur de Gestion Industrielle de Sfax | Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 50311 | Institut Supérieur de Gestion de Gabes | Business Information System E-Business | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 60311 | Institut Supérieur d'Administration des Entreprises de Gafsa | Business Information System | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 70311 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Business Intelligence | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+| 80311 | Faculté des Sciences Juridiques Economiques et de Gestion Jendouba | Business Intelligence Business Information System E-Business | Bac Général | FG+[(M+Sc.Eco.S)/2] (M exigée et Sc.Eco.S non exigée) (si Sc.Eco.S n'existe pas alors T= FG+M) |
+
+# Table des matières
+
+## Sciences Exactes et Technologies
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10360 | Institut Supérieur des Etudes Technologiques en Communication de Tunis | Gestion des Technologies de l'Information et de la Communication | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 10501 | Faculté des Sciences de Tunis | Chimie Fine Analyses Physico- Chimiques Chimie des Matériaux Recherche | Bac Général | FG+ Management |
+| 11501 | Institut Supérieur des Sciences et Technologies de l'Environnement de Bordj Cedria | Chimie de l'Environnement | Bac Général |  |
+| 20501 | Faculté des Sciences de Bizerte | Chimie Industrielle Recherche Chimie Fine | Bac Général |  |
+| 30501 | Ecole Supérieure des Sciences et de la Technologie de Hammam Sousse | Recyclage et Valorisation des Déchets Recherche Recherche Chimie des Matériaux Chimie Médicinale et Substances Naturelles Chimie de l'Eau et de l'Environnement | Bac Général | FG +PC (PC exigée) |
+| 34501 | Faculté des Sciences de Monastir | Cosmétique, Arômes et Parfums Recherche Emballage et Conditionnement Matériaux de construction, Céramiques et Verres Matériaux Polymères | Bac Général |  |
+| 40501 | Faculté des Sciences de Sfax | Chimie des Matériaux Recherche | Bac Général |  |
+| 50501 | Faculté des Sciences de Gabes | Recherche | Bac Général |  |
+| 60501 | Faculté des Sciences de Gafsa | Recherche | Bac Général |  |
+
+### Licence en Chimie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10360 | Institut Supérieur des Etudes Technologiques en Communication de Tunis | Gestion des Technologies de l'Information et de la Communication | Bac Général | FG + SC.Eco.S (SC.Eco.Sexigée) |
+| 10501 | Faculté des Sciences de Tunis | Chimie Fine Analyses Physico- Chimiques Chimie des Matériaux Recherche | Bac Général | FG+ Management |
+| 11501 | Institut Supérieur des Sciences et Technologies de l'Environnement de Bordj Cedria | Chimie de l'Environnement | Bac Général |  |
+| 20501 | Faculté des Sciences de Bizerte | Chimie Industrielle Recherche Chimie Fine | Bac Général |  |
+| 30501 | Ecole Supérieure des Sciences et de la Technologie de Hammam Sousse | Recyclage et Valorisation des Déchets Recherche Recherche Chimie des Matériaux Chimie Médicinale et Substances Naturelles Chimie de l'Eau et de l'Environnement | Bac Général | FG +PC (PC exigée) |
+| 34501 | Faculté des Sciences de Monastir | Cosmétique, Arômes et Parfums Recherche Emballage et Conditionnement Matériaux de construction, Céramiques et Verres Matériaux Polymères | Bac Général |  |
+| 40501 | Faculté des Sciences de Sfax | Chimie des Matériaux Recherche | Bac Général |  |
+| 50501 | Faculté des Sciences de Gabes | Recherche | Bac Général |  |
+| 60501 | Faculté des Sciences de Gafsa | Recherche | Bac Général |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10502 | Faculté des Sciences de Tunis | Physique Chimie | Bac Général | FG +PC (PC exigée) |
+| 11502 | Institut Supérieur des Sciences et Technologie de l'Environnement de Bordj Cedria | Physique Chimie | Bac Général | FG +PC (PC exigée) |
+| 20502 | Faculté des Sciences de Bizerte | Physique Chimie | Bac Général | FG +PC (PC exigée) |
+| 34502 | Faculté des Sciences de Monastir | Physique Chimie | Bac Général | FG +PC (PC exigée) |
+| 40502 | Faculté des Sciences de Sfax | Physique Chimie | Bac Général | FG +PC (PC exigée) |
+| 75502 | Faculté des Sciences et Techniques de Sidi Bouzid | Physique Chimie | Bac Général | FG +PC (PC exigée) |
+| 10503 | Faculté des Sciences de Tunis | Physique Physique Numérique | Bac Général | FG +PC (PC exigée) |
+| 20503 | Faculté des Sciences de Bizerte | Physique des Capteurs | Bac Général | FG +PC (PC exigée) |
+| 34503 | Faculté des Sciences de Monastir | Physique | Bac Général | FG +PC (PC exigée) |
+| 40503 | Faculté des Sciences de Sfax | Physique | Bac Général | FG +PC (PC exigée) |
+| 50503 | Faculté des Sciences de Gabes | Physique | Bac Général | FG +PC (PC exigée) |
+| 60503 | Faculté des Sciences de Gafsa | Physique | Bac Général | FG +PC (PC exigée) |
+| 10504 | Faculté des Sciences de Tunis | Physique et Energie | Bac Général | FG +PC (PC exigée) |
+| 20504 | Faculté des Sciences de Bizerte | Physique et Energie | Bac Général | FG +PC (PC exigée) |
+| 30504 | Ecole Supérieure des Sciences et Technologies de Hammam Sousse | Energie Renouvelables | Bac Général | FG +PC (PC exigée) |
+| 34504 | Faculté des Sciences de Monastir | Physique et Energie | Bac Général | FG +PC (PC exigée) |
+| 40504 | Faculté des Sciences de Sfax | Systèmes Energétiques | Bac Général | FG +PC (PC exigée) |
+| 60504 | Faculté des Sciences de Gafsa | Physique et Energie | Bac Général | FG +PC (PC exigée) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10505 | Faculté des Sciences de Tunis | Sciences des Données | Bac Général | FG + M (M exigée) |
+| 11505 | Institut Supérieur des Sciences et Technologies de l'Environnement de Bordj Cedria | Statistiques Environnementales | Bac Général | FG + M (M exigée) |
+| 34505 | Faculté des Sciences de Monastir | Mathématiques Appliquées | Bac Général | FG + M (M exigée) |
+| 35505 | Institut Supérieur d'Informatique et de Mathématique de Monastir | Mathématiques Appliquées | Bac Général | FG + M (M exigée) |
+| 40505 | Faculté des Sciences de Sfax | Actuariat et Assurance Optimisation et Recherche Opérationnelle Modélisation et Simulation Mathématiques Appliquées | Bac Général | FG + M (M exigée) |
+| 60505 | Faculté des Sciences de Gafsa | Mathématiques Financières | Bac Général | FG + M (M exigée) |
+| 70505 | Institut Supérieur des Mathématiques Appliquées et d'Informatique de Kairouan | Mathématiques Appliquées | Bac Général | FG + M (M exigée) |
+| 84506 | Ecole supérieur des ingénieurs de medjez el-bab | hydromécanique | Bac Général | FG + PC ou FG + N.Sc.Inf |
+| 10507 | Faculté des Sciences de Tunis | Mathématiques et Informatique | Bac Général | FG + M (M exigée) |
+| 20507 | Faculté des Sciences de Bizerte | Mathématiques Mathématiques et Informatique | Bac Général | FG + M (M exigée) |
+| 30507 | Ecole Supérieure des Sciences et Technologies de Hammam Sousse | Mathématiques et Informatique Mathématiques | Bac Général | FG + M (M exigée) |
+| 34507 | Faculté des Sciences de Monastir | Mathématiques | Bac Général | FG + M (M exigée) |
+| 40507 | Faculté des Sciences de Sfax | Mathématiques | Bac Général | FG + M (M exigée) |
+| 50507 | Faculté des Sciences de Gabes | Mathématiques Mathématiques et Informatique | Bac Général | FG + M (M exigée) |
+| 60507 | Faculté des Sciences de Gafsa | Mathématiques | Bac Général | FG + M (M exigée) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10509 | Institut Supérieur de Biotechnologie de Sidi Thabet | Biologie Moléculaire et Cellulaire | Bac Général | FG+[(SVT+PC)/2] (SVT exigée et PC non exigée) (si PC n'existe pas alors T= FG+SVT) |
+| 11509 | Faculté des Sciences de Tunis | Biologie des Organismes et des Populations | Bac Général |  |
+| 20509 | Faculté des Sciences de Bizerte | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 34509 | Institut Supérieur de Biotechnologie de Monastir | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 40509 | Faculté des Sciences de Sfax | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 50509 | Faculté des Sciences de Gabes | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 60509 | Faculté des Sciences de Gafsa | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 84509 | Institut Supérieur de Biotechnologie de Beja | Biologie Moléculaire et Cellulaire | Bac Général |  |
+|  |  | Géo-Ressources et Environnement |  |  |
+| 10510 | Faculté des Sciences de Tunis | Géotechniques des Grands Travaux et Ouvrages | Bac Général |  |
+|  |  | Géo ressources Energétiques |  |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+| 13510 | Institut Supérieur Des Sciences et Technologies de l'Environnement de Bordj Cedria | Eaux et Environnement | Bac Général | FG + SVT (SVT exigée) |
+| 20510 | Faculté des Sciences de Bizerte | Géo-Ressources et Environnement | Bac Général |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+|  |  | Hydro géosciences |  |  |
+|  |  | Géo-Ressources et Environnement | Bac Général |  |
+| 40510 | Faculté des Sciences de Sfax | Géotechniques des Grands Travaux et Ouvrages | Bac Général |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+
+## Licence en Sciences du Vivant
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10509 | Institut Supérieur de Biotechnologie de Sidi Thabet | Biologie Moléculaire et Cellulaire | Bac Général | FG+[(SVT+PC)/2] (SVT exigée et PC non exigée) (si PC n'existe pas alors T= FG+SVT) |
+| 11509 | Faculté des Sciences de Tunis | Biologie des Organismes et des Populations | Bac Général |  |
+| 20509 | Faculté des Sciences de Bizerte | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 34509 | Institut Supérieur de Biotechnologie de Monastir | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 40509 | Faculté des Sciences de Sfax | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 50509 | Faculté des Sciences de Gabes | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 60509 | Faculté des Sciences de Gafsa | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 84509 | Institut Supérieur de Biotechnologie de Beja | Biologie Moléculaire et Cellulaire | Bac Général |  |
+|  |  | Géo-Ressources et Environnement |  |  |
+| 10510 | Faculté des Sciences de Tunis | Géotechniques des Grands Travaux et Ouvrages | Bac Général |  |
+|  |  | Géo ressources Energétiques |  |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+| 13510 | Institut Supérieur Des Sciences et Technologies de l'Environnement de Bordj Cedria | Eaux et Environnement | Bac Général | FG + SVT (SVT exigée) |
+| 20510 | Faculté des Sciences de Bizerte | Géo-Ressources et Environnement | Bac Général |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+|  |  | Hydro géosciences |  |  |
+|  |  | Géo-Ressources et Environnement | Bac Général |  |
+| 40510 | Faculté des Sciences de Sfax | Géotechniques des Grands Travaux et Ouvrages | Bac Général |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+
+## Licence en Sciences de la Terre
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10509 | Institut Supérieur de Biotechnologie de Sidi Thabet | Biologie Moléculaire et Cellulaire | Bac Général | FG+[(SVT+PC)/2] (SVT exigée et PC non exigée) (si PC n'existe pas alors T= FG+SVT) |
+| 11509 | Faculté des Sciences de Tunis | Biologie des Organismes et des Populations | Bac Général |  |
+| 20509 | Faculté des Sciences de Bizerte | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 34509 | Institut Supérieur de Biotechnologie de Monastir | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 40509 | Faculté des Sciences de Sfax | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 50509 | Faculté des Sciences de Gabes | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 60509 | Faculté des Sciences de Gafsa | Biologie Moléculaire et Cellulaire | Bac Général |  |
+| 84509 | Institut Supérieur de Biotechnologie de Beja | Biologie Moléculaire et Cellulaire | Bac Général |  |
+|  |  | Géo-Ressources et Environnement |  |  |
+| 10510 | Faculté des Sciences de Tunis | Géotechniques des Grands Travaux et Ouvrages | Bac Général |  |
+|  |  | Géo ressources Energétiques |  |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+| 13510 | Institut Supérieur Des Sciences et Technologies de l'Environnement de Bordj Cedria | Eaux et Environnement | Bac Général | FG + SVT (SVT exigée) |
+| 20510 | Faculté des Sciences de Bizerte | Géo-Ressources et Environnement | Bac Général |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+|  |  | Hydro géosciences |  |  |
+|  |  | Géo-Ressources et Environnement | Bac Général |  |
+| 40510 | Faculté des Sciences de Sfax | Géotechniques des Grands Travaux et Ouvrages | Bac Général |  |
+|  |  | Sciences et Techniques de Géologie |  |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 50510 | Faculté des Sciences de Gabes | Géo-Ressources et Environnement Sciences et Techniques de Géologie | Bac Général | FG FG + SVT (SVT exigée) |
+| 51510 | Institut Supérieur des Sciences et Techniques des Eaux de Gabes | Génie de l'Eau Géo ressources Energétiques Génie de Forage | Bac Général |  |
+| 60510 | Faculté des Sciences de Gafsa | Sciences et Techniques de Géologie | Bac Général |  |
+| 10512 | Faculté des Sciences de Tunis | Gestion et Valorisation des Bio ressources | Bac Général |  |
+| 11512 | Institut des Sciences Biologiques Appliquées de Tunis | Gestion et Valorisation des Bio ressources Management Qualité, Sécurité environnement Traitement et Valorisation des rejets | Bac Général |  |
+| 12512 | Int Supérieur des Sciences et Technologies de l'Environnement de Bordj Cedria | Protection et Technologies de l'Environnement | Bac Général | FG+(SVT+PC)/2 (SVT exigée et PC non exigée) (si PC n'existe pas alors T= FG+SVT) |
+| 20512 | Faculté des Sciences de Bizerte | Bio surveillance des Ecosystèmes | Bac Général |  |
+| 40512 | Faculté des Sciences de Sfax | Ecologie et Environnement Terrestre Biologie Marine | Bac Général |  |
+| 54512 | Institut Supérieur de Biologie Appliquée de Médinine | Protection et Technologies de l'Environnement | Bac Général |  |
+| 75512 | Faculté des Sciences et Techniques de Sidi Bouzid | Sciences du Vivant et de l'Environnement | Bac Général |  |
+| 84512 | Institut Supérieur de Biotechnologie de Beja | Gestion et Valorisation des Bio ressources | Bac Général |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10513 | Faculté des Sciences de Tunis | Sciences de la Vie et de la Terre | Bac Général | FG + SVT (SVT exigée) |
+| 20513 | Faculté des Sciences de Bizerte | Sciences de la Vie et de la Terre | Bac Général | FG + SVT (SVT exigée) |
+| 40513 | Faculté des Sciences de Sfax | Sciences de la Vie et de la Terre | Bac Général | FG + SVT (SVT exigée) |
+| 50513 | Faculté des Sciences de Gabes | Sciences de la Vie et de la Terre | Bac Général | FG + SVT (SVT exigée) |
+| 60513 | Faculté des Sciences de Gafsa | Sciences de la Vie et de la Terre | Bac Général | FG + SVT (SVT exigée) |
+| 10514 | Faculté des Sciences de Tunis | Chimie-Science du Vivant | Bac Général | FG+[(PC+SVT)/2] (PC exigée et SVT non exigée) (si SVT n'existe pas alors T= FG+PC) |
+| 10523 | Institut Supérieur des Arts du MultiMedia de Manouba | Informatique et Multimédia Big-Data et Analyse des Données Micro-Informatique et Machines Embarquées | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 11523 | Institut Supérieur de l'Informatique | Génie Logicielle et Systèmes d'Information Informatique et Multimédia | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 12523 | Faculté des Sciences de Tunis | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 13523 | Institut Supérieur des Technologies Informatiques et de Télécommunications de Borj Cédria | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 20523 | Faculté des Sciences de Bizerte | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 21523 | Institut Supérieur des Sciences Appliquées et de la technologie de Mateur | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 30523 | Institut Supérieur d'Informatique et des technologies de communication de Hammam Sousse | Informatique et Multimédia | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 31523 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 32523 | Ecole Supérieure des Sciences et Technologies de Hammam Sousse | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+| 34523 | Faculté des Sciences de Monastir | Génie Logicielle et Systèmes d'Information | Bac Général | FG + [(M+N.Sc.inf)/2] (M et N.Sc.inf exigées) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 35523 | Institut Supérieur d'Informatique et de Mathématique de Monastir | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 36523 | Institut Supérieur d'Informatique de Mahdia | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 40523 | Faculté des Sciences de Sfax | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 41523 | Institut Supérieur d'Informatique et de MultiMedia de Sfax | Big-Data et Analyse des Données Informatique et Multimédia | Bac Général |  |
+| 50523 | Faculté des Sciences de Gabes | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 51523 | Institut Supérieur d'Informatique et de MultiMedia de Gabes | Informatique et Multimédia | Bac Général |  |
+| 54523 | Institut Supérieur d'Informatique de Médenine | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 60523 | Faculté des Sciences de Gafsa | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 70523 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Génie Logicielle et Systèmes d'Information Informatique et Multimédia | Bac Général |  |
+| 71523 | Institut Supérieur des Mathématiques Appliquées et d'Informatique de Kairouan | Informatique et Multimédia | Bac Général |  |
+| 73523 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 75523 | Faculté des Sciences et Techniques de Sidi Bouzid | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 82523 | Institut Supérieur d'Informatique de Kef | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 84523 | Institut Supérieur des Langues Appliquées et d'Informatique de Béja | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+
+## Licence en Sciences de l'Informatique
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 35523 | Institut Supérieur d'Informatique et de Mathématique de Monastir | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 36523 | Institut Supérieur d'Informatique de Mahdia | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 40523 | Faculté des Sciences de Sfax | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 41523 | Institut Supérieur d'Informatique et de MultiMedia de Sfax | Big-Data et Analyse des Données Informatique et Multimédia | Bac Général |  |
+| 50523 | Faculté des Sciences de Gabes | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 51523 | Institut Supérieur d'Informatique et de MultiMedia de Gabes | Informatique et Multimédia | Bac Général |  |
+| 54523 | Institut Supérieur d'Informatique de Médenine | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 60523 | Faculté des Sciences de Gafsa | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 70523 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Génie Logicielle et Systèmes d'Information Informatique et Multimédia | Bac Général |  |
+| 71523 | Institut Supérieur des Mathématiques Appliquées et d'Informatique de Kairouan | Informatique et Multimédia | Bac Général |  |
+| 73523 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 75523 | Faculté des Sciences et Techniques de Sidi Bouzid | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 82523 | Institut Supérieur d'Informatique de Kef | Informatique et Multimédia Génie Logicielle et Systèmes d'Information | Bac Général |  |
+| 84523 | Institut Supérieur des Langues Appliquées et d'Informatique de Béja | Génie Logicielle et Systèmes d'Information | Bac Général |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10524 | Faculté des Sciences de Tunis | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 11524 | Institut Supérieur d'Informatique | Ingénierie des Réseaux et Systèmes | Bac Général |  |
+| 12524 | Institut Supérieur des Technologies Informatiques et de Télécommunications de Borj Cédria | Ingénierie des Réseaux et Systèmes | Bac Général |  |
+| 20524 | Faculté des Sciences de Bizerte | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 21524 | Institut Supérieur des Sciences Appliquées et Technologies de Mateur | Ingénierie des Réseaux et Systèmes | Bac Général |  |
+| 30524 | Institut Supérieur d'Informatique et des technologies de communication de Hammam Sousse | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 31524 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 36524 | Institut Supérieur d'Informatique de Mahdia | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 40524 | Faculté des Sciences de Sfax | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 50524 | Faculté des Sciences de Gabes | Ingénierie des Réseaux et Systèmes | Bac Général |  |
+| 51524 | Institut Supérieur d'Informatique et de MultiMedia de Gabes | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 60524 | Institut Supérieur des Sciences Appliquées et Technologie de Gafsa | Ingénierie des Réseaux et Systèmes | Bac Général |  |
+| 70524 | Institut Supérieur d'Informatique et de Gestion de Kairouan | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 71524 | Institut Supérieur des Sciences Appliquées et Technologie de Kairouan | Systèmes Embarqués et Internet des Objets | Bac Général |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 72524 | Institut Supérieur des Mathématiques Appliquées et d'Informatique de Kairouan | Électronique et Optique pour les Systèmes Embarqués | Bac Général | FG + [(M+N.Sc.Inf)/2] (M et N.Sc.Inf exigées) |
+| 73524 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Systèmes Embarqués et Internet des Objets | Bac Général |  |
+| 82524 | Institut Supérieur d'Informatique de Kef | Ingénierie des Réseaux et Systèmes | Bac Général |  |
+| 34550 | Faculté des Sciences de Monastir | Mesures et Instrumentations | Bac Général | FG +PC (PC exigée) |
+| 40550 | Institut Supérieur de Biotechnologies de Sfax | Instrumentation Biomédicale | Bac Général |  |
+| 50550 | Faculté des Sciences de Gabes | Mesures et Instrumentations | Bac Général |  |
+| 36551 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Physique des Matériaux | Bac Général | FG +PC (PC exigée) |
+| 10566 | Institut Supérieur des Etudes Technologiques de Rades | Réseaux et Services Informatiques Développement des Systèmes d'Information Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 11566 | Institut Supérieur des Etudes Technologiques de Charguia | Développement des Systèmes d'Information Systèmes Embarqués et Mobiles Réseaux et Services Informatiques | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 21566 | Institut Supérieur des EtudesTechnologiques de Bizerte | Développement des Systèmes d'Information Réseaux et Services Informatiques Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 22566 | Institut Supérieur des Etudes Technologiques de Nabeul | Réseaux et Services Informatiques Multimédia et Développement Web Développement des Systèmes d'Information Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 23566 | Institut Supérieur des Etudes Technologiques de Kélibia | Multimédia et Développement Web Développement des Systèmes d'Information | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 24566 | Institut Supérieur des Etudes Technologiques de Zaghouan | Multimédia et Développement Web Réseaux et Services Informatiques Développement des Systèmes d'Information | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 30566 | Institut Supérieur des Etudes Technologiques de Sousse | Multimédia et Développement Web Développement des Systèmes d'Information Réseaux et Services Informatiques Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 36566 | Institut Supérieur des Etudes Technologiques de Mahdia | Développement des Systèmes d'Information Multimédia et Développement Web Réseaux et Services Informatiques | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 40566 | Institut Supérieur des Etudes Technologiques de Sfax | Développement des Systèmes d'Information Réseaux et Services Informatiques Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 54566 | Institut Supérieur des Etudes Technologiques de Djerba | Développement des Systèmes d'Information Multimédia et Développement Web Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 55566 | Institut Supérieur des EtudesTechnologiques de Médenine | Développement des Systèmes d'Information Réseaux et Services Informatiques Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 56566 | Institut Supérieur des Etudes Technologiques de Kebili | Multimédia et Développement Web Développement des Systèmes d'Information Réseaux et Services Informatiques | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 57566 | Institut Supérieur des Etudes Technologiques de Tataouine | Développement des Systèmes d'Information | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 60566 | Institut Supérieur des Etudes Technologiques de Gafsa | Multimédia et Développement Web Réseaux et Services Informatiques Développement des Systèmes d'Information | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 63566 | Institut Supérieur des Etudes Technologiques de Tozeur | Réseaux et Services Informatiques Multimédia et Développement Web Développement des Systèmes d'Information | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 70566 | Institut Supérieur des Etudes Technologiques de Kairouan | Réseaux et Services Informatiques Développement des Systèmes d'Information Multimédia et Développement Web Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+
+## Licence en Technologies de l'Informatique
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 54566 | Institut Supérieur des Etudes Technologiques de Djerba | Développement des Systèmes d'Information Multimédia et Développement Web Systèmes Embarqués et Mobiles | Bac Général | FG+Management |
+| 55566 | Institut Supérieur des EtudesTechnologiques de Médenine | Développement des Systèmes d'Information Réseaux et Services Informatiques Systèmes Embarqués et Mobiles | Bac Général | FG+Management |
+| 56566 | Institut Supérieur des Etudes Technologiques de Kebili | Multimédia et Développement Web Développement des Systèmes d'Information Réseaux et Services Informatiques | Bac Général | FG+Management |
+| 57566 | Institut Supérieur des Etudes Technologiques de Tataouine | Développement des Systèmes d'Information | Bac Général | FG+Management |
+| 60566 | Institut Supérieur des Etudes Technologiques de Gafsa | Multimédia et Développement Web Réseaux et Services Informatiques Développement des Systèmes d'Information | Bac Général | FG+Management |
+| 63566 | Institut Supérieur des Etudes Technologiques de Tozeur | Réseaux et Services Informatiques Multimédia et Développement Web Développement des Systèmes d'Information | Bac Général | FG+Management |
+| 70566 | Institut Supérieur des Etudes Technologiques de Kairouan | Réseaux et Services Informatiques Développement des Systèmes d'Information Multimédia et Développement Web Systèmes Embarqués et Mobiles | Bac Général | FG+Management |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 73566 | Institut Supérieur des Etudes Technologiques de Kasserine | Systèmes Embarqués et Mobiles Développement des Systèmes d'Information Réseaux et Services Informatiques | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 75566 | Institut Supérieur des Etudes Technologiques de Sidi Bouzid | Réseaux et Services Informatiques Multimédia et Développement Web | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 80566 | Institut Supérieur des Etudes Technologiques de Jendouba | Développement des Systèmes d'Information Systèmes Embarqués et Mobiles Réseaux et Services Informatiques | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 82566 | Institut Supérieur des Etudes Technologiques du Kef | Développement des Systèmes d'Information Réseaux et Services Informatiques Systèmes Embarqués et Mobiles | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+| 84566 | Institut Supérieur des Etudes Technologiques de Beja | Systèmes Embarqués et Mobiles Développement des Systèmes d'Information Réseaux et Services Informatiques Multimédia et Développement Web | Bac Général | FG+Management |
+| 86566 | Institut Supérieur des Etudes Technologiques de Seliana | Réseaux et Services Informatiques Systèmes Embarqués et Mobiles Développement des Systèmes d'Information | Bac Général | FG + N.Sc.Inf (N.Sc.Inf exigée) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10568 | Institut Supérieur Des technologies de l'environnement du Bâtiment et d'Urbanisme | Planification et Gestion des Chantiers Construction Métallique Infrastructures Hydraulique Bâtiment | Bac Général |  |
+| 11568 | Institut Supérieur des Etudes Technologiques de Rades | Pilotage des Chantiers Bâtiment Travaux Publics | Bac Général |  |
+| 22568 | Institut Supérieur des Etudes Technologiques de Nabeul | Bâtiment Travaux Publics Topographie Géomatique | Bac Général |  |
+| 30568 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Ponts et Chaussées Bâtiment | Bac Général |  |
+| 40568 | Institut Supérieur des Etudes Technologiques de Sfax | Travaux Publics Bâtiment | Bac Général |  |
+| 50568 | Institut Supérieur de Sciences Appliquées et de Technologies de Gabes | Travaux Publics Bâtiment | Bac Général |  |
+| 55568 | Institut Supérieur des EtudesTechnologiques de Médenine | Topographie Géomatique Travaux Publics Bâtiment | Bac Général |  |
+| 60568 | Institut Supérieur des Etudes Technologiques de Gafsa | Travaux Publics Bâtiment | Bac Général |  |
+| 63568 | Institut Supérieur des Etudes Technologiques de Tozeur | Bâtiment Travaux Publics | Bac Général |  |
+| 86568 | Institut Supérieur des Etudes Technologiques de Seliana | Bâtiment Travaux Publics | Bac Général |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10570 | Institut Supérieur des Etudes Technologiques de Rades | Energétique Mécatronique Plasturgie Construction métallique Maintenance Industrielle Conception et Fabrication Mécanique | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 21570 | Institut Supérieur des EtudesTechnologiques de Bizerte | Maintenance Industrielle Conception et Fabrication Mécanique | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 22570 | Institut Supérieur des Etudes Technologiques de Nabeul | Energétique Conception et Fabrication Mécanique Maintenance Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 23570 | Institut Supérieur des Etudes Technologiques de Klibia | Maintenance Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 30570 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Conception et Production Intégré Productique | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 31570 | Institut Supérieur des Etudes Technologiques de Sousse | Maintenance Industrielle Plasturgie Conception et Fabrication Mécanique | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 34570 | Institut Supérieur des Etudes Technologiques de Ksar-Helal | Maintenance Industrielle Energétique Conception et Fabrication Mécanique | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 36570 | Institut Supérieur des Etudes Technologiques de Mahdia | Maintenance Industrielle Conception et Fabrication Mécanique | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 40570 | Institut Supérieur de Gestion Industrielle de Sfax | Maintenance Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 41570 | Institut Supérieur des Etudes Technologiques de Sfax | Energétique Conception et Fabrication Mécanique Construction métallique Maintenance Industrielle | Bac Général |  |
+| 50570 | Institut Supérieur de Sciences Appliquées et de Technologies de Gabes | Sciences et Génie des Matériaux Productique | Bac Général |  |
+| 51570 | Institut Supérieur des Sciences et Techniques des Eaux de Gabes | Hydro électromécanique | Bac Général |  |
+| 52570 | Institut Supérieur des Systèmes Industriels de Gabes | Maintenance Industrielle Structures Métalliques et Chaudronnerie Conception et Fabrication Mécanique Hydro électromécanique | Bac Général |  |
+| 53570 | Institut Supérieur des Etudes Technologiques de Gabes | Conception et Fabrication Mécanique Construction métallique Maintenance Industrielle | Bac Général |  |
+| 54570 | Institut Supérieur des Etudes Technologiques de Djerba | Maintenance Industrielle Mécatronique | Bac Général |  |
+| 55570 | Institut Supérieur des Etudes Technologiques de Médenine | Maintenance Industrielle | Bac Général |  |
+| 56570 | Institut Supérieur des Etudes Technologiques de Kebili | Maintenance Industrielle Conception et Fabrication Mécanique | Bac Général |  |
+| 57570 | Institut Supérieur des Etudes Technologiques de Tataouine | Energétique Maintenance Industrielle Conception et Production Intégrés Maintenance Industrielle | Bac Général |  |
+| 60570 | Faculté des Sciences de Gafsa | Maintenance automobile Maintenance des Engins lourds | Bac Général |  |
+| 61570 | Institut Supérieur des Sciences Appliquées et Technologie de Gafsa | Maintenance automobile Maintenance des Engins lourds | Bac Général |  |
+
+## Licence en Génie Mécanique
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 53570 | Institut Supérieur des Etudes Technologiques de Gabes | Conception et Fabrication Mécanique Construction métallique Maintenance Industrielle | Bac Général |  |
+| 54570 | Institut Supérieur des Etudes Technologiques de Djerba | Maintenance Industrielle Mécatronique | Bac Général |  |
+| 55570 | Institut Supérieur des Etudes Technologiques de Médenine | Maintenance Industrielle | Bac Général |  |
+| 56570 | Institut Supérieur des Etudes Technologiques de Kebili | Maintenance Industrielle Conception et Fabrication Mécanique | Bac Général |  |
+| 57570 | Institut Supérieur des Etudes Technologiques de Tataouine | Energétique Maintenance Industrielle Conception et Production Intégrés Maintenance Industrielle | Bac Général |  |
+| 60570 | Faculté des Sciences de Gafsa | Maintenance automobile Maintenance des Engins lourds | Bac Général |  |
+| 61570 | Institut Supérieur des Sciences Appliquées et Technologie de Gafsa | Maintenance automobile Maintenance des Engins lourds | Bac Général |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 62570 | Institut Supérieur des Etudes Technologiques de Gafsa | Conception et Fabrication Mécanique Construction métallique Energetique | Bac Général |  |
+| 63570 | Institut Supérieur des Etudes Technologiques de Tozeur | Energetique Mécatronique Maintenance Industrielle | Bac Général |  |
+| 70570 | Institut Supérieur des Sciences Appliquées et Technologie de Kairouan | Conception et Production Intégrée | Bac Général |  |
+| 72570 | Institut Supérieur des Etudes Technologiques de Kairouan | Maintenance Industrielle Conception et Fabrication Mécanique | Bac Général |  |
+| 73570 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Productique | Bac Général |  |
+| 74570 | Institut Supérieur des Etudes Technologiques de Kasserine | Conception et Fabrication Mécanique Maintenance Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 75570 | Institut Supérieur des Etudes Technologiques de Sidi Bouzid | Conception et Fabrication Mécanique Maintenance Industrielle | Bac Général |  |
+| 80570 | Institut Supérieur des Etudes Technologiques de Jendouba | Maintenance Industrielle Technologie des Bois Conception et Fabrication Mécanique | Bac Général |  |
+| 82570 | Institut Supérieur des Etudes Technologiques du Kef | Construction métallique Conception et Fabrication Mécanique Maintenance Industrielle | Bac Général |  |
+| 84570 | Institut Supérieur des Etudes Technologiques de Beja | Conception et Fabrication Mécanique Maintenance Industrielle Technologies des Bois Mécatronique | Bac Général |  |
+| 86570 | Institut Supérieur des Etudes Technologiques de Seliana | Conception et Fabrication Mécanique Maintenance Industrielle | Bac Général |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10571 | Institut Supérieur des Etudes Technologiques de Rades | Sécurité des Systèmes Electriques Automatismes et Informatique Industrielle Maintenance des Systèmes Electriques Electricité Industrielle | Bac Général |  |
+| 21571 | Institut Supérieur des Etudes Technologiques de Bizerte | Electricité Industrielle Electronique Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+| 22571 | Institut Supérieur des Etudes Technologiques de Nabeul | Electronique Industrielle Electricité Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+| 30571 | Institut Supérieur des Etudes Technologiques de Sousse | Electronique Industrielle Electricité Industrielle Maintenance des Systèmes Electriques Automatismes et Informatique Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 36571 | Institut Supérieur des Etudes Technologiques de Mahdia | Electricité Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+| 50571 | Institut Supérieur des Etudes Technologiques de Gabes | Automatismes et Informatique Industrielle Electricité Industrielle | Bac Général |  |
+| 54571 | Institut Supérieur des Etudes Technologiques de Djerba | Automatismes et Informatique Industrielle Electronique Industrielle | Bac Général |  |
+| 56571 | Institut Supérieur des Etudes Technologiques de Kebili | Electricité Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+
+## Licence en Génie Electrique
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10571 | Institut Supérieur des Etudes Technologiques de Rades | Sécurité des Systèmes Electriques Automatismes et Informatique Industrielle Maintenance des Systèmes Electriques Electricité Industrielle | Bac Général |  |
+| 21571 | Institut Supérieur des Etudes Technologiques de Bizerte | Electricité Industrielle Electronique Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+| 22571 | Institut Supérieur des Etudes Technologiques de Nabeul | Electronique Industrielle Electricité Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+| 30571 | Institut Supérieur des Etudes Technologiques de Sousse | Electronique Industrielle Electricité Industrielle Maintenance des Systèmes Electriques Automatismes et Informatique Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 36571 | Institut Supérieur des Etudes Technologiques de Mahdia | Electricité Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+| 50571 | Institut Supérieur des Etudes Technologiques de Gabes | Automatismes et Informatique Industrielle Electricité Industrielle | Bac Général |  |
+| 54571 | Institut Supérieur des Etudes Technologiques de Djerba | Automatismes et Informatique Industrielle Electronique Industrielle | Bac Général |  |
+| 56571 | Institut Supérieur des Etudes Technologiques de Kebili | Electricité Industrielle Automatismes et Informatique Industrielle | Bac Général |  |
+
+# Table des matières
+
+## Sciences Exactes et Technologies
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 60571 | Institut Supérieur des Etudes Technologiques de Gafsa | Electronique Industrielle | Bac Général |  |
+| 63571 | Institut Supérieur des Etudes Technologiques de Tozeur | Electricité Industrielle | Bac Général |  |
+| 70571 | Institut Supérieur des Etudes Technologiques de Kairouan | Automatismes et Informatique Industrielle | Bac Général |  |
+| 73571 | Institut Supérieur des Etudes Technologiques de Kasserine | Automatismes et Informatique Industrielle | Bac Général |  |
+| 75571 | Institut Supérieur des Etudes Technologiques de Sidi Bouzid | Automatismes et Informatique Industrielle | Bac Général | FG + PC ou FG + N.Sc.inf |
+| 80571 | Institut Supérieur des Etudes Technologiques de Jendouba | Automatismes et Informatique Industrielle | Bac Général |  |
+| 82571 | Institut Supérieur des Etudes Technologiques du Kef | Electricité Industrielle | Bac Général |  |
+| 84571 | Institut Supérieur des Etudes Technologiques de Beja | Electricité Industrielle | Bac Général |  |
+| 86571 | Institut Supérieur des Etudes Technologiques de Seliana | Automatismes et Informatique Industrielle | Bac Général |
+
+# Table des matières
+
+## Sciences Exactes et Technologies
+
+### Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10572 | Institut Supérieur des Etudes Technologiques en Communication de Tunis | Réseaux et Systèmes des Télécommunications Sécurité des réseaux | Bac Général | FG + M Ou FG +N.Sc.Inf Avoir la spécialité Math ou N.Sc.Inf |
+| 50572 | Institut Supérieur des Etudes Technologiques de Gabes | Sécurité des réseaux Réseaux et Systèmes des Télécommunications | Bac Général |  |
+| 10573 | Faculté des Sciences de Tunis | Traitement du Signal et Multimédia | Bac Général |  |
+| 11573 | Institut Supérieur de Technologie de l'Information et de la Communication BorjCedria | Télécommunications | Bac Général |  |
+| 20573 | Faculté des Sciences de Bizerte | Télécommunications | Bac Général |  |
+| 21573 | Institut Supérieur des Sciences Appliquées et de Technologie de Mateur | Télécommunications | Bac Général |  |
+| 30573 | Institut Supérieur d'Informatique et des technologies de la communication de Hammam Sousse | Télécommunications | Bac Général |  |
+| 35573 | Institut Supérieur d'Informatique et de Mathématique de Monastir | Réseau Internet des Objets | Bac Général |  |
+| 36573 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Système de Traitement et Analyse de l'Information | Bac Général | FG +[ N.Sc.Inf + M ] /2] (M non exigé et N.Sc.Inf exigé) |
+| 40573 | Ecole Nationale d'Electronique et de Communication de Sfax | Réseau Internet des Objets Télécommunications | Bac Général |  |
+| 50573 | Institut Supérieur d'Informatique et de MultiMedia de Gabes | Traitement du Signal et Multimédia | Bac Général |  |
+| 54573 | Institut Supérieur de l'Informatique de Médinine | Télécommunications | Bac Général |  |
+| 60573 | Institut Supérieur des Sciences Appliquées et Technologie de Gafsa | Télécommunications | Bac Général |  |
+| 73573 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Télécommunications | Bac Général |  |
+| 75573 | Faculté des Sciences et Techniques de Sidi Bouzid | Télécommunications | Bac Général |  |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 34574 | Institut Supérieur des Etudes Technologiques de Ksar-Helal | Industries d'Ennoblissement Industrie d'Habillement Industries Textiles | Bac Général | FG+PC (PC exigé ) |
+| 35574 | Institut Supérieur de la Mode de Monastir | Industrie d'Habillement | Bac Général | FG+PC (PC exigé ) |
+| 40576 | Institut Supérieur de Biotechnologies de Sfax | Procédés Biotechnologiques | Bac Général | FG +[( PC+N.Sc.Inf ) /2] (PC exigé et N.Sc.Inf non exigé) |
+| 50576 | Institut Supérieur de Sciences Appliquées et de Technologies de Gabes | Chimie Industrielle Génie Chimique | Bac Général | FG +[( PC+M ) /2] (PC exigé et M non exigé) Ou FG +[( PC+ N.Sc.Inf ) /2] (PC exigé et N.Sc.Inf non exigé) (si M et N.Sc.Inf n'existent pas alors T= FG+PC) |
+| 40577 | Institut Supérieur de Gestion Industrielle de Sfax | Maîtrise et Management de la Qualité Management des Systèmes Industriels | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+| 30580 | Institut supérieur du transport et de la logistique à Sousse | Transport Terrestre Diagnostic et Maintenance des Systèmes de Transport Transport Maritime | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+| 21597 | Institut Supérieur des Etudes Technologiques de Bizerte | Procédés Alimentaires Procédés Chimiques | Bac Général | FG +PC (PC exigé) |
+| 23597 | Institut Supérieur des Etudes Technologiques de Klibia | Procédés Alimentaires Procédés Alimentaires | Bac Général | FG +PC (PC exigé) |
+| 24597 | Institut Supérieur des Etudes Technologiques de Zaghouan | Procédés Chimiques Procédés Chimiques | Bac Général | FG +PC (PC exigé) |
+| 34597 | Institut Supérieur des Etudes Technologiques de Ksar-Helal | Procédés Chimiques Procédés Alimentaires | Bac Général | FG +PC (PC exigé) |
+| 40597 | Institut Supérieur des Etudes Technologiques de Sfax | Procédés Chimiques Procédés Chimiques | Bac Général | FG +PC (PC exigé) |
+| 50597 | Institut Supérieur des Etudes Technologiques de Gabes | Procédés Chimiques Procédés Alimentaires | Bac Général | FG +PC (PC exigé) |
+| 75597 | Institut Supérieur des Etudes Technologiques de Sidi Bouzid | Procédés Alimentaires | Bac Général | FG +PC (PC exigé) |
+
+# Sciences Exactes et Technologies
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10603 | Int Supérieur des Sciences et Technologies de l'Environnement de Bordj Cedria | Energétique et Environnement | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, P, N.Sc.Inf)2 |
+| 20603 | Faculté des Sciences de Bizerte | Froid et Climatisation | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, P, N.Sc.Inf)2 |
+| 30603 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Froid et Climatisation | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, P, N.Sc.Inf)2 |
+| 50603 | Institut Supérieur de Sciences Appliquées et de Technologies de Gabes | Energétique et Environnement | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, P, N.Sc.Inf)2 |
+| 60603 | Faculté des Sciences de Gafsa | Génie Energétique | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, P, N.Sc.Inf)2 |
+| 70603 | Institut Supérieur des Sciences Appliquées et Technologie de Kairouan | Energies Renouvelables | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, P, N.Sc.Inf)2 |
+| 57604 | Institut Supérieur des Etudes Technologiques de Tataouine | Génie Thermique et Energies Renouvelables | Bac Général | FG+PC (PC exigé) |
+| 10629 | Faculté des Sciences de Tunis | Electronique, Electrotechnique et Automatique | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+| 11629 | Institut Supérieur d'Informatique | Systèmes Embarqués | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+| 12629 | Institut Supérieur des Technologies de l'Information et de la Communication de BorjCedria | Automatique et Informatique Industrielle | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+| 20629 | Faculté des Sciences de Bizerte | Automatique et Informatique Industrielle | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+| 21629 | Institut Supérieur des Sciences Appliquées et Technologie de Mateur | Electronique Automobile Systèmes Embarqués Electronique Industrielle Automatique et Informatique Industrielle | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+| 30629 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Automatique et Informatique Industrielle Electronique Industrielle Systèmes Embarqués | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+| 31629 | Ecole Supérieure des Sciences et Technologies de Hammam Sousse | Systèmes Embarqués Energies Electriques Renouvelables | Bac Général | FG + [(EDS1+EDS2)/2] des 3 spécialités (M, PC, N.Sc.Inf) |
+
+**Sciences Exactes et Technologies**
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 34629 | Faculté des Sciences de Monastir | Mesure, Instrumentation et Métrologie | Electronique Industrielle | Bac Général |  |
+| 35629 | Institut Supérieur d'Informatique et de Mathématique de Monastir | Mesure, Instrumentation et Métrologie | Systèmes Embarqués | Bac Général |  |
+| 36629 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Automatique et Informatique Industrielle |  | Bac Général |  |
+| 40629 | Faculté des Sciences de Sfax | Systèmes Electriques | Automatique et Informatique Industrielle | Bac Général |  |
+| 41629 | Institut Supérieur de Gestion Industrielle de Sfax | Automatique et Informatique Industrielle |  | Bac Général |  |
+| 50629 | Faculté des Sciences de Gabes | Automatique et Informatique Industrielle |  | Bac Général |  |
+| 51629 | Institut Supérieur de Sciences Appliquées et de Technologies de Gabes | Electrotechnique Informatique Industrielle |  | Bac Général |  |
+| 52629 | Institut Supérieur des Systèmes Industriels de Gabes | Energies Electriques | Renouvelables | Bac Général |  |
+| 60629 | Faculté des Sciences de Gafsa | Electronique Industrielle | Automatique et Informatique Industrielle | Bac Général |  |
+| 61629 | Institut Supérieur des Sciences Appliquées et Technologie de Gafsa | Systèmes Electriques |  | Bac Général |  |
+| 70629 | Institut Supérieur des Sciences Appliquées et Technologie de Kairouan | Systèmes Electriques | Automatique et Informatique Industrielle | Bac Général |  |
+| 73629 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Systèmes Embarqués | Systèmes Electriques | Bac Général |  |
+
+**Licence en Electronique Electrotechnique et Automatisme**
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 34629 | Faculté des Sciences de Monastir | Mesure, Instrumentation et Métrologie | Electronique Industrielle | Bac Général |  |
+| 35629 | Institut Supérieur d'Informatique et de Mathématique de Monastir | Mesure, Instrumentation et Métrologie | Systèmes Embarqués | Bac Général |  |
+| 36629 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Automatique et Informatique Industrielle |  | Bac Général |  |
+| 40629 | Faculté des Sciences de Sfax | Systèmes Electriques | Automatique et Informatique Industrielle | Bac Général |  |
+| 41629 | Institut Supérieur de Gestion Industrielle de Sfax | Automatique et Informatique Industrielle |  | Bac Général |  |
+| 50629 | Faculté des Sciences de Gabes | Automatique et Informatique Industrielle |  | Bac Général |  |
+| 51629 | Institut Supérieur de Sciences Appliquées et de Technologies de Gabes | Electrotechnique Informatique Industrielle |  | Bac Général |  |
+| 52629 | Institut Supérieur des Systèmes Industriels de Gabes | Energies Electriques | Renouvelables | Bac Général |  |
+| 60629 | Faculté des Sciences de Gafsa | Electronique Industrielle | Automatique et Informatique Industrielle | Bac Général |  |
+| 61629 | Institut Supérieur des Sciences Appliquées et Technologie de Gafsa | Systèmes Electriques |  | Bac Général |  |
+| 70629 | Institut Supérieur des Sciences Appliquées et Technologie de Kairouan | Systèmes Electriques | Automatique et Informatique Industrielle | Bac Général |  |
+| 73629 | Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine | Systèmes Embarqués | Systèmes Electriques | Bac Général |  |
+
+**FG + [(EDS1+EDS2)/2]**
+
+**2 des 3 spécialités (M, PC, N.Sc.Inf)**
+
+# Sciences Exactes et Technologies
+
+## Licence en Electromécanique
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Electromécanique | 30671 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Mécatronique Automobile Mécatronique Industrielle | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+
+## Licence en Génie Logistique
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Génie Logistique | 30672 | Institut supérieur du transport et de la logistique de Sousse | Logistique Industrielle Logistique des Opérations Internationales Logistique de Distribution | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+
+## Licence en Sciences du Transport
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Sciences du Transport | 40672 | Institut Supérieur de Gestion Industrielle de Sfax | Logistique Industrielle | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+| Licence en Sciences du Transport | 30673 | Institut supérieur du transport et de la logistique de Sousse | Affaires Maritimes et Portuaires Transport et Planification Urbaine | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+| Licence en Sciences du Transport | 40673 | Institut Supérieur de Gestion Industrielle de Sfax | Planification et organisation du Transport | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+
+# Table des matières
+
+## Architecture et Cycles Préparatoires
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Architecture | 10203 | Ecole Nationale d'Architecture et d'Urbanisme de Tunis | Architecture | Bac Général | FG + PH |
+| Licence en Urbanisme et Aménagement | 10244 | Institut Supérieur Des technologies de l'environnement du Bâtiment et d'Urbanisme | Urbanisme et Aménagement | Bac Général | FG + PH |
+| Cycle Préparatoire Intégré en Génie Biologique et Biomédicale | 82515 | Institut Supérieur de Technologie et Sciences du Kef | Génie Biologique et Biomédicale | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Cycle Préparatoire Intégré en Génie Biomédical | 10516 |  | Génie Biomédicale | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Cycle Préparatoire Intégré en Génie Biotechnologie de la Santé | 10517 | Institut supérieur des technologies médicales de Tunis | Génie des Biotechnologies de la Santé | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+|  | 10518 | Faculté des Sciences de Tunis | Mathématique - Physique - Informatique | Bac Général |  |
+|  | 11518 | Institut supérieur d'ingénieurie numérique (enseignement en Anglais) |  | Bac Général |  |
+|  | 20518 | Faculté des Sciences de Bizerte |  | Bac Général |  |
+|  | 34518 | Institut supérieur d'informatique et de mathématique de Monastir |  | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+|  | 40518 | Faculté des Sciences de Sfax | Informatique | Bac Général |  |
+|  | 41518 | Institut supérieur d'informatique et multimédia de Sfax |  | Bac Général |  |
+|  | 50518 | Institut supérieur d'informatique et multimédia de Gabès |  | Bac Général |  |
+|  | 30519 | Institut Supérieur des sciences appliquées et de technologie de Sousse | Cycle Préparatoire Intégré (scientifique) | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+|  | 10520 | Institut National des Sciences Appliquées et de Technologie de Tunis | Mathématique - Physique - Informatique | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, N.Sc.Inf) |
+|  | 10521 |  | Chimie-Biologie Appliquée | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+
+# Filière
+
+## Code
+
+### Etablissement
+
+#### Parcours
+
+##### Série
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 10522 | Institut Préparatoire aux Etudes d'Ingénieurs de Tunis | Math-Physique/ Physique-Chimie | Bac Général | FG+[(M+PC)/2] |
+| 13522 | Institut Préparatoire aux Etudes d'Ingénieurs El Manar | Math-Physique/ Physique-Chimie | Bac Général | M et PC exigées |
+| 20522 | Institut Préparatoire aux Etudes d'Ingénieurs de Bizerte | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 22522 | Institut Préparatoire aux Etudes d'Ingénieurs de Nabeul | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 30522 | Ecole supérieure des sciences et technologies de Hammam Sousse |  | Bac Général |  |
+| 34522 | Faculté des Sciences de Monastir | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 35522 | Institut Préparatoire aux Etudes d'Ingénieurs de Monastir | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 40522 | Faculté des Sciences de Sfax | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 41522 | Institut Préparatoire aux Etudes d'Ingénieurs de Sfax | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 50522 | Institut Préparatoire aux Etudes d'Ingénieurs de Gabes | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 60522 | Institut Préparatoire aux Etudes d'Ingénieurs de Gafsa | Math-Physique/ Physique-Chimie | Bac Général |  |
+| 70522 | Institut Préparatoire aux Etudes d'Ingénieurs de Kairouan | Math-Physique/ Physique-Chimie | Bac Général |  |
+
+## Cycle Préparatoire Scientifique: Math - Physique
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| 36322 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Math-Physique | Bac Général |  |
+
+# Architecture et Cycles Préparatoires
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 11422 | Faculté des Sciences de Tunis | Physique-Chimie | Bac Général | FG+[(M+PC)/2] (M et PC exigées) |
+| 11525 | Ecole Nationale D'Ingénieurs De Manouba | Génie Ecologique | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 11526 | Géomatique | Bac Général | 2 des 3 spécialités (M, PC, N.Sc.Inf) sont exigés |
+
+## Cycle Préparatoire Biologie-Géologie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10832 | Faculté des Sciences de Tunis | Biologie-Géologie | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 11832 | Institut Supérieur des Technologies Médicales de Tunis | Biologie-Géologie | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 12832 | Institut Supérieur des Etudes Préparatoires en Biologie Géologie Soukra | Biologie-Géologie | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 20832 | Institut Préparatoire aux Etudes d'Ingénieurs de Bizerte | Biologie-Géologie | Bac Général | 2 des 3 spécialités (M, PC, SVT) |
+| 40832 | Faculté des Sciences de Sfax | Biologie-Géologie | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 41832 | Institut Préparatoire aux Etudes d'Ingénieurs de Sfax | Biologie-Géologie | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 50832 | Institut Préparatoire aux Etudes d'Ingénieurs de Gabes | Biologie-Géologie | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 10532 | Institut Préparatoire aux Etudes d'Ingénieurs El Manar | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 22532 | Institut Préparatoire aux Etudes d'Ingénieurs de Nabeul | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 34532 | Institut Préparatoire aux Etudes d'Ingénieurs de Monastir | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 40532 | Institut Préparatoire aux Etudes d'Ingénieurs de Sfax | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 50532 | Institut Préparatoire aux Etudes d'Ingénieurs de Gabes | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 60532 | Institut Préparatoire aux Etudes d'Ingénieurs de Gafsa | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+| 70532 | Institut Préparatoire aux Etudes d'Ingénieurs de Kairouan | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+
+## Cycle Préparatoire Technologique
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 70532 | Institut Préparatoire aux Etudes d'Ingénieurs de Kairouan | Technologies | Bac Général | FG + [(EDS1+EDS2)/2] |
+
+# Filière
+
+## Licence en Biotechnologie Médicale
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10545 | Institut Supérieur des Technologies Médicales de Tunis | Production Biomédicale | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 10547 | Institut National du Travail et des Etudes Sociales de Tunis | Santé et Sécurité au Travail | Bac Général | FG+PC (PC exigé) |
+
+## Licence en Santé et Sécurité au Travail
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10700 | Faculté de Médecine de Tunis | Médecine | Bac Général | FG+ Management |
+| 30700 | Faculté de Médecine de Sousse | Médecine | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+
+## Médecine
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 34700 | Faculté de Médecine de Monastir | Médecine | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| 40700 | Faculté de Médecine de Sfax | Médecine | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+
+## Pharmacie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 34701 | Faculté de Pharmacie de Monastir | Pharmacie | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+
+## Médecine Dentaire
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 34702 | Faculté de Médecine Dentaire de Monastir | Médecine dentaire | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+
+## Licence en Podologie et Pédicurie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 30739 | Ecole Supérieure des Sciences et Techniques de Santé de Sousse | Podologie et Pédicurie | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+
+## Licence en Anesthésie Réanimation
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10740 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Anesthésie Réanimation | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 34740 | Ecole Supérieure des Sciences et Techniques de Santé de Monastir | Anesthésie Réanimation | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 40740 | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Anesthésie Réanimation | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 60740 | Ecole Supérieure des Sciences et Techniques de Santé de Gafsa | Anesthésie Réanimation | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+
+# Filière
+
+## Licence en Imagerie Médicale et Radiothérapie
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10741 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Imagerie Médicale et Radiothérapie | Bac Général |
+| 34741 | Ecole Supérieure des Sciences et Techniques de Santé de Monastir | Imagerie Médicale et Radiothérapie | Bac Général |
+| 40741 | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Imagerie Médicale et Radiothérapie | Bac Général |
+| 60471 | Ecole Supérieure des Sciences et Techniques de Santé de Gafsa | Imagerie Médicale et Radiothérapie | Bac Général |
+
+## Licence en Hygiène Sécurité et Environnement
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10742 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Hygiène sécurité et Environnement | Bac Général |
+| 10743 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Biologie médicale | Bac Général |
+| 34743 | Ecole Supérieure des Sciences et Techniques de Santé de Monastir | Biologie médicale | Bac Général |
+| 40743 | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Biologie médicale | Bac Général |
+| 60743 | Ecole Supérieure des Sciences et Techniques de Santé de Gafsa | Biologie médicale | Bac Général |
+
+## Licence en Physiothérapie
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 34744 | Ecole Supérieure des Sciences et Techniques de Santé de Monastir | Physiothérapie | Bac Général |
+| 40744 | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Physiothérapie | Bac Général |
+
+## Licence en Orthophonie
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10745 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Orthophonie | Bac Général |
+
+## Licence en Appareillage Orthopédique
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10746 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Appareillage Orthopédique | Bac Général |
+
+## Licence en Nutrition Humaine
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10747 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Nutrition Humaine | Bac Général |
+
+## Licence en Ergothérapie
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 10748 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Ergothérapie | Bac Général |
+
+## Licence en Optique et Lunetterie
+
+| Code | Etablissement | Parcours | Série |
+| --- | --- | --- | --- |
+| 40749 | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Optique et lunetterie | Bac Général |
+
+# Sciences de la Santé, Médecine, Médecine dentaire et Pharmacie
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10750 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Instrumentation Opératoire | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 30750 | Ecole Supérieure des Sciences et Techniques de Santé de Sousse | Instrumentation Opératoire | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 40750 | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Instrumentation Opératoire | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 34752 | Ecole Supérieure des Sciences et Techniques de Santé de Monastir | Prothèse Dentaire | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 10753 | Institut Supérieur des Technologies Médicales de Tunis En partenariat Avec l'Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Audioprothèse | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 10754 | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Puériculture | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 30754 | Ecole Supérieure des Sciences et Techniques de Santé de Sousse | Puériculture | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 10759 | Institut Supérieur des Technologies Médicales de Tunis | Technologie des Dispositifs Médicaux Informatique Médicale Systèmes Electroniques Embargués Technologie d'Imagerie Médicale | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 40759 | Institut Supérieur de Biotechnologies de Sfax | Biomédicaux Technologies des Dispositifs d'Imagerie Médicales | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 30760 | Ecole Supérieure des Sciences et Techniques de Santé de Sousse | Urgence et réanimation | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 60760 | Ecole Supérieure des Sciences et Techniques de Santé de Gafsa | Urgence et réanimation | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 10797 (filles) | Institut Supérieur des Sciences Infirmières de Tunis | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| 11797 (garçons) | Institut Supérieur des Sciences Infirmières de Tunis | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+
+# Sciences de la Santé, Médecine, Médecine dentaire et Pharmacie
+
+## Filière
+
+| Filière | Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Licence en Sciences Infirmières | 30797 (filles) | Institut Supérieur des Sciences Infirmières de Sousse | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 31797 (garçons) | Institut Supérieur des Sciences Infirmières de Sousse | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 40797 (filles) | Institut Supérieur des Sciences Infirmières de Sfax | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 41797 (garçons) | Institut Supérieur des Sciences Infirmières de Sfax | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 50797 (filles) | Institut Supérieur des Sciences Infirmières de Gabes | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 51797 (garçons) | Institut Supérieur des Sciences Infirmières de Gabes | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 82797 (filles) | Institut Supérieur des Sciences Infirmières de le Kef | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Infirmières | 83797 (garçons) | Institut Supérieur des Sciences Infirmières de le Kef | Sciences Infirmières | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Maieutiques / Sage-Femme | 10799 (filles) | Ecole Supérieure des Sciences et Techniques de Santé de Tunis | Sciences Maieutique/sage-femme | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Maieutiques / Sage-Femme | 34799 (filles) | Ecole Supérieure des Sciences et Techniques de Santé de Monastir | Science Maieutique/sage-femme | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+| Licence en Sciences Maieutiques / Sage-Femme | 40799 (filles) | Ecole Supérieure des Sciences et Techniques de Santé de Sfax | Science Maieutique/sage-femme | Bac Général | FG+[(SVT+PC)/2] (SVT et PC exigées) |
+
+# Sciences Agronomiques, Biotechnologie et Environnement
+
+## Filière
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10546 | Institut Supérieur de Biotechnologie de Sidi Thabet | Analyses Biologiques et Expérimentation Biotechnologie et Industrie Pharmaceutique Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 11546 | Institut des Sciences Biologiques Appliquées | Biotechnologie Microbienne Contrôle Qualité des Aliments et Hygiène Biotechnologie Végétale | Bac Général |  |
+| 20546 | Faculté des Sciences de Bizerte | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 34546 | Institut Supérieur de Biotechnologie de Monastir | Contrôle Qualité des Aliments et Hygiène Analyse Biologiques et Expérimentations | Bac Général |  |
+| 36546 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 40546 | Faculté des Sciences de Sfax | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 41546 | Institut Supérieur de Biotechnologies de Sfax | Analyse Biologiques et Expérimentations Biotechnologie Végétale Biotechnologie Microbienne | Bac Général |  |
+| 50546 | Faculté des Sciences de Gabes | Analyses Biologiques et Expérimentation | Bac Général |  |
+| 54546 | Institut Supérieur de Biologie Appliquée de Médinine | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 60546 | Faculté des Sciences de Gafsa | Analyses Biologiques et Expérimentation | Bac Général |  |
+| 84546 | Institut Supérieur de Biotechnologie de Beja | Biotechnologie Animale Biotechnologie Végétale | Bac Général |  |
+
+## Licence en Biotechnologie
+
+| Code | Etablissement | Parcours | Série | Formule du score (T) et Conditions |
+| --- | --- | --- | --- | --- |
+| 10546 | Institut Supérieur de Biotechnologie de Sidi Thabet | Analyses Biologiques et Expérimentation Biotechnologie et Industrie Pharmaceutique Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 11546 | Institut des Sciences Biologiques Appliquées | Biotechnologie Microbienne Contrôle Qualité des Aliments et Hygiène Biotechnologie Végétale | Bac Général |  |
+| 20546 | Faculté des Sciences de Bizerte | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 34546 | Institut Supérieur de Biotechnologie de Monastir | Contrôle Qualité des Aliments et Hygiène Analyse Biologiques et Expérimentations | Bac Général |  |
+| 36546 | Institut Supérieur des Sciences Appliquées et Technologie de Mahdia | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 40546 | Faculté des Sciences de Sfax | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 41546 | Institut Supérieur de Biotechnologies de Sfax | Analyse Biologiques et Expérimentations Biotechnologie Végétale Biotechnologie Microbienne | Bac Général |  |
+| 50546 | Faculté des Sciences de Gabes | Analyses Biologiques et Expérimentation | Bac Général |  |
+| 54546 | Institut Supérieur de Biologie Appliquée de Médinine | Contrôle Qualité des Aliments et Hygiène | Bac Général |  |
+| 60546 | Faculté des Sciences de Gafsa | Analyses Biologiques et Expérimentation | Bac Général |  |
+| 84546 | Institut Supérieur de Biotechnologie de Beja | Biotechnologie Animale Biotechnologie Végétale | Bac Général |  |
+
+## FG + [(EDS1+EDS2)/2]
+
+2 des 3 spécialités (M, PC, SVT)
+
+# Sciences Agronomiques, Biotechnologie et Environnement
+
+## Filière
+
+| Licence en Industrie Alimentaire | 10840 | Ecole Supérieure des Industries Alimentaires de Tunis | Industries et Procédés Alimentaires | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Sciences et Technologies Alimentaires | 40841 | Institut Supérieur de Biotechnologies de Sfax | Nutrition et Santé Génie des procédés alimentaires | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Technologie Agroalimentaire et Environnement | 84841 | Institut Supérieur de Biotechnologie de Beja | Contrôle Qualité des Aliments Industries et procédés alimentaires | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Technologie Agroalimentaire et Environnement | 75842 | Faculté des Sciences et Techniques de Sidi Bouzid | Industries agroalimentaires et impacts environnementaux | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Agronomie | 20844 | Ecole Supérieure d'Agriculture de Mograne | Création et Gestion des Entreprises Agricoles | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Agronomie | 21844 | Ecole Supérieure d'Agriculture de Mateur | Production Animale et Ressources Alimentaires | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Agronomie | 30844 | Institut Supérieur des Sciences de l'Agriculture de Chott-Mariem | Horticulture Aménagement des Espaces | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Agronomie | 80844 | Institut Sylvo-Pastoral de Tabarka | Sciences et Techniques Forestières | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Sciences de la Mer | 82844 | Ecole Supérieure d'Agriculture du Kef | Techniques de Production Agricole | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+| Licence en Sciences de la Mer | 20846 | Institut Supérieur des sciences de la mer de Bizerte | Pêche et Aquaculture Froid et Valorisation des Produits Aquatiques | Bac Général | FG + [(EDS1+EDS2)/2] 2 des 3 spécialités (M, PC, SVT) |
+

@@ -6,3 +6,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+nvidia_env/
+arabic_page_cache/
+arabe_page_cache/
+page_cache/
